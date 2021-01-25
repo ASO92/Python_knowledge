@@ -1,0 +1,2 @@
+In 'r+' mode, the cursor is initially at the start of the file
+What does writing in 'a+' do?
