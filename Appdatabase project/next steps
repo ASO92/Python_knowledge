@@ -1,0 +1,23 @@
+Tasks
+- Un json con toda la metadata, incluida la flag de activo o no y nuestra key personal para el ticker tipo "AIR.PA.TT"
+- Un csv por cada data asociada a los tickers. El csv se va a llamar según nuestra key interna
+- Sin estructura de carpetas, todo plano. Debe ser la TT la que se encarge de clasificarlos según el .json
+
+Subtasks
+- Añadir metodo para incluir ticker_key dentro de la clase tickermanager_wiki. OK
+- Añadir metodo flag activo/no activo. OK
+- metodo para guardar archivo de configuración de tickers: tickers_config = metadata(fecha) + tickers_list. OK
+- metodo UPDATE_TICKERS_CONFIG, dentro de Tickermanager(base) para comparar archivo de configuracion antiguo y nuevo, cambiando flags y reportando cambios.
+    - 1.- Cargar archivo de config antiguo. Si no existe, se crea uno por primera vez y se omiten los demás pasos.
+    - 2.- Hacer loop sobre antiguo o nuevo ? -> Sobre antiguo porque hay que poner en flag = False las que no estén en el nuevo. 
+            - Hacer de la nueva lista un stack? USar el concepto de stack?
+        # FIX ha que evitar el doblel loop.
+    - 3.- En este loop hay if statemens:
+        3.1.-
+        3.2.-
+
+- nueva clase data_manager(base), cuyo input es el tickers_config
+    - método: descargar e
+    - 
+- sublcase data_manager_Yahoo_Finance
+    - métodos: el número mínimo de métodos, que sean específicos, el resto van a la clase padre.

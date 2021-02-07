@@ -1,5 +1,8 @@
 [
     {
+        "timestamp": "06/02/2021 09:49:22"
+    },
+    {
         "ticker": "ANA",
         "company": "Acciona",
         "sector": "Construcci\u00f3n",
@@ -7,6 +10,7 @@
         "ISIN": "ES0125220311",
         "market": "IBEX35",
         "active_type": "stock",
+        "tickerKey": "ANA.MC.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ANA.MC"
@@ -20,6 +24,7 @@
         "ISIN": "ES0132105018",
         "market": "IBEX35",
         "active_type": "stock",
+        "tickerKey": "ACX.MC.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ACX.MC"
@@ -33,6 +38,7 @@
         "ISIN": "ES0167050915",
         "market": "IBEX35",
         "active_type": "stock",
+        "tickerKey": "ACS.MC.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ACS.MC"
@@ -46,6 +52,7 @@
         "ISIN": "ES0105046009",
         "market": "IBEX35",
         "active_type": "stock",
+        "tickerKey": "AENA.MC.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "AENA.MC"
@@ -59,6 +66,7 @@
         "ISIN": "ES0157097017",
         "market": "IBEX35",
         "active_type": "stock",
+        "tickerKey": "ALM.MC.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ALM.MC"
@@ -72,6 +80,7 @@
         "ISIN": "ES0109067019",
         "market": "IBEX35",
         "active_type": "stock",
+        "tickerKey": "AMS.MC.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "AMS.MC"
@@ -85,6 +94,7 @@
         "ISIN": "LU1598757687",
         "market": "IBEX35",
         "active_type": "stock",
+        "tickerKey": "MTS.MC.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MTS.MC"
@@ -98,6 +108,7 @@
         "ISIN": "ES0113860A34",
         "market": "IBEX35",
         "active_type": "stock",
+        "tickerKey": "SAB.MC.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "SAB.MC"
@@ -111,6 +122,7 @@
         "ISIN": "ES0113900J37",
         "market": "IBEX35",
         "active_type": "stock",
+        "tickerKey": "SAN.MC.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "SAN.MC"
@@ -124,6 +136,7 @@
         "ISIN": "ES0113307062",
         "market": "IBEX35",
         "active_type": "stock",
+        "tickerKey": "BKIA.MC.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "BKIA.MC"
@@ -137,6 +150,7 @@
         "ISIN": "ES0113679I37",
         "market": "IBEX35",
         "active_type": "stock",
+        "tickerKey": "BKT.MC.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "BKT.MC"
@@ -150,6 +164,7 @@
         "ISIN": "ES0113211835",
         "market": "IBEX35",
         "active_type": "stock",
+        "tickerKey": "BBVA.MC.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "BBVA.MC"
@@ -163,6 +178,7 @@
         "ISIN": "ES0140609019",
         "market": "IBEX35",
         "active_type": "stock",
+        "tickerKey": "CABK.MC.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CABK.MC"
@@ -176,6 +192,7 @@
         "ISIN": "ES0105066007",
         "market": "IBEX35",
         "active_type": "stock",
+        "tickerKey": "CLNX.MC.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CLNX.MC"
@@ -189,6 +206,7 @@
         "ISIN": "ES0105630315",
         "market": "IBEX35",
         "active_type": "stock",
+        "tickerKey": "CIE.MC.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CIE.MC"
@@ -202,6 +220,7 @@
         "ISIN": "ES0130960018",
         "market": "IBEX35",
         "active_type": "stock",
+        "tickerKey": "ENG.MC.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ENG.MC"
@@ -215,6 +234,7 @@
         "ISIN": "ES0130670112",
         "market": "IBEX35",
         "active_type": "stock",
+        "tickerKey": "ELE.MC.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ELE.MC"
@@ -228,6 +248,7 @@
         "ISIN": "ES0118900010",
         "market": "IBEX35",
         "active_type": "stock",
+        "tickerKey": "FER.MC.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "FER.MC"
@@ -241,6 +262,7 @@
         "ISIN": "ES0171996087",
         "market": "IBEX35",
         "active_type": "stock",
+        "tickerKey": "GRF.MC.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "GRF.MC"
@@ -254,6 +276,7 @@
         "ISIN": "ES0177542018",
         "market": "IBEX35",
         "active_type": "stock",
+        "tickerKey": "IAG.MC.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "IAG.MC"
@@ -267,6 +290,7 @@
         "ISIN": "ES0144580Y14",
         "market": "IBEX35",
         "active_type": "stock",
+        "tickerKey": "IBE.MC.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "IBE.MC"
@@ -280,6 +304,7 @@
         "ISIN": "ES0148396007",
         "market": "IBEX35",
         "active_type": "stock",
+        "tickerKey": "ITX.MC.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ITX.MC"
@@ -293,6 +318,7 @@
         "ISIN": "ES0118594417",
         "market": "IBEX35",
         "active_type": "stock",
+        "tickerKey": "IDR.MC.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "IDR.MC"
@@ -306,6 +332,7 @@
         "ISIN": "ES0139140174",
         "market": "IBEX35",
         "active_type": "stock",
+        "tickerKey": "COL.MC.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "COL.MC"
@@ -319,6 +346,7 @@
         "ISIN": "ES0124244E34",
         "market": "IBEX35",
         "active_type": "stock",
+        "tickerKey": "MAP.MC.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MAP.MC"
@@ -332,6 +360,7 @@
         "ISIN": "ES0176252718",
         "market": "IBEX35",
         "active_type": "stock",
+        "tickerKey": "MEL.MC.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MEL.MC"
@@ -345,6 +374,7 @@
         "ISIN": "ES0105025003",
         "market": "IBEX35",
         "active_type": "stock",
+        "tickerKey": "MRL.MC.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MRL.MC"
@@ -358,6 +388,7 @@
         "ISIN": "ES0116870314",
         "market": "IBEX35",
         "active_type": "stock",
+        "tickerKey": "NTGY.MC.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "NTGY.MC"
@@ -371,6 +402,7 @@
         "ISIN": "ES0169501022",
         "market": "IBEX35",
         "active_type": "stock",
+        "tickerKey": "PHM.MC.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "PHM.MC"
@@ -384,6 +416,7 @@
         "ISIN": "ES0173093024",
         "market": "IBEX35",
         "active_type": "stock",
+        "tickerKey": "REE.MC.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "REE.MC"
@@ -397,6 +430,7 @@
         "ISIN": "ES0173516115",
         "market": "IBEX35",
         "active_type": "stock",
+        "tickerKey": "REP.MC.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "REP.MC"
@@ -410,6 +444,7 @@
         "ISIN": "ES0143416115",
         "market": "IBEX35",
         "active_type": "stock",
+        "tickerKey": "SGRE.MC.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "SGRE.MC"
@@ -423,6 +458,7 @@
         "ISIN": "ES0165386014",
         "market": "IBEX35",
         "active_type": "stock",
+        "tickerKey": "SLR.MC.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "SLR.MC"
@@ -436,6 +472,7 @@
         "ISIN": "ES0178430E18",
         "market": "IBEX35",
         "active_type": "stock",
+        "tickerKey": "TEF.MC.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "TEF.MC"
@@ -449,6 +486,7 @@
         "ISIN": "ES0184262212",
         "market": "IBEX35",
         "active_type": "stock",
+        "tickerKey": "VIS.MC.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "VIS.MC"
@@ -458,6 +496,7 @@
         "ticker": "IBEX35",
         "market": "IBEX35",
         "active_type": "ETF",
+        "tickerKey": "^IBEX",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "^IBEX"
@@ -470,6 +509,7 @@
         "entry_date": "22.\u00a0Juni 1998",
         "market": "DAX30",
         "active_type": "stock",
+        "tickerKey": "ADS.DE.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ADS.DE"
@@ -482,6 +522,7 @@
         "entry_date": "1.\u00a0Juli 1988",
         "market": "DAX30",
         "active_type": "stock",
+        "tickerKey": "ALV.DE.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ALV.DE"
@@ -494,6 +535,7 @@
         "entry_date": "1.\u00a0Juli 1988",
         "market": "DAX30",
         "active_type": "stock",
+        "tickerKey": "BAS.DE.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "BAS.DE"
@@ -506,6 +548,7 @@
         "entry_date": "1.\u00a0Juli 1988",
         "market": "DAX30",
         "active_type": "stock",
+        "tickerKey": "BAYN.DE.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "BAYN.DE"
@@ -518,6 +561,7 @@
         "entry_date": "22.\u00a0Dez. 2008",
         "market": "DAX30",
         "active_type": "stock",
+        "tickerKey": "BEI.DE.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "BEI.DE"
@@ -530,6 +574,7 @@
         "entry_date": "1.\u00a0Juli 1988",
         "market": "DAX30",
         "active_type": "stock",
+        "tickerKey": "BMW.DE.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "BMW.DE"
@@ -542,6 +587,7 @@
         "entry_date": "24.\u00a0Sep. 2012",
         "market": "DAX30",
         "active_type": "stock",
+        "tickerKey": "CON.DE.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CON.DE"
@@ -554,6 +600,7 @@
         "entry_date": "19.\u00a0M\u00e4rz 2018",
         "market": "DAX30",
         "active_type": "stock",
+        "tickerKey": "1COV.DE.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "1COV.DE"
@@ -566,6 +613,7 @@
         "entry_date": "21.\u00a0Dez. 19981",
         "market": "DAX30",
         "active_type": "stock",
+        "tickerKey": "DAI.DE.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "DAI.DE"
@@ -578,6 +626,7 @@
         "entry_date": "24.\u00a0Aug. 2020",
         "market": "DAX30",
         "active_type": "stock",
+        "tickerKey": "DHER.DE.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "DHER.DE"
@@ -590,6 +639,7 @@
         "entry_date": "1.\u00a0Juli 1988",
         "market": "DAX30",
         "active_type": "stock",
+        "tickerKey": "DBK.DE.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "DBK.DE"
@@ -602,6 +652,7 @@
         "entry_date": "23.\u00a0Dez. 2002",
         "market": "DAX30",
         "active_type": "stock",
+        "tickerKey": "DB1.DE.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "DB1.DE"
@@ -614,6 +665,7 @@
         "entry_date": "19.\u00a0M\u00e4rz 2001",
         "market": "DAX30",
         "active_type": "stock",
+        "tickerKey": "DPW.DE.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "DPW.DE"
@@ -626,6 +678,7 @@
         "entry_date": "18.\u00a0Nov. 1996",
         "market": "DAX30",
         "active_type": "stock",
+        "tickerKey": "DTE.DE.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "DTE.DE"
@@ -638,6 +691,7 @@
         "entry_date": "22.\u00a0Juni 2020",
         "market": "DAX30",
         "active_type": "stock",
+        "tickerKey": "DWNI.DE.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "DWNI.DE"
@@ -650,6 +704,7 @@
         "entry_date": "19.\u00a0Juni 20001",
         "market": "DAX30",
         "active_type": "stock",
+        "tickerKey": "EOAN.DE.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "EOAN.DE"
@@ -662,6 +717,7 @@
         "entry_date": "23.\u00a0M\u00e4rz 2009",
         "market": "DAX30",
         "active_type": "stock",
+        "tickerKey": "FRE.DE.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "FRE.DE"
@@ -674,6 +730,7 @@
         "entry_date": "20.\u00a0Sep. 1999",
         "market": "DAX30",
         "active_type": "stock",
+        "tickerKey": "FME.DE.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "FME.DE"
@@ -686,6 +743,7 @@
         "entry_date": "21.\u00a0Juni 2010",
         "market": "DAX30",
         "active_type": "stock",
+        "tickerKey": "HEI.DE.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "HEI.DE"
@@ -698,6 +756,7 @@
         "entry_date": "1.\u00a0Juli 1988",
         "market": "DAX30",
         "active_type": "stock",
+        "tickerKey": "HEN3.DE.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "HEN3.DE"
@@ -710,6 +769,7 @@
         "entry_date": "21.\u00a0Sep. 2009",
         "market": "DAX30",
         "active_type": "stock",
+        "tickerKey": "IFX.DE.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "IFX.DE"
@@ -722,6 +782,7 @@
         "entry_date": "1.\u00a0Juli 1988",
         "market": "DAX30",
         "active_type": "stock",
+        "tickerKey": "LIN.DE.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "LIN.DE"
@@ -734,6 +795,7 @@
         "entry_date": "18.\u00a0Juni 2007",
         "market": "DAX30",
         "active_type": "stock",
+        "tickerKey": "MRK.DE.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MRK.DE"
@@ -746,6 +808,7 @@
         "entry_date": "23.\u00a0Sep. 2019",
         "market": "DAX30",
         "active_type": "stock",
+        "tickerKey": "MTX.DE.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MTX.DE"
@@ -758,6 +821,7 @@
         "entry_date": "23.\u00a0Sep. 1996",
         "market": "DAX30",
         "active_type": "stock",
+        "tickerKey": "MUV2.DE.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MUV2.DE"
@@ -770,6 +834,7 @@
         "entry_date": "1.\u00a0Juli 1988",
         "market": "DAX30",
         "active_type": "stock",
+        "tickerKey": "RWE.DE.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "RWE.DE"
@@ -782,6 +847,7 @@
         "entry_date": "18.\u00a0Sep. 1995",
         "market": "DAX30",
         "active_type": "stock",
+        "tickerKey": "SAP.DE.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "SAP.DE"
@@ -794,6 +860,7 @@
         "entry_date": "1.\u00a0Juli 1988",
         "market": "DAX30",
         "active_type": "stock",
+        "tickerKey": "SIE.DE.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "SIE.DE"
@@ -806,6 +873,7 @@
         "entry_date": "1.\u00a0Juli 1988",
         "market": "DAX30",
         "active_type": "stock",
+        "tickerKey": "VOW3.DE.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "VOW3.DE"
@@ -818,6 +886,7 @@
         "entry_date": "21.\u00a0Sep. 2015",
         "market": "DAX30",
         "active_type": "stock",
+        "tickerKey": "VNA.DE.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "VNA.DE"
@@ -827,6 +896,7 @@
         "ticker": "DAX30",
         "market": "DAX30",
         "active_type": "ETF",
+        "tickerKey": "^GDAXI",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "^GDAXI"
@@ -838,6 +908,7 @@
         "sector": "hoteles",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "AC.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "AC.PA"
@@ -849,6 +920,7 @@
         "sector": "qu\u00edmica",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "AI.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "AI.PA"
@@ -860,6 +932,7 @@
         "sector": "aviaci\u00f3n",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "AIG.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "AIG.PA"
@@ -871,6 +944,7 @@
         "sector": "maquinaria industrial",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "ALO.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ALO.PA"
@@ -882,6 +956,7 @@
         "sector": "acero",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "MT.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MT.PA"
@@ -893,6 +968,7 @@
         "sector": "seguros",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "CS.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CS.PA"
@@ -904,6 +980,7 @@
         "sector": "banca",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "BNP.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "BNP.PA"
@@ -915,6 +992,7 @@
         "sector": "ingenier\u00eda",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "EN.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "EN.PA"
@@ -926,6 +1004,7 @@
         "sector": "servicios inform\u00e1ticos",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "CAP.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CAP.PA"
@@ -937,6 +1016,7 @@
         "sector": "alimentaci\u00f3n al por menor y al por mayor",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "CA.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CA.PA"
@@ -948,6 +1028,7 @@
         "sector": "banca",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "ACA.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ACA.PA"
@@ -959,6 +1040,7 @@
         "sector": "productos de alimentaci\u00f3n",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "BN.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "BN.PA"
@@ -970,6 +1052,7 @@
         "sector": "electricidad",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "EDF.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "EDF.PA"
@@ -981,6 +1064,7 @@
         "sector": "oftalmolog\u00eda",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "EL.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "EL.PA"
@@ -992,6 +1076,7 @@
         "sector": "art\u00edculos de lujo",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "KER.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "KER.PA"
@@ -1003,6 +1088,7 @@
         "sector": "comercio",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "LI.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "LI.PA"
@@ -1014,6 +1100,7 @@
         "sector": "construcci\u00f3n",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "LHN.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "LHN.PA"
@@ -1025,6 +1112,7 @@
         "sector": "electricidad",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "LR.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "LR.PA"
@@ -1036,6 +1124,7 @@
         "sector": "art\u00edculos de lujo",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "MC.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MC.PA"
@@ -1047,6 +1136,7 @@
         "sector": "productos personales",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "OR.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "OR.PA"
@@ -1058,6 +1148,7 @@
         "sector": "neum\u00e1ticos",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "ML.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ML.PA"
@@ -1069,6 +1160,7 @@
         "sector": "telefon\u00eda",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "NO.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "NO.PA"
@@ -1080,6 +1172,7 @@
         "sector": "telecomunicaciones y telefon\u00eda m\u00f3vil",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "OR.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "OR.PA"
@@ -1091,6 +1184,7 @@
         "sector": "destiler\u00eda y bodeguero",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "RI.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "RI.PA"
@@ -1102,6 +1196,7 @@
         "sector": "autom\u00f3vil",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "PEU.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "PEU.PA"
@@ -1113,6 +1208,7 @@
         "sector": "agencia de medios",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "PUB.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "PUB.PA"
@@ -1124,6 +1220,7 @@
         "sector": "autom\u00f3vil",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "RNO.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "RNO.PA"
@@ -1135,6 +1232,7 @@
         "sector": "aeroespacial",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "SAF.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "SAF.PA"
@@ -1146,6 +1244,7 @@
         "sector": "materiales de construcci\u00f3n",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "SGO.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "SGO.PA"
@@ -1157,6 +1256,7 @@
         "sector": "farmac\u00e9utica",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "SAN.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "SAN.PA"
@@ -1168,6 +1268,7 @@
         "sector": "material el\u00e9ctrico",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "SU.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "SU.PA"
@@ -1179,6 +1280,7 @@
         "sector": "banca",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "GLE.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "GLE.PA"
@@ -1190,6 +1292,7 @@
         "sector": "qu\u00edmica",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "SOLB.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "SOLB.PA"
@@ -1201,6 +1304,7 @@
         "sector": "equipos petrol\u00edferos",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "TEC.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "TEC.PA"
@@ -1212,6 +1316,7 @@
         "sector": "petr\u00f3leo y gas",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "FP.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "FP.PA"
@@ -1223,6 +1328,7 @@
         "sector": "inmobiliaria",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "UL.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "UL.PA"
@@ -1234,6 +1340,7 @@
         "sector": "maquinaria industrial",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "VL.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "VL.PA"
@@ -1245,6 +1352,7 @@
         "sector": "agua",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "VIE.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "VIE.PA"
@@ -1256,6 +1364,7 @@
         "sector": "construcci\u00f3n pesada",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "DG.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "DG.PA"
@@ -1267,6 +1376,7 @@
         "sector": "entretenimiento",
         "market": "CAC40",
         "active_type": "stock",
+        "tickerKey": "VIV.PA.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "VIV.PA"
@@ -1276,6 +1386,7 @@
         "ticker": "CAC40",
         "market": "CAC40",
         "active_type": "ETF",
+        "tickerKey": "^FCHI",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "^FCHI"
@@ -1290,6 +1401,7 @@
         "CIK": "0000066740",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "MMM",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MMM"
@@ -1304,6 +1416,7 @@
         "CIK": "0000001800",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ABT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ABT"
@@ -1318,6 +1431,7 @@
         "CIK": "0001551152",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ABBV",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ABBV"
@@ -1332,6 +1446,7 @@
         "CIK": "0000815094",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ABMD",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ABMD"
@@ -1346,6 +1461,7 @@
         "CIK": "0001467373",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ACN",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ACN"
@@ -1360,6 +1476,7 @@
         "CIK": "0000718877",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ATVI",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ATVI"
@@ -1374,6 +1491,7 @@
         "CIK": "0000796343",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ADBE",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ADBE"
@@ -1388,6 +1506,7 @@
         "CIK": "0000002488",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "AMD",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "AMD"
@@ -1402,6 +1521,7 @@
         "CIK": "0001158449",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "AAP",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "AAP"
@@ -1416,6 +1536,7 @@
         "CIK": "0000874761",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "AES",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "AES"
@@ -1430,6 +1551,7 @@
         "CIK": "0000004977",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "AFL",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "AFL"
@@ -1444,6 +1566,7 @@
         "CIK": "0001090872",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "A",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "A"
@@ -1458,6 +1581,7 @@
         "CIK": "0000002969",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "APD",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "APD"
@@ -1472,6 +1596,7 @@
         "CIK": "0001086222",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "AKAM",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "AKAM"
@@ -1486,6 +1611,7 @@
         "CIK": "0000766421",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ALK",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ALK"
@@ -1500,6 +1626,7 @@
         "CIK": "0000915913",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ALB",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ALB"
@@ -1514,6 +1641,7 @@
         "CIK": "0001035443",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ARE",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ARE"
@@ -1528,6 +1656,7 @@
         "CIK": "0000899866",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ALXN",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ALXN"
@@ -1542,6 +1671,7 @@
         "CIK": "0001097149",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ALGN",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ALGN"
@@ -1556,6 +1686,7 @@
         "CIK": "0001579241",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ALLE",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ALLE"
@@ -1570,6 +1701,7 @@
         "CIK": "0000352541",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "LNT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "LNT"
@@ -1584,6 +1716,7 @@
         "CIK": "0000899051",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ALL",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ALL"
@@ -1598,6 +1731,7 @@
         "CIK": "0001652044",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "GOOGL",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "GOOGL"
@@ -1612,6 +1746,7 @@
         "CIK": "0001652044",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "GOOG",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "GOOG"
@@ -1626,6 +1761,7 @@
         "CIK": "0000764180",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "MO",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MO"
@@ -1640,6 +1776,7 @@
         "CIK": "0001018724",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "AMZN",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "AMZN"
@@ -1654,6 +1791,7 @@
         "CIK": "0001748790",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "AMCR",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "AMCR"
@@ -1668,6 +1806,7 @@
         "CIK": "0001002910",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "AEE",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "AEE"
@@ -1682,6 +1821,7 @@
         "CIK": "0000006201",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "AAL",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "AAL"
@@ -1696,6 +1836,7 @@
         "CIK": "0000004904",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "AEP",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "AEP"
@@ -1710,6 +1851,7 @@
         "CIK": "0000004962",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "AXP",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "AXP"
@@ -1724,6 +1866,7 @@
         "CIK": "0000005272",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "AIG",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "AIG"
@@ -1738,6 +1881,7 @@
         "CIK": "0001053507",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "AMT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "AMT"
@@ -1752,6 +1896,7 @@
         "CIK": "0001410636",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "AWK",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "AWK"
@@ -1766,6 +1911,7 @@
         "CIK": "0000820027",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "AMP",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "AMP"
@@ -1780,6 +1926,7 @@
         "CIK": "0001140859",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ABC",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ABC"
@@ -1794,6 +1941,7 @@
         "CIK": "0001037868",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "AME",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "AME"
@@ -1808,6 +1956,7 @@
         "CIK": "0000318154",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "AMGN",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "AMGN"
@@ -1822,6 +1971,7 @@
         "CIK": "0000820313",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "APH",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "APH"
@@ -1836,6 +1986,7 @@
         "CIK": "0000006281",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ADI",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ADI"
@@ -1850,6 +2001,7 @@
         "CIK": "0001013462",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ANSS",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ANSS"
@@ -1864,6 +2016,7 @@
         "CIK": "0001156039",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ANTM",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ANTM"
@@ -1878,6 +2031,7 @@
         "CIK": "0000315293",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "AON",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "AON"
@@ -1892,6 +2046,7 @@
         "CIK": "0000091142",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "AOS",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "AOS"
@@ -1906,6 +2061,7 @@
         "CIK": "0000006769",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "APA",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "APA"
@@ -1920,6 +2076,7 @@
         "CIK": "0000320193",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "AAPL",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "AAPL"
@@ -1934,6 +2091,7 @@
         "CIK": "0000006951",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "AMAT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "AMAT"
@@ -1948,6 +2106,7 @@
         "CIK": "0001521332",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "APTV",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "APTV"
@@ -1962,6 +2121,7 @@
         "CIK": "0000007084",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ADM",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ADM"
@@ -1976,6 +2136,7 @@
         "CIK": "0001596532",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ANET",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ANET"
@@ -1990,6 +2151,7 @@
         "CIK": "0000354190",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "AJG",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "AJG"
@@ -2004,6 +2166,7 @@
         "CIK": "0001267238",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "AIZ",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "AIZ"
@@ -2018,6 +2181,7 @@
         "CIK": "0000732717",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "T",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "T"
@@ -2032,6 +2196,7 @@
         "CIK": "0000731802",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ATO",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ATO"
@@ -2046,6 +2211,7 @@
         "CIK": "0000769397",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ADSK",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ADSK"
@@ -2060,6 +2226,7 @@
         "CIK": "0000008670",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ADP",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ADP"
@@ -2074,6 +2241,7 @@
         "CIK": "0000866787",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "AZO",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "AZO"
@@ -2088,6 +2256,7 @@
         "CIK": "0000915912",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "AVB",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "AVB"
@@ -2102,6 +2271,7 @@
         "CIK": "0000008818",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "AVY",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "AVY"
@@ -2116,6 +2286,7 @@
         "CIK": "0001701605",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "BKR",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "BKR"
@@ -2130,6 +2301,7 @@
         "CIK": "0000009389",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "BLL",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "BLL"
@@ -2144,6 +2316,7 @@
         "CIK": "0000070858",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "BAC",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "BAC"
@@ -2158,6 +2331,7 @@
         "CIK": "0001390777",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "BK",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "BK"
@@ -2172,6 +2346,7 @@
         "CIK": "0000010456",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "BAX",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "BAX"
@@ -2186,6 +2361,7 @@
         "CIK": "0000010795",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "BDX",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "BDX"
@@ -2200,6 +2376,7 @@
         "CIK": "0001067983",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "BRK.B",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "BRK.B"
@@ -2214,6 +2391,7 @@
         "CIK": "0000764478",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "BBY",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "BBY"
@@ -2228,6 +2406,7 @@
         "CIK": "0000012208",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "BIO",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "BIO"
@@ -2242,6 +2421,7 @@
         "CIK": "0000875045",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "BIIB",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "BIIB"
@@ -2256,6 +2436,7 @@
         "CIK": "0001364742",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "BLK",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "BLK"
@@ -2270,6 +2451,7 @@
         "CIK": "0000012927",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "BA",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "BA"
@@ -2284,6 +2466,7 @@
         "CIK": "0001075531",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "BKNG",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "BKNG"
@@ -2298,6 +2481,7 @@
         "CIK": "0000908255",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "BWA",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "BWA"
@@ -2312,6 +2496,7 @@
         "CIK": "0001037540",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "BXP",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "BXP"
@@ -2326,6 +2511,7 @@
         "CIK": "0000885725",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "BSX",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "BSX"
@@ -2340,6 +2526,7 @@
         "CIK": "0000014272",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "BMY",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "BMY"
@@ -2354,6 +2541,7 @@
         "CIK": "0001730168",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "AVGO",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "AVGO"
@@ -2368,6 +2556,7 @@
         "CIK": "0001383312",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "BR",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "BR"
@@ -2382,6 +2571,7 @@
         "CIK": "0000014693",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "BF.B",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "BF.B"
@@ -2396,6 +2586,7 @@
         "CIK": "0001043277",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CHRW",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CHRW"
@@ -2410,6 +2601,7 @@
         "CIK": "0000858470",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "COG",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "COG"
@@ -2424,6 +2616,7 @@
         "CIK": "0000813672",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CDNS",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CDNS"
@@ -2438,6 +2631,7 @@
         "CIK": "0000016732",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CPB",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CPB"
@@ -2452,6 +2646,7 @@
         "CIK": "0000927628",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "COF",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "COF"
@@ -2466,6 +2661,7 @@
         "CIK": "0000721371",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CAH",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CAH"
@@ -2480,6 +2676,7 @@
         "CIK": "0001170010",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "KMX",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "KMX"
@@ -2494,6 +2691,7 @@
         "CIK": "0000815097",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CCL",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CCL"
@@ -2508,6 +2706,7 @@
         "CIK": "0001783180",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CARR",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CARR"
@@ -2522,6 +2721,7 @@
         "CIK": "0001596783",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CTLT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CTLT"
@@ -2536,6 +2736,7 @@
         "CIK": "0000018230",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CAT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CAT"
@@ -2550,6 +2751,7 @@
         "CIK": "0001374310",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CBOE",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CBOE"
@@ -2564,6 +2766,7 @@
         "CIK": "0001138118",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CBRE",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CBRE"
@@ -2578,6 +2781,7 @@
         "CIK": "0001402057",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CDW",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CDW"
@@ -2592,6 +2796,7 @@
         "CIK": "0001306830",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CE",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CE"
@@ -2606,6 +2811,7 @@
         "CIK": "0001071739",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CNC",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CNC"
@@ -2620,6 +2826,7 @@
         "CIK": "0001130310",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CNP",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CNP"
@@ -2634,6 +2841,7 @@
         "CIK": "0000804753",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CERN",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CERN"
@@ -2648,6 +2856,7 @@
         "CIK": "0001324404",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CF",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CF"
@@ -2662,6 +2871,7 @@
         "CIK": "0000316709",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "SCHW",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "SCHW"
@@ -2676,6 +2886,7 @@
         "CIK": "0001091667",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CHTR",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CHTR"
@@ -2690,6 +2901,7 @@
         "CIK": "0000093410",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CVX",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CVX"
@@ -2704,6 +2916,7 @@
         "CIK": "0001058090",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CMG",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CMG"
@@ -2718,6 +2931,7 @@
         "CIK": "0000896159",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CB",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CB"
@@ -2732,6 +2946,7 @@
         "CIK": "0000313927",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CHD",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CHD"
@@ -2746,6 +2961,7 @@
         "CIK": "0001739940",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CI",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CI"
@@ -2760,6 +2976,7 @@
         "CIK": "0000020286",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CINF",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CINF"
@@ -2774,6 +2991,7 @@
         "CIK": "0000723254",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CTAS",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CTAS"
@@ -2788,6 +3006,7 @@
         "CIK": "0000858877",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CSCO",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CSCO"
@@ -2802,6 +3021,7 @@
         "CIK": "0000831001",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "C",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "C"
@@ -2816,6 +3036,7 @@
         "CIK": "0000759944",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CFG",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CFG"
@@ -2830,6 +3051,7 @@
         "CIK": "0000877890",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CTXS",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CTXS"
@@ -2844,6 +3066,7 @@
         "CIK": "0000021076",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CLX",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CLX"
@@ -2858,6 +3081,7 @@
         "CIK": "0001156375",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CME",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CME"
@@ -2872,6 +3096,7 @@
         "CIK": "0000811156",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CMS",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CMS"
@@ -2886,6 +3111,7 @@
         "CIK": "0000021344",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "KO",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "KO"
@@ -2900,6 +3126,7 @@
         "CIK": "0001058290",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CTSH",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CTSH"
@@ -2914,6 +3141,7 @@
         "CIK": "0000021665",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CL",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CL"
@@ -2928,6 +3156,7 @@
         "CIK": "0001166691",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CMCSA",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CMCSA"
@@ -2942,6 +3171,7 @@
         "CIK": "0000028412",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CMA",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CMA"
@@ -2956,6 +3186,7 @@
         "CIK": "0000023217",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CAG",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CAG"
@@ -2970,6 +3201,7 @@
         "CIK": "0001163165",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "COP",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "COP"
@@ -2984,6 +3216,7 @@
         "CIK": "0001047862",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ED",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ED"
@@ -2998,6 +3231,7 @@
         "CIK": "0000016918",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "STZ",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "STZ"
@@ -3012,6 +3246,7 @@
         "CIK": "0000711404",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "COO",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "COO"
@@ -3026,6 +3261,7 @@
         "CIK": "0000900075",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CPRT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CPRT"
@@ -3040,6 +3276,7 @@
         "CIK": "0000024741",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "GLW",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "GLW"
@@ -3054,6 +3291,7 @@
         "CIK": "0001755672",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CTVA",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CTVA"
@@ -3068,6 +3306,7 @@
         "CIK": "0000909832",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "COST",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "COST"
@@ -3082,6 +3321,7 @@
         "CIK": "0001051470",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CCI",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CCI"
@@ -3096,6 +3336,7 @@
         "CIK": "0000277948",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CSX",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CSX"
@@ -3110,6 +3351,7 @@
         "CIK": "0000026172",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CMI",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CMI"
@@ -3124,6 +3366,7 @@
         "CIK": "0000064803",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CVS",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CVS"
@@ -3138,6 +3381,7 @@
         "CIK": "0000882184",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "DHI",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "DHI"
@@ -3152,6 +3396,7 @@
         "CIK": "0000313616",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "DHR",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "DHR"
@@ -3166,6 +3411,7 @@
         "CIK": "0000940944",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "DRI",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "DRI"
@@ -3180,6 +3426,7 @@
         "CIK": "0000927066",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "DVA",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "DVA"
@@ -3194,6 +3441,7 @@
         "CIK": "0000315189",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "DE",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "DE"
@@ -3208,6 +3456,7 @@
         "CIK": "0000027904",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "DAL",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "DAL"
@@ -3222,6 +3471,7 @@
         "CIK": "0000818479",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "XRAY",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "XRAY"
@@ -3236,6 +3486,7 @@
         "CIK": "0001090012",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "DVN",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "DVN"
@@ -3250,6 +3501,7 @@
         "CIK": "0001093557",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "DXCM",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "DXCM"
@@ -3264,6 +3516,7 @@
         "CIK": "0001539838",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "FANG",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "FANG"
@@ -3278,6 +3531,7 @@
         "CIK": "0001297996",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "DLR",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "DLR"
@@ -3292,6 +3546,7 @@
         "CIK": "0001393612",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "DFS",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "DFS"
@@ -3306,6 +3561,7 @@
         "CIK": "0001437107",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "DISCA",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "DISCA"
@@ -3320,6 +3576,7 @@
         "CIK": "0001437107",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "DISCK",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "DISCK"
@@ -3334,6 +3591,7 @@
         "CIK": "0001001082",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "DISH",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "DISH"
@@ -3348,6 +3606,7 @@
         "CIK": "0000029534",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "DG",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "DG"
@@ -3362,6 +3621,7 @@
         "CIK": "0000935703",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "DLTR",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "DLTR"
@@ -3376,6 +3636,7 @@
         "CIK": "0000715957",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "D",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "D"
@@ -3390,6 +3651,7 @@
         "CIK": "0001286681",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "DPZ",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "DPZ"
@@ -3404,6 +3666,7 @@
         "CIK": "0000029905",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "DOV",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "DOV"
@@ -3418,6 +3681,7 @@
         "CIK": "0001751788",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "DOW",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "DOW"
@@ -3432,6 +3696,7 @@
         "CIK": "0000936340",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "DTE",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "DTE"
@@ -3446,6 +3711,7 @@
         "CIK": "0001326160",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "DUK",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "DUK"
@@ -3460,6 +3726,7 @@
         "CIK": "0000783280",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "DRE",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "DRE"
@@ -3474,6 +3741,7 @@
         "CIK": "0001666700",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "DD",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "DD"
@@ -3488,6 +3756,7 @@
         "CIK": "0001688568",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "DXC",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "DXC"
@@ -3502,6 +3771,7 @@
         "CIK": "0000915389",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "EMN",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "EMN"
@@ -3516,6 +3786,7 @@
         "CIK": "0001551182",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ETN",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ETN"
@@ -3530,6 +3801,7 @@
         "CIK": "0001065088",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "EBAY",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "EBAY"
@@ -3544,6 +3816,7 @@
         "CIK": "0000031462",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ECL",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ECL"
@@ -3558,6 +3831,7 @@
         "CIK": "0000827052",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "EIX",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "EIX"
@@ -3572,6 +3846,7 @@
         "CIK": "0001099800",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "EW",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "EW"
@@ -3586,6 +3861,7 @@
         "CIK": "0000712515",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "EA",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "EA"
@@ -3600,6 +3876,7 @@
         "CIK": "0000032604",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "EMR",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "EMR"
@@ -3614,6 +3891,7 @@
         "CIK": "0001463101",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ENPH",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ENPH"
@@ -3628,6 +3906,7 @@
         "CIK": "0000065984",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ETR",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ETR"
@@ -3642,6 +3921,7 @@
         "CIK": "0000821189",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "EOG",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "EOG"
@@ -3656,6 +3936,7 @@
         "CIK": "0000033185",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "EFX",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "EFX"
@@ -3670,6 +3951,7 @@
         "CIK": "0001101239",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "EQIX",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "EQIX"
@@ -3684,6 +3966,7 @@
         "CIK": "0000906107",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "EQR",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "EQR"
@@ -3698,6 +3981,7 @@
         "CIK": "0000920522",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ESS",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ESS"
@@ -3712,6 +3996,7 @@
         "CIK": "0001001250",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "EL",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "EL"
@@ -3726,6 +4011,7 @@
         "CIK": "0001370637",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ETSY",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ETSY"
@@ -3740,6 +4026,7 @@
         "CIK": "0001711269",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "EVRG",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "EVRG"
@@ -3754,6 +4041,7 @@
         "CIK": "0000072741",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ES",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ES"
@@ -3768,6 +4056,7 @@
         "CIK": "0001095073",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "RE",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "RE"
@@ -3782,6 +4071,7 @@
         "CIK": "0001109357",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "EXC",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "EXC"
@@ -3796,6 +4086,7 @@
         "CIK": "0001324424",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "EXPE",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "EXPE"
@@ -3810,6 +4101,7 @@
         "CIK": "0000746515",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "EXPD",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "EXPD"
@@ -3824,6 +4116,7 @@
         "CIK": "0001289490",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "EXR",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "EXR"
@@ -3838,6 +4131,7 @@
         "CIK": "0000034088",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "XOM",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "XOM"
@@ -3852,6 +4146,7 @@
         "CIK": "0001048695",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "FFIV",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "FFIV"
@@ -3866,6 +4161,7 @@
         "CIK": "0001326801",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "FB",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "FB"
@@ -3880,6 +4176,7 @@
         "CIK": "0000815556",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "FAST",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "FAST"
@@ -3894,6 +4191,7 @@
         "CIK": "0000034903",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "FRT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "FRT"
@@ -3908,6 +4206,7 @@
         "CIK": "0001048911",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "FDX",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "FDX"
@@ -3922,6 +4221,7 @@
         "CIK": "0001136893",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "FIS",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "FIS"
@@ -3936,6 +4236,7 @@
         "CIK": "0000035527",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "FITB",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "FITB"
@@ -3950,6 +4251,7 @@
         "CIK": "0001031296",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "FE",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "FE"
@@ -3964,6 +4266,7 @@
         "CIK": "0001132979",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "FRC",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "FRC"
@@ -3978,6 +4281,7 @@
         "CIK": "0000798354",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "FISV",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "FISV"
@@ -3992,6 +4296,7 @@
         "CIK": "0001175454",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "FLT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "FLT"
@@ -4006,6 +4311,7 @@
         "CIK": "0000354908",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "FLIR",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "FLIR"
@@ -4020,6 +4326,7 @@
         "CIK": "0000030625",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "FLS",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "FLS"
@@ -4034,6 +4341,7 @@
         "CIK": "0000037785",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "FMC",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "FMC"
@@ -4048,6 +4356,7 @@
         "CIK": "0000037996",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "F",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "F"
@@ -4062,6 +4371,7 @@
         "CIK": "0001262039",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "FTNT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "FTNT"
@@ -4076,6 +4386,7 @@
         "CIK": "0001659166",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "FTV",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "FTV"
@@ -4090,6 +4401,7 @@
         "CIK": "0001519751",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "FBHS",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "FBHS"
@@ -4104,6 +4416,7 @@
         "CIK": "0001754301",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "FOXA",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "FOXA"
@@ -4118,6 +4431,7 @@
         "CIK": "0001754301",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "FOX",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "FOX"
@@ -4132,6 +4446,7 @@
         "CIK": "0000038777",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "BEN",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "BEN"
@@ -4146,6 +4461,7 @@
         "CIK": "0000831259",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "FCX",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "FCX"
@@ -4160,6 +4476,7 @@
         "CIK": "0000039911",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "GPS",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "GPS"
@@ -4174,6 +4491,7 @@
         "CIK": "0001121788",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "GRMN",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "GRMN"
@@ -4188,6 +4506,7 @@
         "CIK": "0000749251",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "IT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "IT"
@@ -4202,6 +4521,7 @@
         "CIK": "0000040533",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "GD",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "GD"
@@ -4216,6 +4536,7 @@
         "CIK": "0000040545",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "GE",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "GE"
@@ -4230,6 +4551,7 @@
         "CIK": "0000040704",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "GIS",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "GIS"
@@ -4244,6 +4566,7 @@
         "CIK": "0001467858",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "GM",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "GM"
@@ -4258,6 +4581,7 @@
         "CIK": "0000040987",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "GPC",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "GPC"
@@ -4272,6 +4596,7 @@
         "CIK": "0000882095",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "GILD",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "GILD"
@@ -4286,6 +4611,7 @@
         "CIK": "0000320335",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "GL",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "GL"
@@ -4300,6 +4626,7 @@
         "CIK": "0001123360",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "GPN",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "GPN"
@@ -4314,6 +4641,7 @@
         "CIK": "0000886982",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "GS",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "GS"
@@ -4328,6 +4656,7 @@
         "CIK": "0000277135",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "GWW",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "GWW"
@@ -4342,6 +4671,7 @@
         "CIK": "0000045012",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "HAL",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "HAL"
@@ -4356,6 +4686,7 @@
         "CIK": "0001359841",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "HBI",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "HBI"
@@ -4370,6 +4701,7 @@
         "CIK": "0000874766",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "HIG",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "HIG"
@@ -4384,6 +4716,7 @@
         "CIK": "0000046080",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "HAS",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "HAS"
@@ -4398,6 +4731,7 @@
         "CIK": "0000860730",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "HCA",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "HCA"
@@ -4412,6 +4746,7 @@
         "CIK": "0000765880",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "PEAK",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "PEAK"
@@ -4426,6 +4761,7 @@
         "CIK": "0001000228",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "HSIC",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "HSIC"
@@ -4440,6 +4776,7 @@
         "CIK": "0000047111",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "HSY",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "HSY"
@@ -4454,6 +4791,7 @@
         "CIK": "0000004447",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "HES",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "HES"
@@ -4468,6 +4806,7 @@
         "CIK": "0001645590",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "HPE",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "HPE"
@@ -4482,6 +4821,7 @@
         "CIK": "0001585689",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "HLT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "HLT"
@@ -4496,6 +4836,7 @@
         "CIK": "0000048039",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "HFC",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "HFC"
@@ -4510,6 +4851,7 @@
         "CIK": "0000859737",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "HOLX",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "HOLX"
@@ -4524,6 +4866,7 @@
         "CIK": "0000354950",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "HD",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "HD"
@@ -4538,6 +4881,7 @@
         "CIK": "0000773840",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "HON",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "HON"
@@ -4552,6 +4896,7 @@
         "CIK": "0000048465",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "HRL",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "HRL"
@@ -4566,6 +4911,7 @@
         "CIK": "0001070750",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "HST",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "HST"
@@ -4580,6 +4926,7 @@
         "CIK": "0000004281",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "HWM",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "HWM"
@@ -4594,6 +4941,7 @@
         "CIK": "0000047217",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "HPQ",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "HPQ"
@@ -4608,6 +4956,7 @@
         "CIK": "0000049071",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "HUM",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "HUM"
@@ -4622,6 +4971,7 @@
         "CIK": "0000049196",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "HBAN",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "HBAN"
@@ -4636,6 +4986,7 @@
         "CIK": "0001501585",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "HII",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "HII"
@@ -4650,6 +5001,7 @@
         "CIK": "0000832101",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "IEX",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "IEX"
@@ -4664,6 +5016,7 @@
         "CIK": "0000874716",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "IDXX",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "IDXX"
@@ -4678,6 +5031,7 @@
         "CIK": "0001598014",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "INFO",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "INFO"
@@ -4692,6 +5046,7 @@
         "CIK": "0000049826",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ITW",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ITW"
@@ -4706,6 +5061,7 @@
         "CIK": "0001110803",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ILMN",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ILMN"
@@ -4720,6 +5076,7 @@
         "CIK": "0000879169",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "INCY",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "INCY"
@@ -4734,6 +5091,7 @@
         "CIK": "0001699150",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "IR",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "IR"
@@ -4748,6 +5106,7 @@
         "CIK": "0000050863",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "INTC",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "INTC"
@@ -4762,6 +5121,7 @@
         "CIK": "0001571949",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ICE",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ICE"
@@ -4776,6 +5136,7 @@
         "CIK": "0000051143",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "IBM",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "IBM"
@@ -4790,6 +5151,7 @@
         "CIK": "0000051434",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "IP",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "IP"
@@ -4804,6 +5166,7 @@
         "CIK": "0000051644",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "IPG",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "IPG"
@@ -4818,6 +5181,7 @@
         "CIK": "0000051253",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "IFF",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "IFF"
@@ -4832,6 +5196,7 @@
         "CIK": "0000896878",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "INTU",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "INTU"
@@ -4846,6 +5211,7 @@
         "CIK": "0001035267",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ISRG",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ISRG"
@@ -4860,6 +5226,7 @@
         "CIK": "0000914208",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "IVZ",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "IVZ"
@@ -4874,6 +5241,7 @@
         "CIK": "0001111928",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "IPGP",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "IPGP"
@@ -4888,6 +5256,7 @@
         "CIK": "0001478242",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "IQV",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "IQV"
@@ -4902,6 +5271,7 @@
         "CIK": "0001020569",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "IRM",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "IRM"
@@ -4916,6 +5286,7 @@
         "CIK": "0000779152",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "JKHY",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "JKHY"
@@ -4930,6 +5301,7 @@
         "CIK": "0000052988",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "J",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "J"
@@ -4944,6 +5316,7 @@
         "CIK": "0000728535",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "JBHT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "JBHT"
@@ -4958,6 +5331,7 @@
         "CIK": "0000091419",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "SJM",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "SJM"
@@ -4972,6 +5346,7 @@
         "CIK": "0000200406",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "JNJ",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "JNJ"
@@ -4986,6 +5361,7 @@
         "CIK": "0000833444",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "JCI",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "JCI"
@@ -5000,6 +5376,7 @@
         "CIK": "0000019617",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "JPM",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "JPM"
@@ -5014,6 +5391,7 @@
         "CIK": "0001043604",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "JNPR",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "JNPR"
@@ -5028,6 +5406,7 @@
         "CIK": "0000054480",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "KSU",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "KSU"
@@ -5042,6 +5421,7 @@
         "CIK": "0000055067",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "K",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "K"
@@ -5056,6 +5436,7 @@
         "CIK": "0000091576",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "KEY",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "KEY"
@@ -5070,6 +5451,7 @@
         "CIK": "0001601046",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "KEYS",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "KEYS"
@@ -5084,6 +5466,7 @@
         "CIK": "0000055785",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "KMB",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "KMB"
@@ -5098,6 +5481,7 @@
         "CIK": "0000879101",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "KIM",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "KIM"
@@ -5112,6 +5496,7 @@
         "CIK": "0001506307",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "KMI",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "KMI"
@@ -5126,6 +5511,7 @@
         "CIK": "0000319201",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "KLAC",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "KLAC"
@@ -5140,6 +5526,7 @@
         "CIK": "0001637459",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "KHC",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "KHC"
@@ -5154,6 +5541,7 @@
         "CIK": "0000056873",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "KR",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "KR"
@@ -5168,6 +5556,7 @@
         "CIK": "0000701985",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "LB",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "LB"
@@ -5182,6 +5571,7 @@
         "CIK": "0000202058",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "LHX",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "LHX"
@@ -5196,6 +5586,7 @@
         "CIK": "0000920148",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "LH",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "LH"
@@ -5210,6 +5601,7 @@
         "CIK": "0000707549",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "LRCX",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "LRCX"
@@ -5224,6 +5616,7 @@
         "CIK": "0001679273",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "LW",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "LW"
@@ -5238,6 +5631,7 @@
         "CIK": "0001300514",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "LVS",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "LVS"
@@ -5252,6 +5646,7 @@
         "CIK": "0000058492",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "LEG",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "LEG"
@@ -5266,6 +5661,7 @@
         "CIK": "0001336920",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "LDOS",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "LDOS"
@@ -5280,6 +5676,7 @@
         "CIK": "0000920760",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "LEN",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "LEN"
@@ -5294,6 +5691,7 @@
         "CIK": "0000059478",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "LLY",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "LLY"
@@ -5308,6 +5706,7 @@
         "CIK": "0000059558",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "LNC",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "LNC"
@@ -5322,6 +5721,7 @@
         "CIK": "0001707925",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "LIN",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "LIN"
@@ -5336,6 +5736,7 @@
         "CIK": "0001335258",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "LYV",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "LYV"
@@ -5350,6 +5751,7 @@
         "CIK": "0001065696",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "LKQ",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "LKQ"
@@ -5364,6 +5766,7 @@
         "CIK": "0000936468",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "LMT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "LMT"
@@ -5378,6 +5781,7 @@
         "CIK": "0000060086",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "L",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "L"
@@ -5392,6 +5796,7 @@
         "CIK": "0000060667",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "LOW",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "LOW"
@@ -5406,6 +5811,7 @@
         "CIK": "0000018926",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "LUMN",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "LUMN"
@@ -5420,6 +5826,7 @@
         "CIK": "0001489393",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "LYB",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "LYB"
@@ -5434,6 +5841,7 @@
         "CIK": "0000036270",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "MTB",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MTB"
@@ -5448,6 +5856,7 @@
         "CIK": "0000101778",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "MRO",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MRO"
@@ -5462,6 +5871,7 @@
         "CIK": "0001510295",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "MPC",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MPC"
@@ -5476,6 +5886,7 @@
         "CIK": "0001278021",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "MKTX",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MKTX"
@@ -5490,6 +5901,7 @@
         "CIK": "0001048286",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "MAR",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MAR"
@@ -5504,6 +5916,7 @@
         "CIK": "0000062709",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "MMC",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MMC"
@@ -5518,6 +5931,7 @@
         "CIK": "0000916076",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "MLM",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MLM"
@@ -5532,6 +5946,7 @@
         "CIK": "0000062996",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "MAS",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MAS"
@@ -5546,6 +5961,7 @@
         "CIK": "0001141391",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "MA",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MA"
@@ -5560,6 +5976,7 @@
         "CIK": "0000063754",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "MKC",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MKC"
@@ -5574,6 +5991,7 @@
         "CIK": "0000743316",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "MXIM",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MXIM"
@@ -5588,6 +6006,7 @@
         "CIK": "0000063908",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "MCD",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MCD"
@@ -5602,6 +6021,7 @@
         "CIK": "0000927653",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "MCK",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MCK"
@@ -5616,6 +6036,7 @@
         "CIK": "0001613103",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "MDT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MDT"
@@ -5630,6 +6051,7 @@
         "CIK": "0000310158",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "MRK",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MRK"
@@ -5644,6 +6066,7 @@
         "CIK": "0001099219",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "MET",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MET"
@@ -5658,6 +6081,7 @@
         "CIK": "0001037646",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "MTD",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MTD"
@@ -5672,6 +6096,7 @@
         "CIK": "0000789570",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "MGM",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MGM"
@@ -5686,6 +6111,7 @@
         "CIK": "0000827054",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "MCHP",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MCHP"
@@ -5700,6 +6126,7 @@
         "CIK": "0000723125",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "MU",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MU"
@@ -5714,6 +6141,7 @@
         "CIK": "0000789019",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "MSFT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MSFT"
@@ -5728,6 +6156,7 @@
         "CIK": "0000912595",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "MAA",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MAA"
@@ -5742,6 +6171,7 @@
         "CIK": "0000851968",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "MHK",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MHK"
@@ -5756,6 +6186,7 @@
         "CIK": "0000024545",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "TAP",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "TAP"
@@ -5770,6 +6201,7 @@
         "CIK": "0001103982",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "MDLZ",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MDLZ"
@@ -5784,6 +6216,7 @@
         "CIK": "0000865752",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "MNST",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MNST"
@@ -5798,6 +6231,7 @@
         "CIK": "0001059556",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "MCO",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MCO"
@@ -5812,6 +6246,7 @@
         "CIK": "0000895421",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "MS",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MS"
@@ -5826,6 +6261,7 @@
         "CIK": "0001285785",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "MOS",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MOS"
@@ -5840,6 +6276,7 @@
         "CIK": "0000068505",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "MSI",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MSI"
@@ -5854,6 +6291,7 @@
         "CIK": "0001408198",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "MSCI",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "MSCI"
@@ -5868,6 +6306,7 @@
         "CIK": "0001120193",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "NDAQ",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "NDAQ"
@@ -5882,6 +6321,7 @@
         "CIK": "0001002047",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "NTAP",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "NTAP"
@@ -5896,6 +6336,7 @@
         "CIK": "0001065280",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "NFLX",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "NFLX"
@@ -5910,6 +6351,7 @@
         "CIK": "0000814453",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "NWL",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "NWL"
@@ -5924,6 +6366,7 @@
         "CIK": "0001164727",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "NEM",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "NEM"
@@ -5938,6 +6381,7 @@
         "CIK": "0001564708",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "NWSA",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "NWSA"
@@ -5952,6 +6396,7 @@
         "CIK": "0001564708",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "NWS",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "NWS"
@@ -5966,6 +6411,7 @@
         "CIK": "0000753308",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "NEE",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "NEE"
@@ -5980,6 +6426,7 @@
         "CIK": "0001492633",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "NLSN",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "NLSN"
@@ -5994,6 +6441,7 @@
         "CIK": "0000320187",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "NKE",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "NKE"
@@ -6008,6 +6456,7 @@
         "CIK": "0001111711",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "NI",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "NI"
@@ -6022,6 +6471,7 @@
         "CIK": "0000702165",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "NSC",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "NSC"
@@ -6036,6 +6486,7 @@
         "CIK": "0000073124",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "NTRS",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "NTRS"
@@ -6050,6 +6501,7 @@
         "CIK": "0001133421",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "NOC",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "NOC"
@@ -6064,6 +6516,7 @@
         "CIK": "0000849399",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "NLOK",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "NLOK"
@@ -6078,6 +6531,7 @@
         "CIK": "0001513761",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "NCLH",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "NCLH"
@@ -6092,6 +6546,7 @@
         "CIK": "0001021860",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "NOV",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "NOV"
@@ -6106,6 +6561,7 @@
         "CIK": "0001013871",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "NRG",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "NRG"
@@ -6120,6 +6576,7 @@
         "CIK": "0000073309",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "NUE",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "NUE"
@@ -6134,6 +6591,7 @@
         "CIK": "0001045810",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "NVDA",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "NVDA"
@@ -6148,6 +6606,7 @@
         "CIK": "0000906163",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "NVR",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "NVR"
@@ -6162,6 +6621,7 @@
         "CIK": "0000898173",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ORLY",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ORLY"
@@ -6176,6 +6636,7 @@
         "CIK": "0000797468",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "OXY",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "OXY"
@@ -6190,6 +6651,7 @@
         "CIK": "0000878927",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ODFL",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ODFL"
@@ -6204,6 +6666,7 @@
         "CIK": "0000029989",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "OMC",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "OMC"
@@ -6218,6 +6681,7 @@
         "CIK": "0001039684",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "OKE",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "OKE"
@@ -6232,6 +6696,7 @@
         "CIK": "0001341439",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ORCL",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ORCL"
@@ -6246,6 +6711,7 @@
         "CIK": "0001781335",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "OTIS",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "OTIS"
@@ -6260,6 +6726,7 @@
         "CIK": "0000075362",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "PCAR",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "PCAR"
@@ -6274,6 +6741,7 @@
         "CIK": "0000075677",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "PKG",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "PKG"
@@ -6288,6 +6756,7 @@
         "CIK": "0000076334",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "PH",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "PH"
@@ -6302,6 +6771,7 @@
         "CIK": "0000723531",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "PAYX",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "PAYX"
@@ -6316,6 +6786,7 @@
         "CIK": "0001590955",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "PAYC",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "PAYC"
@@ -6330,6 +6801,7 @@
         "CIK": "0001633917",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "PYPL",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "PYPL"
@@ -6344,6 +6816,7 @@
         "CIK": "0000077360",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "PNR",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "PNR"
@@ -6358,6 +6831,7 @@
         "CIK": "0001378946",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "PBCT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "PBCT"
@@ -6372,6 +6846,7 @@
         "CIK": "0000077476",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "PEP",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "PEP"
@@ -6386,6 +6861,7 @@
         "CIK": "0000031791",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "PKI",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "PKI"
@@ -6400,6 +6876,7 @@
         "CIK": "0001585364",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "PRGO",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "PRGO"
@@ -6414,6 +6891,7 @@
         "CIK": "0000078003",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "PFE",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "PFE"
@@ -6428,6 +6906,7 @@
         "CIK": "0001413329",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "PM",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "PM"
@@ -6442,6 +6921,7 @@
         "CIK": "0001534701",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "PSX",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "PSX"
@@ -6456,6 +6936,7 @@
         "CIK": "0000764622",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "PNW",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "PNW"
@@ -6470,6 +6951,7 @@
         "CIK": "0001038357",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "PXD",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "PXD"
@@ -6484,6 +6966,7 @@
         "CIK": "0000713676",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "PNC",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "PNC"
@@ -6498,6 +6981,7 @@
         "CIK": "0000945841",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "POOL",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "POOL"
@@ -6512,6 +6996,7 @@
         "CIK": "0000079879",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "PPG",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "PPG"
@@ -6526,6 +7011,7 @@
         "CIK": "0000922224",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "PPL",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "PPL"
@@ -6540,6 +7026,7 @@
         "CIK": "0001126328",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "PFG",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "PFG"
@@ -6554,6 +7041,7 @@
         "CIK": "0000080424",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "PG",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "PG"
@@ -6568,6 +7056,7 @@
         "CIK": "0000080661",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "PGR",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "PGR"
@@ -6582,6 +7071,7 @@
         "CIK": "0001045609",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "PLD",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "PLD"
@@ -6596,6 +7086,7 @@
         "CIK": "0001137774",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "PRU",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "PRU"
@@ -6610,6 +7101,7 @@
         "CIK": "0000788784",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "PEG",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "PEG"
@@ -6624,6 +7116,7 @@
         "CIK": "0001393311",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "PSA",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "PSA"
@@ -6638,6 +7131,7 @@
         "CIK": "0000822416",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "PHM",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "PHM"
@@ -6652,6 +7146,7 @@
         "CIK": "0000078239",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "PVH",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "PVH"
@@ -6666,6 +7161,7 @@
         "CIK": "0001604778",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "QRVO",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "QRVO"
@@ -6680,6 +7176,7 @@
         "CIK": "0001050915",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "PWR",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "PWR"
@@ -6694,6 +7191,7 @@
         "CIK": "0000804328",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "QCOM",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "QCOM"
@@ -6708,6 +7206,7 @@
         "CIK": "0001022079",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "DGX",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "DGX"
@@ -6722,6 +7221,7 @@
         "CIK": "0001037038",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "RL",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "RL"
@@ -6736,6 +7236,7 @@
         "CIK": "0000720005",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "RJF",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "RJF"
@@ -6750,6 +7251,7 @@
         "CIK": "0000101829",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "RTX",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "RTX"
@@ -6764,6 +7266,7 @@
         "CIK": "0000726728",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "O",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "O"
@@ -6778,6 +7281,7 @@
         "CIK": "0000910606",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "REG",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "REG"
@@ -6792,6 +7296,7 @@
         "CIK": "0000872589",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "REGN",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "REGN"
@@ -6806,6 +7311,7 @@
         "CIK": "0001281761",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "RF",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "RF"
@@ -6820,6 +7326,7 @@
         "CIK": "0001060391",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "RSG",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "RSG"
@@ -6834,6 +7341,7 @@
         "CIK": "0000943819",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "RMD",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "RMD"
@@ -6848,6 +7356,7 @@
         "CIK": "0000315213",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "RHI",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "RHI"
@@ -6862,6 +7371,7 @@
         "CIK": "0001024478",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ROK",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ROK"
@@ -6876,6 +7386,7 @@
         "CIK": "0000084839",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ROL",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ROL"
@@ -6890,6 +7401,7 @@
         "CIK": "0000882835",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ROP",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ROP"
@@ -6904,6 +7416,7 @@
         "CIK": "0000745732",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ROST",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ROST"
@@ -6918,6 +7431,7 @@
         "CIK": "0000884887",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "RCL",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "RCL"
@@ -6932,6 +7446,7 @@
         "CIK": "0000064040",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "SPGI",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "SPGI"
@@ -6946,6 +7461,7 @@
         "CIK": "0001108524",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "CRM",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "CRM"
@@ -6960,6 +7476,7 @@
         "CIK": "0001034054",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "SBAC",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "SBAC"
@@ -6974,6 +7491,7 @@
         "CIK": "0000087347",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "SLB",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "SLB"
@@ -6988,6 +7506,7 @@
         "CIK": "0001137789",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "STX",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "STX"
@@ -7002,6 +7521,7 @@
         "CIK": "0001012100",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "SEE",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "SEE"
@@ -7016,6 +7536,7 @@
         "CIK": "0001032208",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "SRE",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "SRE"
@@ -7030,6 +7551,7 @@
         "CIK": "0001373715",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "NOW",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "NOW"
@@ -7044,6 +7566,7 @@
         "CIK": "0000089800",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "SHW",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "SHW"
@@ -7058,6 +7581,7 @@
         "CIK": "0001063761",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "SPG",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "SPG"
@@ -7072,6 +7596,7 @@
         "CIK": "0000004127",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "SWKS",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "SWKS"
@@ -7086,6 +7611,7 @@
         "CIK": "0001040971",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "SLG",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "SLG"
@@ -7100,6 +7626,7 @@
         "CIK": "0000091440",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "SNA",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "SNA"
@@ -7114,6 +7641,7 @@
         "CIK": "0000092122",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "SO",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "SO"
@@ -7128,6 +7656,7 @@
         "CIK": "0000092380",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "LUV",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "LUV"
@@ -7142,6 +7671,7 @@
         "CIK": "0000093556",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "SWK",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "SWK"
@@ -7156,6 +7686,7 @@
         "CIK": "0000829224",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "SBUX",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "SBUX"
@@ -7170,6 +7701,7 @@
         "CIK": "0000093751",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "STT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "STT"
@@ -7184,6 +7716,7 @@
         "CIK": "0001757898",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "STE",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "STE"
@@ -7198,6 +7731,7 @@
         "CIK": "0000310764",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "SYK",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "SYK"
@@ -7212,6 +7746,7 @@
         "CIK": "0000719739",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "SIVB",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "SIVB"
@@ -7226,6 +7761,7 @@
         "CIK": "0001601712",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "SYF",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "SYF"
@@ -7240,6 +7776,7 @@
         "CIK": "0000883241",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "SNPS",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "SNPS"
@@ -7254,6 +7791,7 @@
         "CIK": "0000096021",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "SYY",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "SYY"
@@ -7268,6 +7806,7 @@
         "CIK": "0001283699",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "TMUS",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "TMUS"
@@ -7282,6 +7821,7 @@
         "CIK": "0001113169",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "TROW",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "TROW"
@@ -7296,6 +7836,7 @@
         "CIK": "0000946581",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "TTWO",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "TTWO"
@@ -7310,6 +7851,7 @@
         "CIK": "0001116132",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "TPR",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "TPR"
@@ -7324,6 +7866,7 @@
         "CIK": "0000027419",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "TGT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "TGT"
@@ -7338,6 +7881,7 @@
         "CIK": "0001385157",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "TEL",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "TEL"
@@ -7352,6 +7896,7 @@
         "CIK": "0001681459",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "FTI",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "FTI"
@@ -7366,6 +7911,7 @@
         "CIK": "0001094285",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "TDY",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "TDY"
@@ -7380,6 +7926,7 @@
         "CIK": "0000096943",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "TFX",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "TFX"
@@ -7394,6 +7941,7 @@
         "CIK": "0000097210",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "TER",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "TER"
@@ -7408,6 +7956,7 @@
         "CIK": "0001318605",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "TSLA",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "TSLA"
@@ -7422,6 +7971,7 @@
         "CIK": "0000097476",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "TXN",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "TXN"
@@ -7436,6 +7986,7 @@
         "CIK": "0000217346",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "TXT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "TXT"
@@ -7450,6 +8001,7 @@
         "CIK": "0000097745",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "TMO",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "TMO"
@@ -7464,6 +8016,7 @@
         "CIK": "0000109198",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "TJX",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "TJX"
@@ -7478,6 +8031,7 @@
         "CIK": "0000916365",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "TSCO",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "TSCO"
@@ -7492,6 +8046,7 @@
         "CIK": "0001466258",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "TT"
@@ -7506,6 +8061,7 @@
         "CIK": "0001260221",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "TDG",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "TDG"
@@ -7520,6 +8076,7 @@
         "CIK": "0000086312",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "TRV",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "TRV"
@@ -7534,6 +8091,7 @@
         "CIK": "0000864749",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "TRMB",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "TRMB"
@@ -7548,6 +8106,7 @@
         "CIK": "0000092230",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "TFC",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "TFC"
@@ -7562,6 +8121,7 @@
         "CIK": "0001418091",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "TWTR",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "TWTR"
@@ -7576,6 +8136,7 @@
         "CIK": "0000860731",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "TYL",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "TYL"
@@ -7590,6 +8151,7 @@
         "CIK": "0000100493",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "TSN",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "TSN"
@@ -7604,6 +8166,7 @@
         "CIK": "0000074208",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "UDR",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "UDR"
@@ -7618,6 +8181,7 @@
         "CIK": "0001403568",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ULTA",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ULTA"
@@ -7632,6 +8196,7 @@
         "CIK": "0000036104",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "USB",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "USB"
@@ -7646,6 +8211,7 @@
         "CIK": "0001336917",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "UAA",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "UAA"
@@ -7660,6 +8226,7 @@
         "CIK": "0001336917",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "UA",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "UA"
@@ -7674,6 +8241,7 @@
         "CIK": "0000100885",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "UNP",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "UNP"
@@ -7688,6 +8256,7 @@
         "CIK": "0000100517",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "UAL",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "UAL"
@@ -7702,6 +8271,7 @@
         "CIK": "0000731766",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "UNH",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "UNH"
@@ -7716,6 +8286,7 @@
         "CIK": "0001090727",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "UPS",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "UPS"
@@ -7730,6 +8301,7 @@
         "CIK": "0001067701",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "URI",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "URI"
@@ -7744,6 +8316,7 @@
         "CIK": "0000352915",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "UHS",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "UHS"
@@ -7758,6 +8331,7 @@
         "CIK": "0000005513",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "UNM",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "UNM"
@@ -7772,6 +8346,7 @@
         "CIK": "0001035002",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "VLO",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "VLO"
@@ -7786,6 +8361,7 @@
         "CIK": "0000203527",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "VAR",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "VAR"
@@ -7800,6 +8376,7 @@
         "CIK": "0000740260",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "VTR",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "VTR"
@@ -7814,6 +8391,7 @@
         "CIK": "0001014473",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "VRSN",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "VRSN"
@@ -7828,6 +8406,7 @@
         "CIK": "0001442145",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "VRSK",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "VRSK"
@@ -7842,6 +8421,7 @@
         "CIK": "0000732712",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "VZ",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "VZ"
@@ -7856,6 +8436,7 @@
         "CIK": "0000875320",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "VRTX",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "VRTX"
@@ -7870,6 +8451,7 @@
         "CIK": "0000103379",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "VFC",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "VFC"
@@ -7884,6 +8466,7 @@
         "CIK": "0000813828",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "VIAC",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "VIAC"
@@ -7898,6 +8481,7 @@
         "CIK": "0001792044",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "VTRS",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "VTRS"
@@ -7912,6 +8496,7 @@
         "CIK": "0001403161",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "V",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "V"
@@ -7926,6 +8511,7 @@
         "CIK": "0001786842",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "VNT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "VNT"
@@ -7940,6 +8526,7 @@
         "CIK": "0000899689",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "VNO",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "VNO"
@@ -7954,6 +8541,7 @@
         "CIK": "0001396009",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "VMC",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "VMC"
@@ -7968,6 +8556,7 @@
         "CIK": "0000011544",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "WRB",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "WRB"
@@ -7982,6 +8571,7 @@
         "CIK": "0000943452",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "WAB",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "WAB"
@@ -7996,6 +8586,7 @@
         "CIK": "0000104169",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "WMT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "WMT"
@@ -8010,6 +8601,7 @@
         "CIK": "0001618921",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "WBA",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "WBA"
@@ -8024,6 +8616,7 @@
         "CIK": "0001744489",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "DIS",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "DIS"
@@ -8038,6 +8631,7 @@
         "CIK": "0000823768",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "WM",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "WM"
@@ -8052,6 +8646,7 @@
         "CIK": "0001000697",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "WAT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "WAT"
@@ -8066,6 +8661,7 @@
         "CIK": "0000783325",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "WEC",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "WEC"
@@ -8080,6 +8676,7 @@
         "CIK": "0000072971",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "WFC",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "WFC"
@@ -8094,6 +8691,7 @@
         "CIK": "0000766704",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "WELL",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "WELL"
@@ -8108,6 +8706,7 @@
         "CIK": "0000105770",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "WST",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "WST"
@@ -8122,6 +8721,7 @@
         "CIK": "0000106040",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "WDC",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "WDC"
@@ -8136,6 +8736,7 @@
         "CIK": "0001365135",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "WU",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "WU"
@@ -8150,6 +8751,7 @@
         "CIK": "0001732845",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "WRK",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "WRK"
@@ -8164,6 +8766,7 @@
         "CIK": "0000106535",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "WY",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "WY"
@@ -8178,6 +8781,7 @@
         "CIK": "0000106640",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "WHR",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "WHR"
@@ -8192,6 +8796,7 @@
         "CIK": "0000107263",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "WMB",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "WMB"
@@ -8206,6 +8811,7 @@
         "CIK": "0001140536",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "WLTW",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "WLTW"
@@ -8220,6 +8826,7 @@
         "CIK": "0001174922",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "WYNN",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "WYNN"
@@ -8234,6 +8841,7 @@
         "CIK": "0000072903",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "XEL",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "XEL"
@@ -8248,6 +8856,7 @@
         "CIK": "0001770450",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "XRX",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "XRX"
@@ -8262,6 +8871,7 @@
         "CIK": "0000743988",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "XLNX",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "XLNX"
@@ -8276,6 +8886,7 @@
         "CIK": "0001524472",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "XYL",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "XYL"
@@ -8290,6 +8901,7 @@
         "CIK": "0001041061",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "YUM",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "YUM"
@@ -8304,6 +8916,7 @@
         "CIK": "0000877212",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ZBRA",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ZBRA"
@@ -8318,6 +8931,7 @@
         "CIK": "0001136869",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ZBH",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ZBH"
@@ -8332,6 +8946,7 @@
         "CIK": "0000109380",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ZION",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ZION"
@@ -8346,6 +8961,7 @@
         "CIK": "0001555280",
         "market": "SP500",
         "active_type": "stock",
+        "tickerKey": "ZTS",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ZTS"
@@ -8355,6 +8971,7 @@
         "ticker": "SP500",
         "market": "SP500",
         "active_type": "ETF",
+        "tickerKey": "^GSPC",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "^GSPC"
