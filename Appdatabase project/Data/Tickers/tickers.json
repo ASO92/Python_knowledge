@@ -563,7 +563,6 @@
         "ticker": "IBEX35",
         "market": "IBEX35",
         "active_type": "ETF",
-        "timestamp": "11-02-2021",
         "tickerKey": "^IBEX",
         "feeds": {
             "name": "YahooFinance",
@@ -1024,7 +1023,6 @@
         "ticker": "DAX30",
         "market": "DAX30",
         "active_type": "ETF",
-        "timestamp": "11-02-2021",
         "tickerKey": "^GDAXI",
         "feeds": {
             "name": "YahooFinance",
@@ -1595,7 +1593,6 @@
         "ticker": "CAC40",
         "market": "CAC40",
         "active_type": "ETF",
-        "timestamp": "11-02-2021",
         "tickerKey": "^FCHI",
         "feeds": {
             "name": "YahooFinance",
@@ -10191,7 +10188,6 @@
         "ticker": "SP500",
         "market": "SP500",
         "active_type": "ETF",
-        "timestamp": "11-02-2021",
         "tickerKey": "^GSPC",
         "feeds": {
             "name": "YahooFinance",

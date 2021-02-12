@@ -1,5 +1,53 @@
 [
     {
+        "ticker": "Dummy1",
+        "company": "Dummy1",
+        "sector": "Piruletas",
+        "entry_date": "2015",
+        "ISIN": "ISINDummy",
+        "market": "IBEX35",
+        "active_type": "stock",
+        "active_flag": false,
+        "timestamp": "11-02-2021",
+        "tickerKey": "Dummy1.MC.TT",
+        "feeds": {
+            "name": "YahooFinance",
+            "ticker": "Dummy1.MC"
+        }
+    },
+    {
+        "ticker": "Dummy2",
+        "company": "Dummy2",
+        "sector": "Piruletas",
+        "entry_date": "2015",
+        "ISIN": "ISINDummy2",
+        "market": "IBEX35",
+        "active_type": "stock",
+        "active_flag": false,
+        "timestamp": "01-01-1999",
+        "tickerKey": "Dummy2.MC.TT",
+        "feeds": {
+            "name": "YahooFinance",
+            "ticker": "Dummy2.MC"
+        }
+    },
+    {
+        "ticker": "Dummy3",
+        "company": "Dummy3",
+        "sector": "Piruletas",
+        "entry_date": "2015",
+        "ISIN": "ISINDummy3",
+        "market": "IBEX35",
+        "active_type": "stock",
+        "active_flag": false,
+        "timestamp": "11-02-2021",
+        "tickerKey": "Dummy3.MC.TT",
+        "feeds": {
+            "name": "YahooFinance",
+            "ticker": "Dummy3.MC"
+        }
+    },
+    {
         "ticker": "ANA",
         "company": "Acciona",
         "sector": "Construcci\u00f3n",
@@ -8,27 +56,11 @@
         "market": "IBEX35",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ANA.MC.TT",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "ANA.MC"
-        }
-    },
-    {
-        "ticker": "ACX",
-        "company": "Acerinox",
-        "sector": "Mineral, metales y transformaci\u00f3n",
-        "entry_date": "2015",
-        "ISIN": "ES0132105018",
-        "market": "IBEX35",
-        "active_type": "stock",
-        "active_flag": true,
-        "timestamp": "11-02-2021",
-        "tickerKey": "ACX.MC.TT",
-        "feeds": {
-            "name": "YahooFinance",
-            "ticker": "ACX.MC"
         }
     },
     {
@@ -40,7 +72,7 @@
         "market": "IBEX35",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ACS.MC.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -56,7 +88,7 @@
         "market": "IBEX35",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "AENA.MC.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -72,7 +104,7 @@
         "market": "IBEX35",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ALM.MC.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -88,7 +120,7 @@
         "market": "IBEX35",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "AMS.MC.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -104,7 +136,7 @@
         "market": "IBEX35",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MTS.MC.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -120,7 +152,7 @@
         "market": "IBEX35",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "SAB.MC.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -136,7 +168,7 @@
         "market": "IBEX35",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "SAN.MC.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -152,7 +184,7 @@
         "market": "IBEX35",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "BKIA.MC.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -168,7 +200,7 @@
         "market": "IBEX35",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "BKT.MC.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -184,7 +216,7 @@
         "market": "IBEX35",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "BBVA.MC.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -200,7 +232,7 @@
         "market": "IBEX35",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CABK.MC.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -216,7 +248,7 @@
         "market": "IBEX35",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CLNX.MC.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -232,7 +264,7 @@
         "market": "IBEX35",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CIE.MC.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -248,7 +280,7 @@
         "market": "IBEX35",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ENG.MC.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -264,7 +296,7 @@
         "market": "IBEX35",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ELE.MC.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -280,7 +312,7 @@
         "market": "IBEX35",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "FER.MC.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -296,7 +328,7 @@
         "market": "IBEX35",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "GRF.MC.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -312,7 +344,7 @@
         "market": "IBEX35",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "IAG.MC.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -328,7 +360,7 @@
         "market": "IBEX35",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "IBE.MC.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -344,7 +376,7 @@
         "market": "IBEX35",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ITX.MC.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -360,7 +392,7 @@
         "market": "IBEX35",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "IDR.MC.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -376,7 +408,7 @@
         "market": "IBEX35",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "COL.MC.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -392,7 +424,7 @@
         "market": "IBEX35",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MAP.MC.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -408,7 +440,7 @@
         "market": "IBEX35",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MEL.MC.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -424,7 +456,7 @@
         "market": "IBEX35",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MRL.MC.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -440,7 +472,7 @@
         "market": "IBEX35",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "NTGY.MC.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -456,7 +488,7 @@
         "market": "IBEX35",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "PHM.MC.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -472,7 +504,7 @@
         "market": "IBEX35",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "REE.MC.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -488,7 +520,7 @@
         "market": "IBEX35",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "REP.MC.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -504,7 +536,7 @@
         "market": "IBEX35",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "SGRE.MC.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -520,7 +552,7 @@
         "market": "IBEX35",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "SLR.MC.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -536,7 +568,7 @@
         "market": "IBEX35",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "TEF.MC.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -552,7 +584,7 @@
         "market": "IBEX35",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "VIS.MC.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -563,12 +595,13 @@
         "ticker": "IBEX35",
         "market": "IBEX35",
         "active_type": "ETF",
-        "timestamp": "11-02-2021",
         "tickerKey": "^IBEX",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "^IBEX"
-        }
+        },
+        "active_flag": false,
+        "timestamp": "12-02-2021"
     },
     {
         "ticker": "ADS",
@@ -578,7 +611,7 @@
         "market": "DAX30",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ADS.DE.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -593,7 +626,7 @@
         "market": "DAX30",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ALV.DE.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -608,7 +641,7 @@
         "market": "DAX30",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "BAS.DE.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -623,7 +656,7 @@
         "market": "DAX30",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "BAYN.DE.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -638,7 +671,7 @@
         "market": "DAX30",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "BEI.DE.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -653,7 +686,7 @@
         "market": "DAX30",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "BMW.DE.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -668,7 +701,7 @@
         "market": "DAX30",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CON.DE.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -683,7 +716,7 @@
         "market": "DAX30",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "1COV.DE.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -698,7 +731,7 @@
         "market": "DAX30",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "DAI.DE.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -713,7 +746,7 @@
         "market": "DAX30",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "DHER.DE.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -728,7 +761,7 @@
         "market": "DAX30",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "DBK.DE.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -743,7 +776,7 @@
         "market": "DAX30",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "DB1.DE.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -758,7 +791,7 @@
         "market": "DAX30",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "DPW.DE.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -773,7 +806,7 @@
         "market": "DAX30",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "DTE.DE.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -788,7 +821,7 @@
         "market": "DAX30",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "DWNI.DE.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -803,7 +836,7 @@
         "market": "DAX30",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "EOAN.DE.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -818,7 +851,7 @@
         "market": "DAX30",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "FRE.DE.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -833,7 +866,7 @@
         "market": "DAX30",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "FME.DE.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -848,7 +881,7 @@
         "market": "DAX30",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "HEI.DE.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -863,7 +896,7 @@
         "market": "DAX30",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "HEN3.DE.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -878,7 +911,7 @@
         "market": "DAX30",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "IFX.DE.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -893,7 +926,7 @@
         "market": "DAX30",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "LIN.DE.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -908,7 +941,7 @@
         "market": "DAX30",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MRK.DE.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -923,7 +956,7 @@
         "market": "DAX30",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MTX.DE.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -938,7 +971,7 @@
         "market": "DAX30",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MUV2.DE.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -953,7 +986,7 @@
         "market": "DAX30",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "RWE.DE.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -968,7 +1001,7 @@
         "market": "DAX30",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "SAP.DE.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -983,7 +1016,7 @@
         "market": "DAX30",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "SIE.DE.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -998,7 +1031,7 @@
         "market": "DAX30",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "VOW3.DE.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1013,7 +1046,7 @@
         "market": "DAX30",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "VNA.DE.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1024,12 +1057,13 @@
         "ticker": "DAX30",
         "market": "DAX30",
         "active_type": "ETF",
-        "timestamp": "11-02-2021",
         "tickerKey": "^GDAXI",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "^GDAXI"
-        }
+        },
+        "active_flag": false,
+        "timestamp": "12-02-2021"
     },
     {
         "ticker": "Euronext: AC",
@@ -1038,7 +1072,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "AC.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1052,7 +1086,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "AI.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1066,7 +1100,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "AIG.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1080,7 +1114,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ALO.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1094,7 +1128,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MT.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1108,7 +1142,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CS.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1122,7 +1156,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "BNP.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1136,7 +1170,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "EN.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1150,7 +1184,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CAP.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1164,7 +1198,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CA.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1178,7 +1212,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ACA.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1192,7 +1226,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "BN.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1206,7 +1240,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "EDF.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1220,7 +1254,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "EL.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1234,7 +1268,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "KER.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1248,7 +1282,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "LI.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1262,7 +1296,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "LHN.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1276,7 +1310,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "LR.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1290,7 +1324,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MC.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1304,7 +1338,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "OR.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1318,7 +1352,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ML.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1332,7 +1366,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "NO.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1346,7 +1380,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "OR.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1360,7 +1394,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "RI.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1374,7 +1408,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "PEU.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1388,7 +1422,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "PUB.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1402,7 +1436,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "RNO.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1416,7 +1450,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "SAF.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1430,7 +1464,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "SGO.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1444,7 +1478,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "SAN.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1458,7 +1492,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "SU.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1472,7 +1506,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "GLE.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1486,7 +1520,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "SOLB.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1500,7 +1534,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "TEC.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1514,7 +1548,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "FP.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1528,7 +1562,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "UL.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1542,7 +1576,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "VL.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1556,7 +1590,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "VIE.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1570,7 +1604,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "DG.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1584,7 +1618,7 @@
         "market": "CAC40",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "VIV.PA.TT",
         "feeds": {
             "name": "YahooFinance",
@@ -1595,12 +1629,13 @@
         "ticker": "CAC40",
         "market": "CAC40",
         "active_type": "ETF",
-        "timestamp": "11-02-2021",
         "tickerKey": "^FCHI",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "^FCHI"
-        }
+        },
+        "active_flag": false,
+        "timestamp": "12-02-2021"
     },
     {
         "ticker": "MMM",
@@ -1612,7 +1647,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MMM",
         "feeds": {
             "name": "YahooFinance",
@@ -1629,7 +1664,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ABT",
         "feeds": {
             "name": "YahooFinance",
@@ -1646,7 +1681,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ABBV",
         "feeds": {
             "name": "YahooFinance",
@@ -1663,7 +1698,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ABMD",
         "feeds": {
             "name": "YahooFinance",
@@ -1680,7 +1715,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ACN",
         "feeds": {
             "name": "YahooFinance",
@@ -1697,7 +1732,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ATVI",
         "feeds": {
             "name": "YahooFinance",
@@ -1714,7 +1749,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ADBE",
         "feeds": {
             "name": "YahooFinance",
@@ -1731,7 +1766,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "AMD",
         "feeds": {
             "name": "YahooFinance",
@@ -1748,7 +1783,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "AAP",
         "feeds": {
             "name": "YahooFinance",
@@ -1765,7 +1800,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "AES",
         "feeds": {
             "name": "YahooFinance",
@@ -1782,7 +1817,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "AFL",
         "feeds": {
             "name": "YahooFinance",
@@ -1799,7 +1834,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "A",
         "feeds": {
             "name": "YahooFinance",
@@ -1816,7 +1851,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "APD",
         "feeds": {
             "name": "YahooFinance",
@@ -1833,7 +1868,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "AKAM",
         "feeds": {
             "name": "YahooFinance",
@@ -1850,7 +1885,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ALK",
         "feeds": {
             "name": "YahooFinance",
@@ -1867,7 +1902,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ALB",
         "feeds": {
             "name": "YahooFinance",
@@ -1884,7 +1919,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ARE",
         "feeds": {
             "name": "YahooFinance",
@@ -1901,7 +1936,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ALXN",
         "feeds": {
             "name": "YahooFinance",
@@ -1918,7 +1953,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ALGN",
         "feeds": {
             "name": "YahooFinance",
@@ -1935,7 +1970,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ALLE",
         "feeds": {
             "name": "YahooFinance",
@@ -1952,7 +1987,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "LNT",
         "feeds": {
             "name": "YahooFinance",
@@ -1969,7 +2004,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ALL",
         "feeds": {
             "name": "YahooFinance",
@@ -1986,7 +2021,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "GOOGL",
         "feeds": {
             "name": "YahooFinance",
@@ -2003,7 +2038,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "GOOG",
         "feeds": {
             "name": "YahooFinance",
@@ -2020,7 +2055,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MO",
         "feeds": {
             "name": "YahooFinance",
@@ -2037,7 +2072,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "AMZN",
         "feeds": {
             "name": "YahooFinance",
@@ -2054,7 +2089,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "AMCR",
         "feeds": {
             "name": "YahooFinance",
@@ -2071,7 +2106,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "AEE",
         "feeds": {
             "name": "YahooFinance",
@@ -2088,7 +2123,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "AAL",
         "feeds": {
             "name": "YahooFinance",
@@ -2105,7 +2140,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "AEP",
         "feeds": {
             "name": "YahooFinance",
@@ -2122,7 +2157,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "AXP",
         "feeds": {
             "name": "YahooFinance",
@@ -2139,7 +2174,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "AIG",
         "feeds": {
             "name": "YahooFinance",
@@ -2156,7 +2191,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "AMT",
         "feeds": {
             "name": "YahooFinance",
@@ -2173,7 +2208,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "AWK",
         "feeds": {
             "name": "YahooFinance",
@@ -2190,7 +2225,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "AMP",
         "feeds": {
             "name": "YahooFinance",
@@ -2207,7 +2242,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ABC",
         "feeds": {
             "name": "YahooFinance",
@@ -2224,7 +2259,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "AME",
         "feeds": {
             "name": "YahooFinance",
@@ -2241,7 +2276,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "AMGN",
         "feeds": {
             "name": "YahooFinance",
@@ -2258,7 +2293,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "APH",
         "feeds": {
             "name": "YahooFinance",
@@ -2275,7 +2310,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ADI",
         "feeds": {
             "name": "YahooFinance",
@@ -2292,7 +2327,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ANSS",
         "feeds": {
             "name": "YahooFinance",
@@ -2309,7 +2344,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ANTM",
         "feeds": {
             "name": "YahooFinance",
@@ -2326,7 +2361,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "AON",
         "feeds": {
             "name": "YahooFinance",
@@ -2343,7 +2378,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "AOS",
         "feeds": {
             "name": "YahooFinance",
@@ -2360,7 +2395,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "APA",
         "feeds": {
             "name": "YahooFinance",
@@ -2377,7 +2412,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "AAPL",
         "feeds": {
             "name": "YahooFinance",
@@ -2394,7 +2429,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "AMAT",
         "feeds": {
             "name": "YahooFinance",
@@ -2411,7 +2446,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "APTV",
         "feeds": {
             "name": "YahooFinance",
@@ -2428,7 +2463,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ADM",
         "feeds": {
             "name": "YahooFinance",
@@ -2445,7 +2480,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ANET",
         "feeds": {
             "name": "YahooFinance",
@@ -2462,7 +2497,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "AJG",
         "feeds": {
             "name": "YahooFinance",
@@ -2479,7 +2514,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "AIZ",
         "feeds": {
             "name": "YahooFinance",
@@ -2496,7 +2531,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "T",
         "feeds": {
             "name": "YahooFinance",
@@ -2513,7 +2548,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ATO",
         "feeds": {
             "name": "YahooFinance",
@@ -2530,7 +2565,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ADSK",
         "feeds": {
             "name": "YahooFinance",
@@ -2547,7 +2582,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ADP",
         "feeds": {
             "name": "YahooFinance",
@@ -2564,7 +2599,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "AZO",
         "feeds": {
             "name": "YahooFinance",
@@ -2581,7 +2616,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "AVB",
         "feeds": {
             "name": "YahooFinance",
@@ -2598,7 +2633,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "AVY",
         "feeds": {
             "name": "YahooFinance",
@@ -2615,7 +2650,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "BKR",
         "feeds": {
             "name": "YahooFinance",
@@ -2632,7 +2667,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "BLL",
         "feeds": {
             "name": "YahooFinance",
@@ -2649,7 +2684,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "BAC",
         "feeds": {
             "name": "YahooFinance",
@@ -2666,7 +2701,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "BK",
         "feeds": {
             "name": "YahooFinance",
@@ -2683,7 +2718,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "BAX",
         "feeds": {
             "name": "YahooFinance",
@@ -2700,7 +2735,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "BDX",
         "feeds": {
             "name": "YahooFinance",
@@ -2717,7 +2752,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "BRK.B",
         "feeds": {
             "name": "YahooFinance",
@@ -2734,7 +2769,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "BBY",
         "feeds": {
             "name": "YahooFinance",
@@ -2751,7 +2786,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "BIO",
         "feeds": {
             "name": "YahooFinance",
@@ -2768,7 +2803,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "BIIB",
         "feeds": {
             "name": "YahooFinance",
@@ -2785,7 +2820,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "BLK",
         "feeds": {
             "name": "YahooFinance",
@@ -2802,7 +2837,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "BA",
         "feeds": {
             "name": "YahooFinance",
@@ -2819,7 +2854,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "BKNG",
         "feeds": {
             "name": "YahooFinance",
@@ -2836,7 +2871,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "BWA",
         "feeds": {
             "name": "YahooFinance",
@@ -2853,7 +2888,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "BXP",
         "feeds": {
             "name": "YahooFinance",
@@ -2870,7 +2905,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "BSX",
         "feeds": {
             "name": "YahooFinance",
@@ -2887,7 +2922,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "BMY",
         "feeds": {
             "name": "YahooFinance",
@@ -2904,7 +2939,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "AVGO",
         "feeds": {
             "name": "YahooFinance",
@@ -2921,7 +2956,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "BR",
         "feeds": {
             "name": "YahooFinance",
@@ -2938,7 +2973,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "BF.B",
         "feeds": {
             "name": "YahooFinance",
@@ -2955,7 +2990,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CHRW",
         "feeds": {
             "name": "YahooFinance",
@@ -2972,7 +3007,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "COG",
         "feeds": {
             "name": "YahooFinance",
@@ -2989,7 +3024,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CDNS",
         "feeds": {
             "name": "YahooFinance",
@@ -3006,7 +3041,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CPB",
         "feeds": {
             "name": "YahooFinance",
@@ -3023,7 +3058,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "COF",
         "feeds": {
             "name": "YahooFinance",
@@ -3040,7 +3075,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CAH",
         "feeds": {
             "name": "YahooFinance",
@@ -3057,7 +3092,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "KMX",
         "feeds": {
             "name": "YahooFinance",
@@ -3074,7 +3109,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CCL",
         "feeds": {
             "name": "YahooFinance",
@@ -3091,7 +3126,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CARR",
         "feeds": {
             "name": "YahooFinance",
@@ -3108,7 +3143,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CTLT",
         "feeds": {
             "name": "YahooFinance",
@@ -3125,7 +3160,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CAT",
         "feeds": {
             "name": "YahooFinance",
@@ -3142,7 +3177,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CBOE",
         "feeds": {
             "name": "YahooFinance",
@@ -3159,7 +3194,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CBRE",
         "feeds": {
             "name": "YahooFinance",
@@ -3176,7 +3211,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CDW",
         "feeds": {
             "name": "YahooFinance",
@@ -3193,7 +3228,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CE",
         "feeds": {
             "name": "YahooFinance",
@@ -3210,7 +3245,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CNC",
         "feeds": {
             "name": "YahooFinance",
@@ -3227,7 +3262,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CNP",
         "feeds": {
             "name": "YahooFinance",
@@ -3244,7 +3279,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CERN",
         "feeds": {
             "name": "YahooFinance",
@@ -3261,7 +3296,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CF",
         "feeds": {
             "name": "YahooFinance",
@@ -3278,7 +3313,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "SCHW",
         "feeds": {
             "name": "YahooFinance",
@@ -3295,7 +3330,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CHTR",
         "feeds": {
             "name": "YahooFinance",
@@ -3312,7 +3347,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CVX",
         "feeds": {
             "name": "YahooFinance",
@@ -3329,7 +3364,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CMG",
         "feeds": {
             "name": "YahooFinance",
@@ -3346,7 +3381,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CB",
         "feeds": {
             "name": "YahooFinance",
@@ -3363,7 +3398,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CHD",
         "feeds": {
             "name": "YahooFinance",
@@ -3380,7 +3415,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CI",
         "feeds": {
             "name": "YahooFinance",
@@ -3397,7 +3432,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CINF",
         "feeds": {
             "name": "YahooFinance",
@@ -3414,7 +3449,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CTAS",
         "feeds": {
             "name": "YahooFinance",
@@ -3431,7 +3466,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CSCO",
         "feeds": {
             "name": "YahooFinance",
@@ -3448,7 +3483,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "C",
         "feeds": {
             "name": "YahooFinance",
@@ -3465,7 +3500,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CFG",
         "feeds": {
             "name": "YahooFinance",
@@ -3482,7 +3517,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CTXS",
         "feeds": {
             "name": "YahooFinance",
@@ -3499,7 +3534,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CLX",
         "feeds": {
             "name": "YahooFinance",
@@ -3516,7 +3551,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CME",
         "feeds": {
             "name": "YahooFinance",
@@ -3533,7 +3568,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CMS",
         "feeds": {
             "name": "YahooFinance",
@@ -3550,7 +3585,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "KO",
         "feeds": {
             "name": "YahooFinance",
@@ -3567,7 +3602,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CTSH",
         "feeds": {
             "name": "YahooFinance",
@@ -3584,7 +3619,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CL",
         "feeds": {
             "name": "YahooFinance",
@@ -3601,7 +3636,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CMCSA",
         "feeds": {
             "name": "YahooFinance",
@@ -3618,7 +3653,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CMA",
         "feeds": {
             "name": "YahooFinance",
@@ -3635,7 +3670,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CAG",
         "feeds": {
             "name": "YahooFinance",
@@ -3652,7 +3687,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "COP",
         "feeds": {
             "name": "YahooFinance",
@@ -3669,7 +3704,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ED",
         "feeds": {
             "name": "YahooFinance",
@@ -3686,7 +3721,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "STZ",
         "feeds": {
             "name": "YahooFinance",
@@ -3703,7 +3738,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "COO",
         "feeds": {
             "name": "YahooFinance",
@@ -3720,7 +3755,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CPRT",
         "feeds": {
             "name": "YahooFinance",
@@ -3737,7 +3772,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "GLW",
         "feeds": {
             "name": "YahooFinance",
@@ -3754,7 +3789,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CTVA",
         "feeds": {
             "name": "YahooFinance",
@@ -3771,7 +3806,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "COST",
         "feeds": {
             "name": "YahooFinance",
@@ -3788,7 +3823,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CCI",
         "feeds": {
             "name": "YahooFinance",
@@ -3805,7 +3840,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CSX",
         "feeds": {
             "name": "YahooFinance",
@@ -3822,7 +3857,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CMI",
         "feeds": {
             "name": "YahooFinance",
@@ -3839,7 +3874,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CVS",
         "feeds": {
             "name": "YahooFinance",
@@ -3856,7 +3891,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "DHI",
         "feeds": {
             "name": "YahooFinance",
@@ -3873,7 +3908,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "DHR",
         "feeds": {
             "name": "YahooFinance",
@@ -3890,7 +3925,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "DRI",
         "feeds": {
             "name": "YahooFinance",
@@ -3907,7 +3942,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "DVA",
         "feeds": {
             "name": "YahooFinance",
@@ -3924,7 +3959,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "DE",
         "feeds": {
             "name": "YahooFinance",
@@ -3941,7 +3976,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "DAL",
         "feeds": {
             "name": "YahooFinance",
@@ -3958,7 +3993,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "XRAY",
         "feeds": {
             "name": "YahooFinance",
@@ -3975,7 +4010,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "DVN",
         "feeds": {
             "name": "YahooFinance",
@@ -3992,7 +4027,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "DXCM",
         "feeds": {
             "name": "YahooFinance",
@@ -4009,7 +4044,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "FANG",
         "feeds": {
             "name": "YahooFinance",
@@ -4026,7 +4061,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "DLR",
         "feeds": {
             "name": "YahooFinance",
@@ -4043,7 +4078,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "DFS",
         "feeds": {
             "name": "YahooFinance",
@@ -4060,7 +4095,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "DISCA",
         "feeds": {
             "name": "YahooFinance",
@@ -4077,7 +4112,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "DISCK",
         "feeds": {
             "name": "YahooFinance",
@@ -4094,7 +4129,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "DISH",
         "feeds": {
             "name": "YahooFinance",
@@ -4111,7 +4146,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "DG",
         "feeds": {
             "name": "YahooFinance",
@@ -4128,7 +4163,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "DLTR",
         "feeds": {
             "name": "YahooFinance",
@@ -4145,7 +4180,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "D",
         "feeds": {
             "name": "YahooFinance",
@@ -4162,7 +4197,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "DPZ",
         "feeds": {
             "name": "YahooFinance",
@@ -4179,7 +4214,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "DOV",
         "feeds": {
             "name": "YahooFinance",
@@ -4196,7 +4231,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "DOW",
         "feeds": {
             "name": "YahooFinance",
@@ -4213,7 +4248,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "DTE",
         "feeds": {
             "name": "YahooFinance",
@@ -4230,7 +4265,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "DUK",
         "feeds": {
             "name": "YahooFinance",
@@ -4247,7 +4282,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "DRE",
         "feeds": {
             "name": "YahooFinance",
@@ -4264,7 +4299,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "DD",
         "feeds": {
             "name": "YahooFinance",
@@ -4281,7 +4316,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "DXC",
         "feeds": {
             "name": "YahooFinance",
@@ -4298,7 +4333,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "EMN",
         "feeds": {
             "name": "YahooFinance",
@@ -4315,7 +4350,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ETN",
         "feeds": {
             "name": "YahooFinance",
@@ -4332,7 +4367,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "EBAY",
         "feeds": {
             "name": "YahooFinance",
@@ -4349,7 +4384,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ECL",
         "feeds": {
             "name": "YahooFinance",
@@ -4366,7 +4401,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "EIX",
         "feeds": {
             "name": "YahooFinance",
@@ -4383,7 +4418,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "EW",
         "feeds": {
             "name": "YahooFinance",
@@ -4400,7 +4435,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "EA",
         "feeds": {
             "name": "YahooFinance",
@@ -4417,7 +4452,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "EMR",
         "feeds": {
             "name": "YahooFinance",
@@ -4434,7 +4469,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ENPH",
         "feeds": {
             "name": "YahooFinance",
@@ -4451,7 +4486,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ETR",
         "feeds": {
             "name": "YahooFinance",
@@ -4468,7 +4503,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "EOG",
         "feeds": {
             "name": "YahooFinance",
@@ -4485,7 +4520,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "EFX",
         "feeds": {
             "name": "YahooFinance",
@@ -4502,7 +4537,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "EQIX",
         "feeds": {
             "name": "YahooFinance",
@@ -4519,7 +4554,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "EQR",
         "feeds": {
             "name": "YahooFinance",
@@ -4536,7 +4571,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ESS",
         "feeds": {
             "name": "YahooFinance",
@@ -4553,7 +4588,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "EL",
         "feeds": {
             "name": "YahooFinance",
@@ -4570,7 +4605,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ETSY",
         "feeds": {
             "name": "YahooFinance",
@@ -4587,7 +4622,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "EVRG",
         "feeds": {
             "name": "YahooFinance",
@@ -4604,7 +4639,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ES",
         "feeds": {
             "name": "YahooFinance",
@@ -4621,7 +4656,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "RE",
         "feeds": {
             "name": "YahooFinance",
@@ -4638,7 +4673,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "EXC",
         "feeds": {
             "name": "YahooFinance",
@@ -4655,7 +4690,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "EXPE",
         "feeds": {
             "name": "YahooFinance",
@@ -4672,7 +4707,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "EXPD",
         "feeds": {
             "name": "YahooFinance",
@@ -4689,7 +4724,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "EXR",
         "feeds": {
             "name": "YahooFinance",
@@ -4706,7 +4741,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "XOM",
         "feeds": {
             "name": "YahooFinance",
@@ -4723,7 +4758,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "FFIV",
         "feeds": {
             "name": "YahooFinance",
@@ -4740,7 +4775,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "FB",
         "feeds": {
             "name": "YahooFinance",
@@ -4757,7 +4792,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "FAST",
         "feeds": {
             "name": "YahooFinance",
@@ -4774,7 +4809,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "FRT",
         "feeds": {
             "name": "YahooFinance",
@@ -4791,7 +4826,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "FDX",
         "feeds": {
             "name": "YahooFinance",
@@ -4808,7 +4843,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "FIS",
         "feeds": {
             "name": "YahooFinance",
@@ -4825,7 +4860,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "FITB",
         "feeds": {
             "name": "YahooFinance",
@@ -4842,7 +4877,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "FE",
         "feeds": {
             "name": "YahooFinance",
@@ -4859,7 +4894,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "FRC",
         "feeds": {
             "name": "YahooFinance",
@@ -4876,7 +4911,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "FISV",
         "feeds": {
             "name": "YahooFinance",
@@ -4893,7 +4928,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "FLT",
         "feeds": {
             "name": "YahooFinance",
@@ -4910,7 +4945,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "FLIR",
         "feeds": {
             "name": "YahooFinance",
@@ -4927,7 +4962,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "FLS",
         "feeds": {
             "name": "YahooFinance",
@@ -4944,7 +4979,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "FMC",
         "feeds": {
             "name": "YahooFinance",
@@ -4961,7 +4996,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "F",
         "feeds": {
             "name": "YahooFinance",
@@ -4978,7 +5013,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "FTNT",
         "feeds": {
             "name": "YahooFinance",
@@ -4995,7 +5030,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "FTV",
         "feeds": {
             "name": "YahooFinance",
@@ -5012,7 +5047,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "FBHS",
         "feeds": {
             "name": "YahooFinance",
@@ -5029,7 +5064,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "FOXA",
         "feeds": {
             "name": "YahooFinance",
@@ -5046,7 +5081,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "FOX",
         "feeds": {
             "name": "YahooFinance",
@@ -5063,7 +5098,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "BEN",
         "feeds": {
             "name": "YahooFinance",
@@ -5080,7 +5115,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "FCX",
         "feeds": {
             "name": "YahooFinance",
@@ -5097,7 +5132,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "GPS",
         "feeds": {
             "name": "YahooFinance",
@@ -5114,7 +5149,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "GRMN",
         "feeds": {
             "name": "YahooFinance",
@@ -5131,7 +5166,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "IT",
         "feeds": {
             "name": "YahooFinance",
@@ -5148,7 +5183,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "GD",
         "feeds": {
             "name": "YahooFinance",
@@ -5165,7 +5200,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "GE",
         "feeds": {
             "name": "YahooFinance",
@@ -5182,7 +5217,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "GIS",
         "feeds": {
             "name": "YahooFinance",
@@ -5199,7 +5234,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "GM",
         "feeds": {
             "name": "YahooFinance",
@@ -5216,7 +5251,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "GPC",
         "feeds": {
             "name": "YahooFinance",
@@ -5233,7 +5268,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "GILD",
         "feeds": {
             "name": "YahooFinance",
@@ -5250,7 +5285,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "GL",
         "feeds": {
             "name": "YahooFinance",
@@ -5267,7 +5302,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "GPN",
         "feeds": {
             "name": "YahooFinance",
@@ -5284,7 +5319,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "GS",
         "feeds": {
             "name": "YahooFinance",
@@ -5301,7 +5336,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "GWW",
         "feeds": {
             "name": "YahooFinance",
@@ -5318,7 +5353,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "HAL",
         "feeds": {
             "name": "YahooFinance",
@@ -5335,7 +5370,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "HBI",
         "feeds": {
             "name": "YahooFinance",
@@ -5352,7 +5387,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "HIG",
         "feeds": {
             "name": "YahooFinance",
@@ -5369,7 +5404,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "HAS",
         "feeds": {
             "name": "YahooFinance",
@@ -5386,7 +5421,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "HCA",
         "feeds": {
             "name": "YahooFinance",
@@ -5403,7 +5438,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "PEAK",
         "feeds": {
             "name": "YahooFinance",
@@ -5420,7 +5455,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "HSIC",
         "feeds": {
             "name": "YahooFinance",
@@ -5437,7 +5472,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "HSY",
         "feeds": {
             "name": "YahooFinance",
@@ -5454,7 +5489,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "HES",
         "feeds": {
             "name": "YahooFinance",
@@ -5471,7 +5506,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "HPE",
         "feeds": {
             "name": "YahooFinance",
@@ -5488,7 +5523,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "HLT",
         "feeds": {
             "name": "YahooFinance",
@@ -5505,7 +5540,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "HFC",
         "feeds": {
             "name": "YahooFinance",
@@ -5522,7 +5557,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "HOLX",
         "feeds": {
             "name": "YahooFinance",
@@ -5539,7 +5574,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "HD",
         "feeds": {
             "name": "YahooFinance",
@@ -5556,7 +5591,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "HON",
         "feeds": {
             "name": "YahooFinance",
@@ -5573,7 +5608,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "HRL",
         "feeds": {
             "name": "YahooFinance",
@@ -5590,7 +5625,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "HST",
         "feeds": {
             "name": "YahooFinance",
@@ -5607,7 +5642,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "HWM",
         "feeds": {
             "name": "YahooFinance",
@@ -5624,7 +5659,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "HPQ",
         "feeds": {
             "name": "YahooFinance",
@@ -5641,7 +5676,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "HUM",
         "feeds": {
             "name": "YahooFinance",
@@ -5658,7 +5693,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "HBAN",
         "feeds": {
             "name": "YahooFinance",
@@ -5675,7 +5710,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "HII",
         "feeds": {
             "name": "YahooFinance",
@@ -5692,7 +5727,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "IEX",
         "feeds": {
             "name": "YahooFinance",
@@ -5709,7 +5744,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "IDXX",
         "feeds": {
             "name": "YahooFinance",
@@ -5726,7 +5761,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "INFO",
         "feeds": {
             "name": "YahooFinance",
@@ -5743,7 +5778,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ITW",
         "feeds": {
             "name": "YahooFinance",
@@ -5760,7 +5795,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ILMN",
         "feeds": {
             "name": "YahooFinance",
@@ -5777,7 +5812,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "INCY",
         "feeds": {
             "name": "YahooFinance",
@@ -5794,7 +5829,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "IR",
         "feeds": {
             "name": "YahooFinance",
@@ -5811,7 +5846,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "INTC",
         "feeds": {
             "name": "YahooFinance",
@@ -5828,7 +5863,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ICE",
         "feeds": {
             "name": "YahooFinance",
@@ -5845,7 +5880,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "IBM",
         "feeds": {
             "name": "YahooFinance",
@@ -5862,7 +5897,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "IP",
         "feeds": {
             "name": "YahooFinance",
@@ -5879,7 +5914,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "IPG",
         "feeds": {
             "name": "YahooFinance",
@@ -5896,7 +5931,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "IFF",
         "feeds": {
             "name": "YahooFinance",
@@ -5913,7 +5948,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "INTU",
         "feeds": {
             "name": "YahooFinance",
@@ -5930,7 +5965,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ISRG",
         "feeds": {
             "name": "YahooFinance",
@@ -5947,7 +5982,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "IVZ",
         "feeds": {
             "name": "YahooFinance",
@@ -5964,7 +5999,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "IPGP",
         "feeds": {
             "name": "YahooFinance",
@@ -5981,7 +6016,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "IQV",
         "feeds": {
             "name": "YahooFinance",
@@ -5998,7 +6033,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "IRM",
         "feeds": {
             "name": "YahooFinance",
@@ -6015,7 +6050,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "JKHY",
         "feeds": {
             "name": "YahooFinance",
@@ -6032,7 +6067,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "J",
         "feeds": {
             "name": "YahooFinance",
@@ -6049,7 +6084,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "JBHT",
         "feeds": {
             "name": "YahooFinance",
@@ -6066,7 +6101,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "SJM",
         "feeds": {
             "name": "YahooFinance",
@@ -6083,7 +6118,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "JNJ",
         "feeds": {
             "name": "YahooFinance",
@@ -6100,7 +6135,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "JCI",
         "feeds": {
             "name": "YahooFinance",
@@ -6117,7 +6152,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "JPM",
         "feeds": {
             "name": "YahooFinance",
@@ -6134,7 +6169,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "JNPR",
         "feeds": {
             "name": "YahooFinance",
@@ -6151,7 +6186,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "KSU",
         "feeds": {
             "name": "YahooFinance",
@@ -6168,7 +6203,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "K",
         "feeds": {
             "name": "YahooFinance",
@@ -6185,7 +6220,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "KEY",
         "feeds": {
             "name": "YahooFinance",
@@ -6202,7 +6237,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "KEYS",
         "feeds": {
             "name": "YahooFinance",
@@ -6219,7 +6254,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "KMB",
         "feeds": {
             "name": "YahooFinance",
@@ -6236,7 +6271,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "KIM",
         "feeds": {
             "name": "YahooFinance",
@@ -6253,7 +6288,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "KMI",
         "feeds": {
             "name": "YahooFinance",
@@ -6270,7 +6305,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "KLAC",
         "feeds": {
             "name": "YahooFinance",
@@ -6287,7 +6322,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "KHC",
         "feeds": {
             "name": "YahooFinance",
@@ -6304,7 +6339,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "KR",
         "feeds": {
             "name": "YahooFinance",
@@ -6321,7 +6356,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "LB",
         "feeds": {
             "name": "YahooFinance",
@@ -6338,7 +6373,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "LHX",
         "feeds": {
             "name": "YahooFinance",
@@ -6355,7 +6390,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "LH",
         "feeds": {
             "name": "YahooFinance",
@@ -6372,7 +6407,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "LRCX",
         "feeds": {
             "name": "YahooFinance",
@@ -6389,7 +6424,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "LW",
         "feeds": {
             "name": "YahooFinance",
@@ -6406,7 +6441,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "LVS",
         "feeds": {
             "name": "YahooFinance",
@@ -6423,7 +6458,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "LEG",
         "feeds": {
             "name": "YahooFinance",
@@ -6440,7 +6475,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "LDOS",
         "feeds": {
             "name": "YahooFinance",
@@ -6457,7 +6492,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "LEN",
         "feeds": {
             "name": "YahooFinance",
@@ -6474,7 +6509,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "LLY",
         "feeds": {
             "name": "YahooFinance",
@@ -6491,7 +6526,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "LNC",
         "feeds": {
             "name": "YahooFinance",
@@ -6508,7 +6543,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "LIN",
         "feeds": {
             "name": "YahooFinance",
@@ -6525,7 +6560,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "LYV",
         "feeds": {
             "name": "YahooFinance",
@@ -6542,7 +6577,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "LKQ",
         "feeds": {
             "name": "YahooFinance",
@@ -6559,7 +6594,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "LMT",
         "feeds": {
             "name": "YahooFinance",
@@ -6576,7 +6611,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "L",
         "feeds": {
             "name": "YahooFinance",
@@ -6593,7 +6628,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "LOW",
         "feeds": {
             "name": "YahooFinance",
@@ -6610,7 +6645,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "LUMN",
         "feeds": {
             "name": "YahooFinance",
@@ -6627,7 +6662,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "LYB",
         "feeds": {
             "name": "YahooFinance",
@@ -6644,7 +6679,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MTB",
         "feeds": {
             "name": "YahooFinance",
@@ -6661,7 +6696,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MRO",
         "feeds": {
             "name": "YahooFinance",
@@ -6678,7 +6713,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MPC",
         "feeds": {
             "name": "YahooFinance",
@@ -6695,7 +6730,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MKTX",
         "feeds": {
             "name": "YahooFinance",
@@ -6712,7 +6747,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MAR",
         "feeds": {
             "name": "YahooFinance",
@@ -6729,7 +6764,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MMC",
         "feeds": {
             "name": "YahooFinance",
@@ -6746,7 +6781,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MLM",
         "feeds": {
             "name": "YahooFinance",
@@ -6763,7 +6798,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MAS",
         "feeds": {
             "name": "YahooFinance",
@@ -6780,7 +6815,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MA",
         "feeds": {
             "name": "YahooFinance",
@@ -6797,7 +6832,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MKC",
         "feeds": {
             "name": "YahooFinance",
@@ -6814,7 +6849,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MXIM",
         "feeds": {
             "name": "YahooFinance",
@@ -6831,7 +6866,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MCD",
         "feeds": {
             "name": "YahooFinance",
@@ -6848,7 +6883,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MCK",
         "feeds": {
             "name": "YahooFinance",
@@ -6865,7 +6900,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MDT",
         "feeds": {
             "name": "YahooFinance",
@@ -6882,7 +6917,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MRK",
         "feeds": {
             "name": "YahooFinance",
@@ -6899,7 +6934,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MET",
         "feeds": {
             "name": "YahooFinance",
@@ -6916,7 +6951,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MTD",
         "feeds": {
             "name": "YahooFinance",
@@ -6933,7 +6968,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MGM",
         "feeds": {
             "name": "YahooFinance",
@@ -6950,7 +6985,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MCHP",
         "feeds": {
             "name": "YahooFinance",
@@ -6967,7 +7002,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MU",
         "feeds": {
             "name": "YahooFinance",
@@ -6984,7 +7019,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MSFT",
         "feeds": {
             "name": "YahooFinance",
@@ -7001,7 +7036,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MAA",
         "feeds": {
             "name": "YahooFinance",
@@ -7018,7 +7053,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MHK",
         "feeds": {
             "name": "YahooFinance",
@@ -7035,7 +7070,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "TAP",
         "feeds": {
             "name": "YahooFinance",
@@ -7052,7 +7087,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MDLZ",
         "feeds": {
             "name": "YahooFinance",
@@ -7069,7 +7104,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MNST",
         "feeds": {
             "name": "YahooFinance",
@@ -7086,7 +7121,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MCO",
         "feeds": {
             "name": "YahooFinance",
@@ -7103,7 +7138,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MS",
         "feeds": {
             "name": "YahooFinance",
@@ -7120,7 +7155,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MOS",
         "feeds": {
             "name": "YahooFinance",
@@ -7137,7 +7172,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MSI",
         "feeds": {
             "name": "YahooFinance",
@@ -7154,7 +7189,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "MSCI",
         "feeds": {
             "name": "YahooFinance",
@@ -7171,7 +7206,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "NDAQ",
         "feeds": {
             "name": "YahooFinance",
@@ -7188,7 +7223,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "NTAP",
         "feeds": {
             "name": "YahooFinance",
@@ -7205,7 +7240,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "NFLX",
         "feeds": {
             "name": "YahooFinance",
@@ -7222,7 +7257,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "NWL",
         "feeds": {
             "name": "YahooFinance",
@@ -7239,7 +7274,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "NEM",
         "feeds": {
             "name": "YahooFinance",
@@ -7256,7 +7291,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "NWSA",
         "feeds": {
             "name": "YahooFinance",
@@ -7273,7 +7308,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "NWS",
         "feeds": {
             "name": "YahooFinance",
@@ -7290,7 +7325,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "NEE",
         "feeds": {
             "name": "YahooFinance",
@@ -7307,7 +7342,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "NLSN",
         "feeds": {
             "name": "YahooFinance",
@@ -7324,7 +7359,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "NKE",
         "feeds": {
             "name": "YahooFinance",
@@ -7341,7 +7376,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "NI",
         "feeds": {
             "name": "YahooFinance",
@@ -7358,7 +7393,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "NSC",
         "feeds": {
             "name": "YahooFinance",
@@ -7375,7 +7410,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "NTRS",
         "feeds": {
             "name": "YahooFinance",
@@ -7392,7 +7427,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "NOC",
         "feeds": {
             "name": "YahooFinance",
@@ -7409,7 +7444,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "NLOK",
         "feeds": {
             "name": "YahooFinance",
@@ -7426,7 +7461,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "NCLH",
         "feeds": {
             "name": "YahooFinance",
@@ -7443,7 +7478,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "NOV",
         "feeds": {
             "name": "YahooFinance",
@@ -7460,7 +7495,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "NRG",
         "feeds": {
             "name": "YahooFinance",
@@ -7477,7 +7512,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "NUE",
         "feeds": {
             "name": "YahooFinance",
@@ -7494,7 +7529,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "NVDA",
         "feeds": {
             "name": "YahooFinance",
@@ -7511,7 +7546,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "NVR",
         "feeds": {
             "name": "YahooFinance",
@@ -7528,7 +7563,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ORLY",
         "feeds": {
             "name": "YahooFinance",
@@ -7545,7 +7580,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "OXY",
         "feeds": {
             "name": "YahooFinance",
@@ -7562,7 +7597,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ODFL",
         "feeds": {
             "name": "YahooFinance",
@@ -7579,7 +7614,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "OMC",
         "feeds": {
             "name": "YahooFinance",
@@ -7596,7 +7631,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "OKE",
         "feeds": {
             "name": "YahooFinance",
@@ -7613,7 +7648,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ORCL",
         "feeds": {
             "name": "YahooFinance",
@@ -7630,7 +7665,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "OTIS",
         "feeds": {
             "name": "YahooFinance",
@@ -7647,7 +7682,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "PCAR",
         "feeds": {
             "name": "YahooFinance",
@@ -7664,7 +7699,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "PKG",
         "feeds": {
             "name": "YahooFinance",
@@ -7681,7 +7716,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "PH",
         "feeds": {
             "name": "YahooFinance",
@@ -7698,7 +7733,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "PAYX",
         "feeds": {
             "name": "YahooFinance",
@@ -7715,7 +7750,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "PAYC",
         "feeds": {
             "name": "YahooFinance",
@@ -7732,7 +7767,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "PYPL",
         "feeds": {
             "name": "YahooFinance",
@@ -7749,7 +7784,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "PNR",
         "feeds": {
             "name": "YahooFinance",
@@ -7766,7 +7801,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "PBCT",
         "feeds": {
             "name": "YahooFinance",
@@ -7783,7 +7818,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "PEP",
         "feeds": {
             "name": "YahooFinance",
@@ -7800,7 +7835,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "PKI",
         "feeds": {
             "name": "YahooFinance",
@@ -7817,7 +7852,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "PRGO",
         "feeds": {
             "name": "YahooFinance",
@@ -7834,7 +7869,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "PFE",
         "feeds": {
             "name": "YahooFinance",
@@ -7851,7 +7886,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "PM",
         "feeds": {
             "name": "YahooFinance",
@@ -7868,7 +7903,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "PSX",
         "feeds": {
             "name": "YahooFinance",
@@ -7885,7 +7920,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "PNW",
         "feeds": {
             "name": "YahooFinance",
@@ -7902,7 +7937,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "PXD",
         "feeds": {
             "name": "YahooFinance",
@@ -7919,7 +7954,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "PNC",
         "feeds": {
             "name": "YahooFinance",
@@ -7936,7 +7971,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "POOL",
         "feeds": {
             "name": "YahooFinance",
@@ -7953,7 +7988,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "PPG",
         "feeds": {
             "name": "YahooFinance",
@@ -7970,7 +8005,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "PPL",
         "feeds": {
             "name": "YahooFinance",
@@ -7987,7 +8022,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "PFG",
         "feeds": {
             "name": "YahooFinance",
@@ -8004,7 +8039,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "PG",
         "feeds": {
             "name": "YahooFinance",
@@ -8021,7 +8056,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "PGR",
         "feeds": {
             "name": "YahooFinance",
@@ -8038,7 +8073,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "PLD",
         "feeds": {
             "name": "YahooFinance",
@@ -8055,7 +8090,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "PRU",
         "feeds": {
             "name": "YahooFinance",
@@ -8072,7 +8107,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "PEG",
         "feeds": {
             "name": "YahooFinance",
@@ -8089,7 +8124,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "PSA",
         "feeds": {
             "name": "YahooFinance",
@@ -8106,7 +8141,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "PHM",
         "feeds": {
             "name": "YahooFinance",
@@ -8123,7 +8158,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "PVH",
         "feeds": {
             "name": "YahooFinance",
@@ -8140,7 +8175,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "QRVO",
         "feeds": {
             "name": "YahooFinance",
@@ -8157,7 +8192,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "PWR",
         "feeds": {
             "name": "YahooFinance",
@@ -8174,7 +8209,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "QCOM",
         "feeds": {
             "name": "YahooFinance",
@@ -8191,7 +8226,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "DGX",
         "feeds": {
             "name": "YahooFinance",
@@ -8208,7 +8243,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "RL",
         "feeds": {
             "name": "YahooFinance",
@@ -8225,7 +8260,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "RJF",
         "feeds": {
             "name": "YahooFinance",
@@ -8242,7 +8277,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "RTX",
         "feeds": {
             "name": "YahooFinance",
@@ -8259,7 +8294,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "O",
         "feeds": {
             "name": "YahooFinance",
@@ -8276,7 +8311,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "REG",
         "feeds": {
             "name": "YahooFinance",
@@ -8293,7 +8328,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "REGN",
         "feeds": {
             "name": "YahooFinance",
@@ -8310,7 +8345,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "RF",
         "feeds": {
             "name": "YahooFinance",
@@ -8327,7 +8362,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "RSG",
         "feeds": {
             "name": "YahooFinance",
@@ -8344,7 +8379,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "RMD",
         "feeds": {
             "name": "YahooFinance",
@@ -8361,7 +8396,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "RHI",
         "feeds": {
             "name": "YahooFinance",
@@ -8378,7 +8413,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ROK",
         "feeds": {
             "name": "YahooFinance",
@@ -8395,7 +8430,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ROL",
         "feeds": {
             "name": "YahooFinance",
@@ -8412,7 +8447,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ROP",
         "feeds": {
             "name": "YahooFinance",
@@ -8429,7 +8464,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ROST",
         "feeds": {
             "name": "YahooFinance",
@@ -8446,7 +8481,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "RCL",
         "feeds": {
             "name": "YahooFinance",
@@ -8463,7 +8498,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "SPGI",
         "feeds": {
             "name": "YahooFinance",
@@ -8480,7 +8515,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "CRM",
         "feeds": {
             "name": "YahooFinance",
@@ -8497,7 +8532,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "SBAC",
         "feeds": {
             "name": "YahooFinance",
@@ -8514,7 +8549,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "SLB",
         "feeds": {
             "name": "YahooFinance",
@@ -8531,7 +8566,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "STX",
         "feeds": {
             "name": "YahooFinance",
@@ -8548,7 +8583,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "SEE",
         "feeds": {
             "name": "YahooFinance",
@@ -8565,7 +8600,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "SRE",
         "feeds": {
             "name": "YahooFinance",
@@ -8582,7 +8617,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "NOW",
         "feeds": {
             "name": "YahooFinance",
@@ -8599,7 +8634,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "SHW",
         "feeds": {
             "name": "YahooFinance",
@@ -8616,7 +8651,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "SPG",
         "feeds": {
             "name": "YahooFinance",
@@ -8633,7 +8668,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "SWKS",
         "feeds": {
             "name": "YahooFinance",
@@ -8650,7 +8685,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "SLG",
         "feeds": {
             "name": "YahooFinance",
@@ -8667,7 +8702,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "SNA",
         "feeds": {
             "name": "YahooFinance",
@@ -8684,7 +8719,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "SO",
         "feeds": {
             "name": "YahooFinance",
@@ -8701,7 +8736,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "LUV",
         "feeds": {
             "name": "YahooFinance",
@@ -8718,7 +8753,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "SWK",
         "feeds": {
             "name": "YahooFinance",
@@ -8735,7 +8770,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "SBUX",
         "feeds": {
             "name": "YahooFinance",
@@ -8752,7 +8787,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "STT",
         "feeds": {
             "name": "YahooFinance",
@@ -8769,7 +8804,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "STE",
         "feeds": {
             "name": "YahooFinance",
@@ -8786,7 +8821,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "SYK",
         "feeds": {
             "name": "YahooFinance",
@@ -8803,7 +8838,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "SIVB",
         "feeds": {
             "name": "YahooFinance",
@@ -8820,7 +8855,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "SYF",
         "feeds": {
             "name": "YahooFinance",
@@ -8837,7 +8872,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "SNPS",
         "feeds": {
             "name": "YahooFinance",
@@ -8854,7 +8889,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "SYY",
         "feeds": {
             "name": "YahooFinance",
@@ -8871,7 +8906,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "TMUS",
         "feeds": {
             "name": "YahooFinance",
@@ -8888,7 +8923,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "TROW",
         "feeds": {
             "name": "YahooFinance",
@@ -8905,7 +8940,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "TTWO",
         "feeds": {
             "name": "YahooFinance",
@@ -8922,7 +8957,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "TPR",
         "feeds": {
             "name": "YahooFinance",
@@ -8939,7 +8974,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "TGT",
         "feeds": {
             "name": "YahooFinance",
@@ -8956,7 +8991,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "TEL",
         "feeds": {
             "name": "YahooFinance",
@@ -8973,7 +9008,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "FTI",
         "feeds": {
             "name": "YahooFinance",
@@ -8990,7 +9025,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "TDY",
         "feeds": {
             "name": "YahooFinance",
@@ -9007,7 +9042,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "TFX",
         "feeds": {
             "name": "YahooFinance",
@@ -9024,7 +9059,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "TER",
         "feeds": {
             "name": "YahooFinance",
@@ -9041,7 +9076,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "TSLA",
         "feeds": {
             "name": "YahooFinance",
@@ -9058,7 +9093,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "TXN",
         "feeds": {
             "name": "YahooFinance",
@@ -9075,7 +9110,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "TXT",
         "feeds": {
             "name": "YahooFinance",
@@ -9092,7 +9127,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "TMO",
         "feeds": {
             "name": "YahooFinance",
@@ -9109,7 +9144,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "TJX",
         "feeds": {
             "name": "YahooFinance",
@@ -9126,7 +9161,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "TSCO",
         "feeds": {
             "name": "YahooFinance",
@@ -9143,7 +9178,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "TT",
         "feeds": {
             "name": "YahooFinance",
@@ -9160,7 +9195,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "TDG",
         "feeds": {
             "name": "YahooFinance",
@@ -9177,7 +9212,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "TRV",
         "feeds": {
             "name": "YahooFinance",
@@ -9194,7 +9229,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "TRMB",
         "feeds": {
             "name": "YahooFinance",
@@ -9211,7 +9246,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "TFC",
         "feeds": {
             "name": "YahooFinance",
@@ -9228,7 +9263,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "TWTR",
         "feeds": {
             "name": "YahooFinance",
@@ -9245,7 +9280,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "TYL",
         "feeds": {
             "name": "YahooFinance",
@@ -9262,7 +9297,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "TSN",
         "feeds": {
             "name": "YahooFinance",
@@ -9279,7 +9314,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "UDR",
         "feeds": {
             "name": "YahooFinance",
@@ -9296,7 +9331,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ULTA",
         "feeds": {
             "name": "YahooFinance",
@@ -9313,7 +9348,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "USB",
         "feeds": {
             "name": "YahooFinance",
@@ -9330,7 +9365,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "UAA",
         "feeds": {
             "name": "YahooFinance",
@@ -9347,7 +9382,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "UA",
         "feeds": {
             "name": "YahooFinance",
@@ -9364,7 +9399,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "UNP",
         "feeds": {
             "name": "YahooFinance",
@@ -9381,7 +9416,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "UAL",
         "feeds": {
             "name": "YahooFinance",
@@ -9398,7 +9433,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "UNH",
         "feeds": {
             "name": "YahooFinance",
@@ -9415,7 +9450,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "UPS",
         "feeds": {
             "name": "YahooFinance",
@@ -9432,7 +9467,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "URI",
         "feeds": {
             "name": "YahooFinance",
@@ -9449,7 +9484,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "UHS",
         "feeds": {
             "name": "YahooFinance",
@@ -9466,7 +9501,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "UNM",
         "feeds": {
             "name": "YahooFinance",
@@ -9483,7 +9518,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "VLO",
         "feeds": {
             "name": "YahooFinance",
@@ -9500,7 +9535,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "VAR",
         "feeds": {
             "name": "YahooFinance",
@@ -9517,7 +9552,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "VTR",
         "feeds": {
             "name": "YahooFinance",
@@ -9534,7 +9569,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "VRSN",
         "feeds": {
             "name": "YahooFinance",
@@ -9551,7 +9586,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "VRSK",
         "feeds": {
             "name": "YahooFinance",
@@ -9568,7 +9603,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "VZ",
         "feeds": {
             "name": "YahooFinance",
@@ -9585,7 +9620,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "VRTX",
         "feeds": {
             "name": "YahooFinance",
@@ -9602,7 +9637,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "VFC",
         "feeds": {
             "name": "YahooFinance",
@@ -9619,7 +9654,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "VIAC",
         "feeds": {
             "name": "YahooFinance",
@@ -9636,7 +9671,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "VTRS",
         "feeds": {
             "name": "YahooFinance",
@@ -9653,7 +9688,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "V",
         "feeds": {
             "name": "YahooFinance",
@@ -9670,7 +9705,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "VNT",
         "feeds": {
             "name": "YahooFinance",
@@ -9687,7 +9722,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "VNO",
         "feeds": {
             "name": "YahooFinance",
@@ -9704,7 +9739,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "VMC",
         "feeds": {
             "name": "YahooFinance",
@@ -9721,7 +9756,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "WRB",
         "feeds": {
             "name": "YahooFinance",
@@ -9738,7 +9773,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "WAB",
         "feeds": {
             "name": "YahooFinance",
@@ -9755,7 +9790,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "WMT",
         "feeds": {
             "name": "YahooFinance",
@@ -9772,7 +9807,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "WBA",
         "feeds": {
             "name": "YahooFinance",
@@ -9789,7 +9824,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "DIS",
         "feeds": {
             "name": "YahooFinance",
@@ -9806,7 +9841,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "WM",
         "feeds": {
             "name": "YahooFinance",
@@ -9823,7 +9858,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "WAT",
         "feeds": {
             "name": "YahooFinance",
@@ -9840,7 +9875,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "WEC",
         "feeds": {
             "name": "YahooFinance",
@@ -9857,7 +9892,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "WFC",
         "feeds": {
             "name": "YahooFinance",
@@ -9874,7 +9909,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "WELL",
         "feeds": {
             "name": "YahooFinance",
@@ -9891,7 +9926,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "WST",
         "feeds": {
             "name": "YahooFinance",
@@ -9908,7 +9943,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "WDC",
         "feeds": {
             "name": "YahooFinance",
@@ -9925,7 +9960,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "WU",
         "feeds": {
             "name": "YahooFinance",
@@ -9942,7 +9977,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "WRK",
         "feeds": {
             "name": "YahooFinance",
@@ -9959,7 +9994,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "WY",
         "feeds": {
             "name": "YahooFinance",
@@ -9976,7 +10011,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "WHR",
         "feeds": {
             "name": "YahooFinance",
@@ -9993,7 +10028,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "WMB",
         "feeds": {
             "name": "YahooFinance",
@@ -10010,7 +10045,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "WLTW",
         "feeds": {
             "name": "YahooFinance",
@@ -10027,7 +10062,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "WYNN",
         "feeds": {
             "name": "YahooFinance",
@@ -10044,7 +10079,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "XEL",
         "feeds": {
             "name": "YahooFinance",
@@ -10061,7 +10096,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "XRX",
         "feeds": {
             "name": "YahooFinance",
@@ -10078,7 +10113,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "XLNX",
         "feeds": {
             "name": "YahooFinance",
@@ -10095,7 +10130,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "XYL",
         "feeds": {
             "name": "YahooFinance",
@@ -10112,7 +10147,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "YUM",
         "feeds": {
             "name": "YahooFinance",
@@ -10129,7 +10164,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ZBRA",
         "feeds": {
             "name": "YahooFinance",
@@ -10146,7 +10181,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ZBH",
         "feeds": {
             "name": "YahooFinance",
@@ -10163,7 +10198,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ZION",
         "feeds": {
             "name": "YahooFinance",
@@ -10180,7 +10215,7 @@
         "market": "SP500",
         "active_type": "stock",
         "active_flag": true,
-        "timestamp": "11-02-2021",
+        "timestamp": "12-02-2021",
         "tickerKey": "ZTS",
         "feeds": {
             "name": "YahooFinance",
@@ -10191,11 +10226,28 @@
         "ticker": "SP500",
         "market": "SP500",
         "active_type": "ETF",
-        "timestamp": "11-02-2021",
         "tickerKey": "^GSPC",
         "feeds": {
             "name": "YahooFinance",
             "ticker": "^GSPC"
+        },
+        "active_flag": false,
+        "timestamp": "12-02-2021"
+    },
+    {
+        "ticker": "ACX",
+        "company": "Acerinox",
+        "sector": "Mineral, metales y transformaci\u00f3n",
+        "entry_date": "2015",
+        "ISIN": "ES0132105018",
+        "market": "IBEX35",
+        "active_type": "stock",
+        "active_flag": true,
+        "timestamp": "12-02-2021",
+        "tickerKey": "ACX.MC.TT",
+        "feeds": {
+            "name": "YahooFinance",
+            "ticker": "ACX.MC"
         }
     }
 ]

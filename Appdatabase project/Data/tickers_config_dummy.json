@@ -1,10 +1,56 @@
 {
-    "metadata": [
-        {
-            "timestamp": "11/02/2021 17:46:41"
-        }
-    ],
+    "metadata": {
+        "timestamp": "11/02/2021 17:22:30"
+    },
     "data": [
+        {
+            "ticker": "Dummy1",
+            "company": "Dummy1",
+            "sector": "Piruletas",
+            "entry_date": "2015",
+            "ISIN": "ISINDummy",
+            "market": "IBEX35",
+            "active_type": "stock",
+            "active_flag": true,
+            "timestamp": "11-02-2021",
+            "tickerKey": "Dummy1.MC.TT",
+            "feeds": {
+                "name": "YahooFinance",
+                "ticker": "Dummy1.MC"
+            }
+        },
+        {
+            "ticker": "Dummy2",
+            "company": "Dummy2",
+            "sector": "Piruletas",
+            "entry_date": "2015",
+            "ISIN": "ISINDummy2",
+            "market": "IBEX35",
+            "active_type": "stock",
+            "active_flag": true,
+            "timestamp": "01-01-1999",
+            "tickerKey": "Dummy2.MC.TT",
+            "feeds": {
+                "name": "YahooFinance",
+                "ticker": "Dummy2.MC"
+            }
+        },
+        {
+            "ticker": "Dummy3",
+            "company": "Dummy3",
+            "sector": "Piruletas",
+            "entry_date": "2015",
+            "ISIN": "ISINDummy3",
+            "market": "IBEX35",
+            "active_type": "stock",
+            "active_flag": true,
+            "timestamp": "11-02-2021",
+            "tickerKey": "Dummy3.MC.TT",
+            "feeds": {
+                "name": "YahooFinance",
+                "ticker": "Dummy3.MC"
+            }
+        },
         {
             "ticker": "ANA",
             "company": "Acciona",
@@ -14,27 +60,11 @@
             "market": "IBEX35",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "11-02-2021",
+            "timestamp": "01-01-1999",
             "tickerKey": "ANA.MC.TT",
             "feeds": {
                 "name": "YahooFinance",
                 "ticker": "ANA.MC"
-            }
-        },
-        {
-            "ticker": "ACX",
-            "company": "Acerinox",
-            "sector": "Mineral, metales y transformaci\u00f3n",
-            "entry_date": "2015",
-            "ISIN": "ES0132105018",
-            "market": "IBEX35",
-            "active_type": "stock",
-            "active_flag": true,
-            "timestamp": "11-02-2021",
-            "tickerKey": "ACX.MC.TT",
-            "feeds": {
-                "name": "YahooFinance",
-                "ticker": "ACX.MC"
             }
         },
         {
@@ -569,7 +599,6 @@
             "ticker": "IBEX35",
             "market": "IBEX35",
             "active_type": "ETF",
-            "timestamp": "11-02-2021",
             "tickerKey": "^IBEX",
             "feeds": {
                 "name": "YahooFinance",
@@ -1030,7 +1059,6 @@
             "ticker": "DAX30",
             "market": "DAX30",
             "active_type": "ETF",
-            "timestamp": "11-02-2021",
             "tickerKey": "^GDAXI",
             "feeds": {
                 "name": "YahooFinance",
@@ -1601,7 +1629,6 @@
             "ticker": "CAC40",
             "market": "CAC40",
             "active_type": "ETF",
-            "timestamp": "11-02-2021",
             "tickerKey": "^FCHI",
             "feeds": {
                 "name": "YahooFinance",
@@ -10197,7 +10224,6 @@
             "ticker": "SP500",
             "market": "SP500",
             "active_type": "ETF",
-            "timestamp": "11-02-2021",
             "tickerKey": "^GSPC",
             "feeds": {
                 "name": "YahooFinance",
