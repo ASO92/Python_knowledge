@@ -3,6 +3,11 @@ from os import path
 import json
 import shutil
 
+import os
+from os import path 
+import json
+import shutil
+
 class data_housekeeper():
     
     def __init__(self):
@@ -39,12 +44,19 @@ class data_housekeeper():
             print('No dir deleted: ')        
 
     @staticmethod
-    def create_my_path(dir_path):
-        myPath = '.'
-        for directory in dir_path:
-                myPath += '/' +  directory
-        return myPath
-            
+    def create_nested_dir_path(dir_list):
+        nested_path = '/' + '/'.join(dir_list)
+        return nested_path
+    
+    
+    @staticmethod
+    def create_file_path_in_nested_dir(dir_list, file_name):
+        nested_dir_path_ = data_housekeeper.create_nested_dir_path(dir_list)
+        print('nested_dir_path: ', nested_dir_path_)
+        file_path_in_nested_dir_ = nested_dir_path_ + '/' + file_name
+        return file_path_in_nested_dir_
+    
+
     @staticmethod
     def create_nested_dir(dir_path):
         try:
@@ -74,27 +86,29 @@ class data_housekeeper():
             print('Error: No directory created. Posible causes: \nWrong type imput arguments \nUnable to access to nested dir')
             return os.getcwds()
                 
+    
+    
     @staticmethod
     def list_dict_to_json(dir_list,upper_stages,file_name, dictionary_list):
-        dir_path = data_housekeeper.create_nested_dir_in_parent_dir(dir_list,upper_stages)
-        print('dir_path: ', dir_path)
+        parent_dir_path = data_housekeeper.create_nested_dir_in_parent_dir(dir_list,upper_stages)
+        print('parent_dir_path: ', parent_dir_path)
         print('dir_list: ', dir_list)
-        nested_path = '/' + '/'.join(dir_list) +'/'
-        print('nested_path: ', nested_path)
-        file_path = dir_path + nested_path+ file_name
+        file_path = parent_dir_path + data_housekeeper.create_file_path_in_nested_dir(dir_list, file_name)
         print('file path: ', file_path)
         with open(file_path, 'w') as json_file:
             json.dump(dictionary_list, json_file, indent=4)
 
     @staticmethod
     def load_json_to_list(dir_list, file_name):
-        dir_path = data_housekeeper.create_my_path(dir_list)
-        print(dir_path)
-        file_path = dir_path + '/' +file_name
-        print(file_path)
-        with open(file_path) as json_file:
+        relative_file_path_ = '.' + data_housekeeper.create_file_path_in_nested_dir(dir_list, file_name)
+        print(relative_file_path_)
+        with open(relative_file_path_) as json_file:
             data = json.load(json_file)
         return data
+
+def instance_class():
+    myHousekeeper = data_housekeeper()
+    return myHousekeeper
 
 def instance_class():
     myHousekeeper = data_housekeeper()
