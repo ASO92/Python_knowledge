@@ -7,6 +7,7 @@ Subtasks
 - Añadir metodo para incluir ticker_key dentro de la clase tickermanager_wiki. OK
 - Añadir metodo flag activo/no activo. OK
 - metodo para guardar archivo de configuración de tickers: tickers_config = metadata(fecha) + tickers_list. OK
+- Cambiar formato de tickers_config, al que ha dicho Xabier. OK
 - metodo UPDATE_TICKERS_CONFIG, dentro de Tickermanager(base) para comparar archivo de configuracion antiguo y nuevo, cambiando flags y reportando cambios.
     - 1.- Cargar archivo de config antiguo. Si no existe, se crea uno por primera vez y se omiten los demás pasos.
     - 2.- Hacer loop sobre antiguo o nuevo ? -> Sobre antiguo porque hay que poner en flag = False las que no estén en el nuevo. 
@@ -17,7 +18,8 @@ Subtasks
         3.2.-
 
 - nueva clase data_manager(base), cuyo input es el tickers_config
-    - método: descargar e
+    - método: descargar data asociada a un ticker. OK
     - 
 - sublcase data_manager_Yahoo_Finance
-    - métodos: el número mínimo de métodos, que sean específicos, el resto van a la clase padre.
+    METODOS. El número mínimo de métodos, que sean específicos, el resto van a la clase padre.
+    - método download_ticker_data : descargar data asociada a un ticker. OK
