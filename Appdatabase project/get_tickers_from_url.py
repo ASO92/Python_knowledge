@@ -16,6 +16,7 @@ wiki_metadata = [{'market':'IBEX35','url':'https://es.wikipedia.org/wiki/IBEX_35
 
 
 def get_wikitable_from_url(wiki_metadata) -> dict:
+    today = date.today()
     resp = requests.get(wiki_metadata['url'])
     soup = bs.BeautifulSoup(resp.text, 'lxml')
     table = soup.find('table', {'class': 'wikitable sortable'})
@@ -28,8 +29,12 @@ def get_wikitable_from_url(wiki_metadata) -> dict:
         wikitable_dict['market'] = wiki_metadata['market']
         wikitable_dict['active_type'] = 'stock'
         wikitable_dict['active_flag'] = True
+        wikitable_dict['timestamp'] = today.strftime("%d-%m-%Y")
         wikitable_data.append(wikitable_dict)
-    wikitable_data.append({'ticker':wiki_metadata['market'] ,'market':wiki_metadata['market'], 'active_type':'ETF'})
+    wikitable_data.append({'ticker':wiki_metadata['market'] ,
+                               'market':wiki_metadata['market'], 
+                               'active_type':'ETF',
+                               'timestamp':today.strftime("%d-%m-%Y")})
     return wikitable_data
 
 def get_raw_ticker_list():    
