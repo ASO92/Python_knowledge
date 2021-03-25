@@ -600,8 +600,7 @@
             "name": "YahooFinance",
             "ticker": "^IBEX"
         },
-        "active_flag": false,
-        "timestamp": "12-02-2021"
+        "active_flag": true
     },
     {
         "ticker": "ADS",
@@ -1062,8 +1061,7 @@
             "name": "YahooFinance",
             "ticker": "^GDAXI"
         },
-        "active_flag": false,
-        "timestamp": "12-02-2021"
+        "active_flag": true
     },
     {
         "ticker": "Euronext: AC",
@@ -1634,8 +1632,7 @@
             "name": "YahooFinance",
             "ticker": "^FCHI"
         },
-        "active_flag": false,
-        "timestamp": "12-02-2021"
+        "active_flag": true
     },
     {
         "ticker": "MMM",
@@ -10231,8 +10228,7 @@
             "name": "YahooFinance",
             "ticker": "^GSPC"
         },
-        "active_flag": false,
-        "timestamp": "12-02-2021"
+        "active_flag": true
     },
     {
         "ticker": "ACX",

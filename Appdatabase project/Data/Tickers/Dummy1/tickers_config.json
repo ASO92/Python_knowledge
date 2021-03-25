@@ -15,7 +15,7 @@
             "active_type": "stock",
             "active_flag": true,
             "timestamp": "21-03-2021",
-            "data_update": "-",
+            "data_update": "25-03-2021",
             "tickerKey": "ANA.MC.TT",
             "feeds": {
                 "name": "YahooFinance",
@@ -32,7 +32,7 @@
             "active_type": "stock",
             "active_flag": true,
             "timestamp": "21-03-2021",
-            "data_update": "-",
+            "data_update": "25-03-2021",
             "tickerKey": "ACX.MC.TT",
             "feeds": {
                 "name": "YahooFinance",
