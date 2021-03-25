@@ -30,11 +30,13 @@ def get_wikitable_from_url(wiki_metadata) -> dict:
         wikitable_dict['active_type'] = 'stock'
         wikitable_dict['active_flag'] = True
         wikitable_dict['timestamp'] = today.strftime("%d-%m-%Y")
+        wikitable_dict['data_update'] = '-'
         wikitable_data.append(wikitable_dict)
-    wikitable_data.append({'ticker':wiki_metadata['market'] ,
-                               'market':wiki_metadata['market'], 
-                               'active_type':'ETF',
-                               'timestamp':today.strftime("%d-%m-%Y")})
+    wikitable_data.append({'ticker': wiki_metadata['market'] , 
+                           'market': wiki_metadata['market'], 
+                           'timestamp':today.strftime("%d-%m-%Y"),
+                           'data_update': '-', 
+                           'active_type':'ETF'})
     return wikitable_data
 
 def get_raw_ticker_list():    

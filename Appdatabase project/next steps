@@ -8,18 +8,19 @@ Subtasks
 - Añadir metodo flag activo/no activo. OK
 - metodo para guardar archivo de configuración de tickers: tickers_config = metadata(fecha) + tickers_list. OK
 - Cambiar formato de tickers_config, al que ha dicho Xabier. OK
-- metodo UPDATE_TICKERS_CONFIG, dentro de Tickermanager(base) para comparar archivo de configuracion antiguo y nuevo, cambiando flags y reportando cambios.
-    - 1.- Cargar archivo de config antiguo. Si no existe, se crea uno por primera vez y se omiten los demás pasos.
-    - 2.- Hacer loop sobre antiguo o nuevo ? -> Sobre antiguo porque hay que poner en flag = False las que no estén en el nuevo. 
-            - Hacer de la nueva lista un stack? USar el concepto de stack?
-        # FIX ha que evitar el doblel loop.
-    - 3.- En este loop hay if statemens:
-        3.1.-
-        3.2.-
+- metodo UPDATE_TICKERS_CONFIG, dentro de Tickermanager(base) para comparar archivo de configuracion antiguo y nuevo, cambiando flags y reportando cambios. OK
 
 - nueva clase data_manager(base), cuyo input es el tickers_config
     - método: descargar data asociada a un ticker. OK
-    - 
-- sublcase data_manager_Yahoo_Finance
+    
+
+
+
+- sublcase data_manager_Yahoo_Finance. OK
     METODOS. El número mínimo de métodos, que sean específicos, el resto van a la clase padre.
     - método download_ticker_data : descargar data asociada a un ticker. OK
+    
+    
+- nuevo método en housekeeping para guardar datos en CSV.
+    - Método listas a csv en nested dir. OK -> list_to_csv
+    - Método dataframes a csv en nested dir. 

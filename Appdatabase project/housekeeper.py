@@ -1,11 +1,7 @@
 import os
 from os import path 
 import json
-import shutil
-
-import os
-from os import path 
-import json
+import csv
 import shutil
 
 class data_housekeeper():
@@ -86,8 +82,6 @@ class data_housekeeper():
             print('Error: No directory created. Posible causes: \nWrong type imput arguments \nUnable to access to nested dir')
             return os.getcwds()
                 
-    
-    
     @staticmethod
     def list_dict_to_json(dir_list,upper_stages,file_name, dictionary_list):
         parent_dir_path = data_housekeeper.create_nested_dir_in_parent_dir(dir_list,upper_stages)
@@ -105,10 +99,20 @@ class data_housekeeper():
         with open(relative_file_path_) as json_file:
             data = json.load(json_file)
         return data
-
-def instance_class():
-    myHousekeeper = data_housekeeper()
-    return myHousekeeper
+    
+    @staticmethod
+    def list_to_csv(dir_list, upper_stages, file_name, data):
+        relative_file_path_ = '.' + data_housekeeper.create_file_path_in_nested_dir(dir_list, file_name)
+        print(relative_file_path_)
+        with open(relative_file_path_, 'w', newline='') as file:
+            write = csv.writer(file)
+            write.writerows(data)
+    
+    @staticmethod
+    def df_to_csv(dir_list, upper_stages, file_name, data):
+        relative_file_path_ = '.' + data_housekeeper.create_file_path_in_nested_dir(dir_list, file_name) + '.csv'
+        print(relative_file_path_)
+        data.to_csv(relative_file_path_)
 
 def instance_class():
     myHousekeeper = data_housekeeper()
