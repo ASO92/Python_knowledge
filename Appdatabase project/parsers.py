@@ -26,7 +26,6 @@ class BaseParser():
        
     def parse(self, name, prefix, suffix, excedent_string):
         key_tuple = (self.__source,self.__target) # Tuple key to select Source-Target exceptions
-        
         exception_dict = self.__exceptions.get(key_tuple, {}) #FIX inform not properly loaded. Mirar longitud del dict.
 
         if name in exception_dict:
@@ -55,15 +54,13 @@ class WikiToYahooFinance_Parser(BaseParser):
                               ('market','DAX30'):{'prefix':'','suffix':'.DE', 'excedent_string':''},
                               ('market','SP500'):{'prefix':'','suffix':'', 'excedent_string':''}}
         
-        self.__parser_keys_tickerKey = {('market','IBEX35'):{'prefix':'','suffix':'.MC.TT','excedent_string':''},
-                                       ('market','CAC40') :{'prefix':'','suffix':'.PA.TT','excedent_string':'Euronext: '},
-               ('market','DAX30') :{'prefix':'','suffix':'.DE.TT', 'excedent_string':''},
-               ('market','SP500') :{'prefix':'','suffix':'', 'excedent_string':''}}
-        
         
     def feeder_ticker(self,feed_ticker): # Appends feeds to original dictionary, under 'feeds' label. Uses parse_market.
-        feed_ticker['feeds'] = {'name':self.get_target(),'ticker':self.parse_markets(feed_ticker, self.__parser_keys_feed)} #Feeds
+        feed_ticker['feeds'] = {'name': self.get_target(), 
+                                'ticker': self.parse_markets(feed_ticker, self.__parser_keys_feed)
+                               } #Feeds
         return feed_ticker
+    
     
 class WikiToTickerKey_Parser(BaseParser):
     
@@ -71,9 +68,9 @@ class WikiToTickerKey_Parser(BaseParser):
         super().__init__(source='Wiki', target='YahooFinance')
         
         self.__parser_keys_tickerKey = {('market','IBEX35'):{'prefix':'','suffix':'.MC.TT','excedent_string':''},
-                                       ('market','CAC40') :{'prefix':'','suffix':'.PA.TT','excedent_string':'Euronext: '},
-               ('market','DAX30') :{'prefix':'','suffix':'.DE.TT', 'excedent_string':''},
-               ('market','SP500') :{'prefix':'','suffix':'', 'excedent_string':''}}
+                                        ('market','CAC40') :{'prefix':'','suffix':'.PA.TT','excedent_string':'Euronext: '},
+                                        ('market','DAX30') :{'prefix':'','suffix':'.DE.TT', 'excedent_string':''},
+                                        ('market','SP500') :{'prefix':'','suffix':'', 'excedent_string':''}}
         
     def feeder_ticker(self,feed_ticker): # Appends feeds to original dictionary, under 'feeds' label. Uses parse_market.
         feed_ticker['tickerKey'] = self.parse_markets(feed_ticker, self.__parser_keys_tickerKey)
