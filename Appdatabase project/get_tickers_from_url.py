@@ -30,7 +30,7 @@ def get_wikitable_from_url(wiki_metadata) -> dict:
         wikitable_dict['active_type'] = 'stock'
         wikitable_dict['active_flag'] = True
         wikitable_dict['timestamp'] = today.strftime("%d-%m-%Y")
-        wikitable_dict['data_update'] = '-'
+        wikitable_dict['data_update'] = None
         wikitable_data.append(wikitable_dict)
     wikitable_data.append({'ticker': wiki_metadata['market'] , 
                            'market': wiki_metadata['market'], 

@@ -1,9 +1,8 @@
-Tasks
+
+--------------------------- COMPLETADAS ------------------------
 - Un json con toda la metadata, incluida la flag de activo o no y nuestra key personal para el ticker tipo "AIR.PA.TT"
 - Un csv por cada data asociada a los tickers. El csv se va a llamar según nuestra key interna
 - Sin estructura de carpetas, todo plano. Debe ser la TT la que se encarge de clasificarlos según el .json
-
-Subtasks
 - Añadir metodo para incluir ticker_key dentro de la clase tickermanager_wiki. OK
 - Añadir metodo flag activo/no activo. OK
 - metodo para guardar archivo de configuración de tickers: tickers_config = metadata(fecha) + tickers_list. OK
@@ -13,14 +12,21 @@ Subtasks
 - nueva clase data_manager(base), cuyo input es el tickers_config
     - método: descargar data asociada a un ticker. OK
     
-
-
-
 - sublcase data_manager_Yahoo_Finance. OK
     METODOS. El número mínimo de métodos, que sean específicos, el resto van a la clase padre.
     - método download_ticker_data : descargar data asociada a un ticker. OK
     
-    
 - nuevo método en housekeeping para guardar datos en CSV.
     - Método listas a csv en nested dir. OK -> list_to_csv
-    - Método dataframes a csv en nested dir. 
+    - Método dataframes a csv en nested dir. OK
+    
+  
+- Cambiar nombre a mayusculas de los paquetes. Hecho
+- Hacer método para actualizar tickers concretos y mercados concretos. Hecho.
+----------------------- POR HACER ---------------------
+
+
+- Cambiar tickermanager a incluir variables de path. Hecho. Subir cambios a cloud de AppdatabaseModule y ejecutar tests y comprobar que sin errores.
+- Cambiar dataHousekeeper a clase herencia.
+- Script main para ejecutar las diferentes funcionalidades
+- Cambiar los scripts en el jupyter notebook para que provengan de un único módulo .py (los que se puedan)

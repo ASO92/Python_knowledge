@@ -2,6 +2,7 @@ import os
 from os import path 
 import json
 import csv
+import pandas as pd
 import shutil
 
 class data_housekeeper():
@@ -113,6 +114,12 @@ class data_housekeeper():
         relative_file_path_ = '.' + data_housekeeper.create_file_path_in_nested_dir(dir_list, file_name) + '.csv'
         print(relative_file_path_)
         data.to_csv(relative_file_path_)
+    
+    @staticmethod
+    def csv_to_df(dir_list, file_name):
+        relative_file_path_ = '.' + data_housekeeper.create_file_path_in_nested_dir(dir_list, file_name) + '.csv'
+        print(relative_file_path_)
+        return pd.read_csv(relative_file_path_)
 
 def instance_class():
     myHousekeeper = data_housekeeper()
