@@ -113,7 +113,7 @@ class data_housekeeper():
     def df_to_csv(dir_list, upper_stages, file_name, data):
         relative_file_path_ = '.' + data_housekeeper.create_file_path_in_nested_dir(dir_list, file_name) + '.csv'
         print(relative_file_path_)
-        data.to_csv(relative_file_path_)
+        data.to_csv(relative_file_path_, index =False)
     
     @staticmethod
     def csv_to_df(dir_list, file_name):

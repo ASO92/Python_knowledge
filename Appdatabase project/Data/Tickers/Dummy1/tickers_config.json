@@ -1,7 +1,7 @@
 {
     "metadata": [
         {
-            "timestamp": "06/04/2021 18:20:04"
+            "timestamp": "17/04/2021 12:49:22"
         }
     ],
     "data": [
@@ -14,8 +14,8 @@
             "market": "IBEX35",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
-            "data_update": null,
+            "timestamp": "17-04-2021",
+            "data_update": "04-17-2021",
             "tickerKey": "ANA.MC.TT",
             "feeds": {
                 "name": "YahooFinance",
@@ -31,8 +31,8 @@
             "market": "IBEX35",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
-            "data_update": null,
+            "timestamp": "17-04-2021",
+            "data_update": "04-17-2021",
             "tickerKey": "ACX.MC.TT",
             "feeds": {
                 "name": "YahooFinance",
@@ -48,8 +48,8 @@
             "market": "IBEX35",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
-            "data_update": null,
+            "timestamp": "17-04-2021",
+            "data_update": "04-17-2021",
             "tickerKey": "ACS.MC.TT",
             "feeds": {
                 "name": "YahooFinance",
@@ -65,8 +65,8 @@
             "market": "IBEX35",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
-            "data_update": null,
+            "timestamp": "17-04-2021",
+            "data_update": "04-17-2021",
             "tickerKey": "AENA.MC.TT",
             "feeds": {
                 "name": "YahooFinance",
@@ -82,8 +82,8 @@
             "market": "IBEX35",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
-            "data_update": null,
+            "timestamp": "17-04-2021",
+            "data_update": "04-17-2021",
             "tickerKey": "ALM.MC.TT",
             "feeds": {
                 "name": "YahooFinance",
@@ -99,8 +99,8 @@
             "market": "IBEX35",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
-            "data_update": null,
+            "timestamp": "17-04-2021",
+            "data_update": "04-17-2021",
             "tickerKey": "AMS.MC.TT",
             "feeds": {
                 "name": "YahooFinance",
@@ -116,8 +116,8 @@
             "market": "IBEX35",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
-            "data_update": null,
+            "timestamp": "17-04-2021",
+            "data_update": "04-17-2021",
             "tickerKey": "MTS.MC.TT",
             "feeds": {
                 "name": "YahooFinance",
@@ -133,8 +133,8 @@
             "market": "IBEX35",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
-            "data_update": null,
+            "timestamp": "17-04-2021",
+            "data_update": "04-17-2021",
             "tickerKey": "SAB.MC.TT",
             "feeds": {
                 "name": "YahooFinance",
@@ -150,8 +150,8 @@
             "market": "IBEX35",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
-            "data_update": null,
+            "timestamp": "17-04-2021",
+            "data_update": "04-17-2021",
             "tickerKey": "SAN.MC.TT",
             "feeds": {
                 "name": "YahooFinance",
@@ -167,8 +167,8 @@
             "market": "IBEX35",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
-            "data_update": null,
+            "timestamp": "17-04-2021",
+            "data_update": "04-17-2021",
             "tickerKey": "BKT.MC.TT",
             "feeds": {
                 "name": "YahooFinance",
@@ -184,8 +184,8 @@
             "market": "IBEX35",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
-            "data_update": null,
+            "timestamp": "17-04-2021",
+            "data_update": "04-17-2021",
             "tickerKey": "BBVA.MC.TT",
             "feeds": {
                 "name": "YahooFinance",
@@ -201,8 +201,8 @@
             "market": "IBEX35",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
-            "data_update": null,
+            "timestamp": "17-04-2021",
+            "data_update": "04-17-2021",
             "tickerKey": "CABK.MC.TT",
             "feeds": {
                 "name": "YahooFinance",
@@ -218,8 +218,8 @@
             "market": "IBEX35",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
-            "data_update": null,
+            "timestamp": "17-04-2021",
+            "data_update": "04-17-2021",
             "tickerKey": "CLNX.MC.TT",
             "feeds": {
                 "name": "YahooFinance",
@@ -235,8 +235,8 @@
             "market": "IBEX35",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
-            "data_update": null,
+            "timestamp": "17-04-2021",
+            "data_update": "04-17-2021",
             "tickerKey": "CIE.MC.TT",
             "feeds": {
                 "name": "YahooFinance",
@@ -252,8 +252,8 @@
             "market": "IBEX35",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
-            "data_update": null,
+            "timestamp": "17-04-2021",
+            "data_update": "04-17-2021",
             "tickerKey": "ENG.MC.TT",
             "feeds": {
                 "name": "YahooFinance",
@@ -269,8 +269,8 @@
             "market": "IBEX35",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
-            "data_update": null,
+            "timestamp": "17-04-2021",
+            "data_update": "04-17-2021",
             "tickerKey": "ELE.MC.TT",
             "feeds": {
                 "name": "YahooFinance",
@@ -286,8 +286,8 @@
             "market": "IBEX35",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
-            "data_update": null,
+            "timestamp": "17-04-2021",
+            "data_update": "04-17-2021",
             "tickerKey": "FER.MC.TT",
             "feeds": {
                 "name": "YahooFinance",
@@ -303,8 +303,8 @@
             "market": "IBEX35",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
-            "data_update": null,
+            "timestamp": "17-04-2021",
+            "data_update": "04-17-2021",
             "tickerKey": "FDR.MC.TT",
             "feeds": {
                 "name": "YahooFinance",
@@ -320,8 +320,8 @@
             "market": "IBEX35",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
-            "data_update": null,
+            "timestamp": "17-04-2021",
+            "data_update": "04-17-2021",
             "tickerKey": "GRF.MC.TT",
             "feeds": {
                 "name": "YahooFinance",
@@ -337,8 +337,8 @@
             "market": "IBEX35",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
-            "data_update": null,
+            "timestamp": "17-04-2021",
+            "data_update": "04-17-2021",
             "tickerKey": "IAG.MC.TT",
             "feeds": {
                 "name": "YahooFinance",
@@ -354,8 +354,8 @@
             "market": "IBEX35",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
-            "data_update": null,
+            "timestamp": "17-04-2021",
+            "data_update": "04-17-2021",
             "tickerKey": "IBE.MC.TT",
             "feeds": {
                 "name": "YahooFinance",
@@ -371,8 +371,8 @@
             "market": "IBEX35",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
-            "data_update": null,
+            "timestamp": "17-04-2021",
+            "data_update": "04-17-2021",
             "tickerKey": "ITX.MC.TT",
             "feeds": {
                 "name": "YahooFinance",
@@ -388,8 +388,8 @@
             "market": "IBEX35",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
-            "data_update": null,
+            "timestamp": "17-04-2021",
+            "data_update": "04-17-2021",
             "tickerKey": "IDR.MC.TT",
             "feeds": {
                 "name": "YahooFinance",
@@ -405,8 +405,8 @@
             "market": "IBEX35",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
-            "data_update": null,
+            "timestamp": "17-04-2021",
+            "data_update": "04-17-2021",
             "tickerKey": "COL.MC.TT",
             "feeds": {
                 "name": "YahooFinance",
@@ -422,8 +422,8 @@
             "market": "IBEX35",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
-            "data_update": null,
+            "timestamp": "17-04-2021",
+            "data_update": "04-17-2021",
             "tickerKey": "MAP.MC.TT",
             "feeds": {
                 "name": "YahooFinance",
@@ -439,8 +439,8 @@
             "market": "IBEX35",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
-            "data_update": null,
+            "timestamp": "17-04-2021",
+            "data_update": "04-17-2021",
             "tickerKey": "MEL.MC.TT",
             "feeds": {
                 "name": "YahooFinance",
@@ -456,8 +456,8 @@
             "market": "IBEX35",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
-            "data_update": null,
+            "timestamp": "17-04-2021",
+            "data_update": "04-17-2021",
             "tickerKey": "MRL.MC.TT",
             "feeds": {
                 "name": "YahooFinance",
@@ -473,8 +473,8 @@
             "market": "IBEX35",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
-            "data_update": null,
+            "timestamp": "17-04-2021",
+            "data_update": "04-17-2021",
             "tickerKey": "NTGY.MC.TT",
             "feeds": {
                 "name": "YahooFinance",
@@ -490,8 +490,8 @@
             "market": "IBEX35",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
-            "data_update": null,
+            "timestamp": "17-04-2021",
+            "data_update": "04-17-2021",
             "tickerKey": "PHM.MC.TT",
             "feeds": {
                 "name": "YahooFinance",
@@ -507,8 +507,8 @@
             "market": "IBEX35",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
-            "data_update": null,
+            "timestamp": "17-04-2021",
+            "data_update": "04-17-2021",
             "tickerKey": "REE.MC.TT",
             "feeds": {
                 "name": "YahooFinance",
@@ -524,8 +524,8 @@
             "market": "IBEX35",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
-            "data_update": null,
+            "timestamp": "17-04-2021",
+            "data_update": "04-17-2021",
             "tickerKey": "REP.MC.TT",
             "feeds": {
                 "name": "YahooFinance",
@@ -541,8 +541,8 @@
             "market": "IBEX35",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
-            "data_update": null,
+            "timestamp": "17-04-2021",
+            "data_update": "04-17-2021",
             "tickerKey": "SGRE.MC.TT",
             "feeds": {
                 "name": "YahooFinance",
@@ -558,8 +558,8 @@
             "market": "IBEX35",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
-            "data_update": null,
+            "timestamp": "17-04-2021",
+            "data_update": "04-17-2021",
             "tickerKey": "SLR.MC.TT",
             "feeds": {
                 "name": "YahooFinance",
@@ -575,8 +575,8 @@
             "market": "IBEX35",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
-            "data_update": null,
+            "timestamp": "17-04-2021",
+            "data_update": "04-17-2021",
             "tickerKey": "TEF.MC.TT",
             "feeds": {
                 "name": "YahooFinance",
@@ -592,8 +592,8 @@
             "market": "IBEX35",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
-            "data_update": null,
+            "timestamp": "17-04-2021",
+            "data_update": "04-17-2021",
             "tickerKey": "VIS.MC.TT",
             "feeds": {
                 "name": "YahooFinance",
@@ -603,8 +603,8 @@
         {
             "ticker": "IBEX35",
             "market": "IBEX35",
-            "timestamp": "06-04-2021",
-            "data_update": "-",
+            "timestamp": "17-04-2021",
+            "data_update": "04-17-2021",
             "active_type": "ETF",
             "tickerKey": "^IBEX",
             "feeds": {
@@ -620,7 +620,7 @@
             "market": "DAX30",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ADS.DE.TT",
             "feeds": {
@@ -636,7 +636,7 @@
             "market": "DAX30",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ALV.DE.TT",
             "feeds": {
@@ -652,7 +652,7 @@
             "market": "DAX30",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "BAS.DE.TT",
             "feeds": {
@@ -668,7 +668,7 @@
             "market": "DAX30",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "BAYN.DE.TT",
             "feeds": {
@@ -684,7 +684,7 @@
             "market": "DAX30",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "BMW.DE.TT",
             "feeds": {
@@ -700,7 +700,7 @@
             "market": "DAX30",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CON.DE.TT",
             "feeds": {
@@ -716,7 +716,7 @@
             "market": "DAX30",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "1COV.DE.TT",
             "feeds": {
@@ -732,7 +732,7 @@
             "market": "DAX30",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "DAI.DE.TT",
             "feeds": {
@@ -748,7 +748,7 @@
             "market": "DAX30",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "DHER.DE.TT",
             "feeds": {
@@ -764,7 +764,7 @@
             "market": "DAX30",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "DBK.DE.TT",
             "feeds": {
@@ -780,7 +780,7 @@
             "market": "DAX30",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "DB1.DE.TT",
             "feeds": {
@@ -796,7 +796,7 @@
             "market": "DAX30",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "DPW.DE.TT",
             "feeds": {
@@ -812,7 +812,7 @@
             "market": "DAX30",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "DTE.DE.TT",
             "feeds": {
@@ -828,7 +828,7 @@
             "market": "DAX30",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "DWNI.DE.TT",
             "feeds": {
@@ -844,7 +844,7 @@
             "market": "DAX30",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "EOAN.DE.TT",
             "feeds": {
@@ -860,7 +860,7 @@
             "market": "DAX30",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "FRE.DE.TT",
             "feeds": {
@@ -876,7 +876,7 @@
             "market": "DAX30",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "FME.DE.TT",
             "feeds": {
@@ -892,7 +892,7 @@
             "market": "DAX30",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "HEI.DE.TT",
             "feeds": {
@@ -908,7 +908,7 @@
             "market": "DAX30",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "HEN3.DE.TT",
             "feeds": {
@@ -924,7 +924,7 @@
             "market": "DAX30",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "IFX.DE.TT",
             "feeds": {
@@ -940,7 +940,7 @@
             "market": "DAX30",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "LIN.DE.TT",
             "feeds": {
@@ -956,7 +956,7 @@
             "market": "DAX30",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "MRK.DE.TT",
             "feeds": {
@@ -972,7 +972,7 @@
             "market": "DAX30",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "MTX.DE.TT",
             "feeds": {
@@ -988,7 +988,7 @@
             "market": "DAX30",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "MUV2.DE.TT",
             "feeds": {
@@ -1004,7 +1004,7 @@
             "market": "DAX30",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "RWE.DE.TT",
             "feeds": {
@@ -1020,7 +1020,7 @@
             "market": "DAX30",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "SAP.DE.TT",
             "feeds": {
@@ -1036,7 +1036,7 @@
             "market": "DAX30",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "SIE.DE.TT",
             "feeds": {
@@ -1052,7 +1052,7 @@
             "market": "DAX30",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ENR.DE.TT",
             "feeds": {
@@ -1068,7 +1068,7 @@
             "market": "DAX30",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "VOW3.DE.TT",
             "feeds": {
@@ -1084,7 +1084,7 @@
             "market": "DAX30",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "VNA.DE.TT",
             "feeds": {
@@ -1095,7 +1095,7 @@
         {
             "ticker": "DAX30",
             "market": "DAX30",
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": "-",
             "active_type": "ETF",
             "tickerKey": "^GDAXI",
@@ -1111,7 +1111,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "AC.PA.TT",
             "feeds": {
@@ -1126,7 +1126,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "AI.PA.TT",
             "feeds": {
@@ -1141,7 +1141,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "AIG.PA.TT",
             "feeds": {
@@ -1156,7 +1156,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ALO.PA.TT",
             "feeds": {
@@ -1171,7 +1171,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "MT.PA.TT",
             "feeds": {
@@ -1186,7 +1186,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CS.PA.TT",
             "feeds": {
@@ -1201,7 +1201,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "BNP.PA.TT",
             "feeds": {
@@ -1216,7 +1216,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "EN.PA.TT",
             "feeds": {
@@ -1231,7 +1231,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CAP.PA.TT",
             "feeds": {
@@ -1246,7 +1246,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CA.PA.TT",
             "feeds": {
@@ -1261,7 +1261,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ACA.PA.TT",
             "feeds": {
@@ -1276,7 +1276,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "BN.PA.TT",
             "feeds": {
@@ -1291,7 +1291,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "EDF.PA.TT",
             "feeds": {
@@ -1306,7 +1306,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "EL.PA.TT",
             "feeds": {
@@ -1321,7 +1321,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "KER.PA.TT",
             "feeds": {
@@ -1336,7 +1336,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "LI.PA.TT",
             "feeds": {
@@ -1351,7 +1351,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "LHN.PA.TT",
             "feeds": {
@@ -1366,7 +1366,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "LR.PA.TT",
             "feeds": {
@@ -1381,7 +1381,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "MC.PA.TT",
             "feeds": {
@@ -1396,7 +1396,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "OR.PA.TT",
             "feeds": {
@@ -1411,7 +1411,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ML.PA.TT",
             "feeds": {
@@ -1426,7 +1426,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "NO.PA.TT",
             "feeds": {
@@ -1441,7 +1441,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "OR.PA.TT",
             "feeds": {
@@ -1456,7 +1456,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "RI.PA.TT",
             "feeds": {
@@ -1471,7 +1471,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "PEU.PA.TT",
             "feeds": {
@@ -1486,7 +1486,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "PUB.PA.TT",
             "feeds": {
@@ -1501,7 +1501,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "RNO.PA.TT",
             "feeds": {
@@ -1516,7 +1516,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "SAF.PA.TT",
             "feeds": {
@@ -1531,7 +1531,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "SGO.PA.TT",
             "feeds": {
@@ -1546,7 +1546,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "SAN.PA.TT",
             "feeds": {
@@ -1561,7 +1561,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "SU.PA.TT",
             "feeds": {
@@ -1576,7 +1576,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "GLE.PA.TT",
             "feeds": {
@@ -1591,7 +1591,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "SOLB.PA.TT",
             "feeds": {
@@ -1606,7 +1606,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "TEC.PA.TT",
             "feeds": {
@@ -1621,7 +1621,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "FP.PA.TT",
             "feeds": {
@@ -1636,7 +1636,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "UL.PA.TT",
             "feeds": {
@@ -1651,7 +1651,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "VL.PA.TT",
             "feeds": {
@@ -1666,7 +1666,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "VIE.PA.TT",
             "feeds": {
@@ -1681,7 +1681,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "DG.PA.TT",
             "feeds": {
@@ -1696,7 +1696,7 @@
             "market": "CAC40",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "VIV.PA.TT",
             "feeds": {
@@ -1707,7 +1707,7 @@
         {
             "ticker": "CAC40",
             "market": "CAC40",
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": "-",
             "active_type": "ETF",
             "tickerKey": "^FCHI",
@@ -1726,7 +1726,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "MMM",
             "feeds": {
@@ -1744,7 +1744,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ABT",
             "feeds": {
@@ -1762,7 +1762,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ABBV",
             "feeds": {
@@ -1780,7 +1780,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ABMD",
             "feeds": {
@@ -1798,7 +1798,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ACN",
             "feeds": {
@@ -1816,7 +1816,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ATVI",
             "feeds": {
@@ -1834,7 +1834,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ADBE",
             "feeds": {
@@ -1852,7 +1852,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "AMD",
             "feeds": {
@@ -1870,7 +1870,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "AAP",
             "feeds": {
@@ -1888,7 +1888,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "AES",
             "feeds": {
@@ -1906,7 +1906,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "AFL",
             "feeds": {
@@ -1924,7 +1924,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "A",
             "feeds": {
@@ -1942,7 +1942,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "APD",
             "feeds": {
@@ -1960,7 +1960,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "AKAM",
             "feeds": {
@@ -1978,7 +1978,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ALK",
             "feeds": {
@@ -1996,7 +1996,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ALB",
             "feeds": {
@@ -2014,7 +2014,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ARE",
             "feeds": {
@@ -2032,7 +2032,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ALXN",
             "feeds": {
@@ -2050,7 +2050,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ALGN",
             "feeds": {
@@ -2068,7 +2068,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ALLE",
             "feeds": {
@@ -2086,7 +2086,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "LNT",
             "feeds": {
@@ -2104,7 +2104,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ALL",
             "feeds": {
@@ -2122,7 +2122,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "GOOGL",
             "feeds": {
@@ -2140,7 +2140,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "GOOG",
             "feeds": {
@@ -2158,7 +2158,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "MO",
             "feeds": {
@@ -2176,7 +2176,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "AMZN",
             "feeds": {
@@ -2194,7 +2194,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "AMCR",
             "feeds": {
@@ -2212,7 +2212,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "AEE",
             "feeds": {
@@ -2230,7 +2230,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "AAL",
             "feeds": {
@@ -2248,7 +2248,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "AEP",
             "feeds": {
@@ -2266,7 +2266,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "AXP",
             "feeds": {
@@ -2284,7 +2284,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "AIG",
             "feeds": {
@@ -2302,7 +2302,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "AMT",
             "feeds": {
@@ -2320,7 +2320,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "AWK",
             "feeds": {
@@ -2338,7 +2338,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "AMP",
             "feeds": {
@@ -2356,7 +2356,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ABC",
             "feeds": {
@@ -2374,7 +2374,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "AME",
             "feeds": {
@@ -2392,7 +2392,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "AMGN",
             "feeds": {
@@ -2410,7 +2410,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "APH",
             "feeds": {
@@ -2428,7 +2428,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ADI",
             "feeds": {
@@ -2446,7 +2446,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ANSS",
             "feeds": {
@@ -2464,7 +2464,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ANTM",
             "feeds": {
@@ -2482,7 +2482,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "AON",
             "feeds": {
@@ -2500,7 +2500,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "AOS",
             "feeds": {
@@ -2518,7 +2518,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "APA",
             "feeds": {
@@ -2536,7 +2536,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "AAPL",
             "feeds": {
@@ -2554,7 +2554,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "AMAT",
             "feeds": {
@@ -2572,7 +2572,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "APTV",
             "feeds": {
@@ -2590,7 +2590,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ADM",
             "feeds": {
@@ -2608,7 +2608,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ANET",
             "feeds": {
@@ -2626,7 +2626,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "AJG",
             "feeds": {
@@ -2644,7 +2644,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "AIZ",
             "feeds": {
@@ -2662,7 +2662,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "T",
             "feeds": {
@@ -2680,7 +2680,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ATO",
             "feeds": {
@@ -2698,7 +2698,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ADSK",
             "feeds": {
@@ -2716,7 +2716,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ADP",
             "feeds": {
@@ -2734,7 +2734,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "AZO",
             "feeds": {
@@ -2752,7 +2752,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "AVB",
             "feeds": {
@@ -2770,7 +2770,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "AVY",
             "feeds": {
@@ -2788,7 +2788,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "BKR",
             "feeds": {
@@ -2806,7 +2806,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "BLL",
             "feeds": {
@@ -2824,7 +2824,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "BAC",
             "feeds": {
@@ -2842,7 +2842,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "BK",
             "feeds": {
@@ -2860,7 +2860,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "BAX",
             "feeds": {
@@ -2878,7 +2878,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "BDX",
             "feeds": {
@@ -2896,7 +2896,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "BRK.B",
             "feeds": {
@@ -2914,7 +2914,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "BBY",
             "feeds": {
@@ -2932,7 +2932,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "BIO",
             "feeds": {
@@ -2950,7 +2950,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "BIIB",
             "feeds": {
@@ -2968,7 +2968,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "BLK",
             "feeds": {
@@ -2986,7 +2986,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "BA",
             "feeds": {
@@ -3004,7 +3004,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "BKNG",
             "feeds": {
@@ -3022,7 +3022,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "BWA",
             "feeds": {
@@ -3040,7 +3040,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "BXP",
             "feeds": {
@@ -3058,7 +3058,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "BSX",
             "feeds": {
@@ -3076,7 +3076,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "BMY",
             "feeds": {
@@ -3094,7 +3094,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "AVGO",
             "feeds": {
@@ -3112,7 +3112,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "BR",
             "feeds": {
@@ -3130,7 +3130,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "BF.B",
             "feeds": {
@@ -3148,7 +3148,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CHRW",
             "feeds": {
@@ -3166,7 +3166,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "COG",
             "feeds": {
@@ -3184,7 +3184,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CDNS",
             "feeds": {
@@ -3202,7 +3202,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CZR",
             "feeds": {
@@ -3220,7 +3220,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CPB",
             "feeds": {
@@ -3238,7 +3238,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "COF",
             "feeds": {
@@ -3256,7 +3256,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CAH",
             "feeds": {
@@ -3274,7 +3274,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "KMX",
             "feeds": {
@@ -3292,7 +3292,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CCL",
             "feeds": {
@@ -3310,7 +3310,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CARR",
             "feeds": {
@@ -3328,7 +3328,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CTLT",
             "feeds": {
@@ -3346,7 +3346,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CAT",
             "feeds": {
@@ -3364,7 +3364,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CBOE",
             "feeds": {
@@ -3382,7 +3382,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CBRE",
             "feeds": {
@@ -3400,7 +3400,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CDW",
             "feeds": {
@@ -3418,7 +3418,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CE",
             "feeds": {
@@ -3436,7 +3436,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CNC",
             "feeds": {
@@ -3454,7 +3454,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CNP",
             "feeds": {
@@ -3472,7 +3472,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CERN",
             "feeds": {
@@ -3490,7 +3490,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CF",
             "feeds": {
@@ -3508,7 +3508,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "SCHW",
             "feeds": {
@@ -3526,7 +3526,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CHTR",
             "feeds": {
@@ -3544,7 +3544,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CVX",
             "feeds": {
@@ -3562,7 +3562,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CMG",
             "feeds": {
@@ -3580,7 +3580,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CB",
             "feeds": {
@@ -3598,7 +3598,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CHD",
             "feeds": {
@@ -3616,7 +3616,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CI",
             "feeds": {
@@ -3634,7 +3634,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CINF",
             "feeds": {
@@ -3652,7 +3652,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CTAS",
             "feeds": {
@@ -3670,7 +3670,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CSCO",
             "feeds": {
@@ -3688,7 +3688,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "C",
             "feeds": {
@@ -3706,7 +3706,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CFG",
             "feeds": {
@@ -3724,7 +3724,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CTXS",
             "feeds": {
@@ -3742,7 +3742,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CLX",
             "feeds": {
@@ -3760,7 +3760,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CME",
             "feeds": {
@@ -3778,7 +3778,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CMS",
             "feeds": {
@@ -3796,7 +3796,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "KO",
             "feeds": {
@@ -3814,7 +3814,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CTSH",
             "feeds": {
@@ -3832,7 +3832,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CL",
             "feeds": {
@@ -3850,7 +3850,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CMCSA",
             "feeds": {
@@ -3868,7 +3868,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CMA",
             "feeds": {
@@ -3886,7 +3886,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CAG",
             "feeds": {
@@ -3904,7 +3904,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "COP",
             "feeds": {
@@ -3922,7 +3922,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ED",
             "feeds": {
@@ -3940,7 +3940,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "STZ",
             "feeds": {
@@ -3958,7 +3958,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "COO",
             "feeds": {
@@ -3976,7 +3976,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CPRT",
             "feeds": {
@@ -3994,7 +3994,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "GLW",
             "feeds": {
@@ -4012,7 +4012,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CTVA",
             "feeds": {
@@ -4030,7 +4030,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "COST",
             "feeds": {
@@ -4048,7 +4048,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CCI",
             "feeds": {
@@ -4066,7 +4066,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CSX",
             "feeds": {
@@ -4084,7 +4084,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CMI",
             "feeds": {
@@ -4102,7 +4102,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CVS",
             "feeds": {
@@ -4120,7 +4120,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "DHI",
             "feeds": {
@@ -4138,7 +4138,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "DHR",
             "feeds": {
@@ -4156,7 +4156,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "DRI",
             "feeds": {
@@ -4174,7 +4174,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "DVA",
             "feeds": {
@@ -4192,7 +4192,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "DE",
             "feeds": {
@@ -4210,7 +4210,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "DAL",
             "feeds": {
@@ -4228,7 +4228,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "XRAY",
             "feeds": {
@@ -4246,7 +4246,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "DVN",
             "feeds": {
@@ -4264,7 +4264,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "DXCM",
             "feeds": {
@@ -4282,7 +4282,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "FANG",
             "feeds": {
@@ -4300,7 +4300,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "DLR",
             "feeds": {
@@ -4318,7 +4318,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "DFS",
             "feeds": {
@@ -4336,7 +4336,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "DISCA",
             "feeds": {
@@ -4354,7 +4354,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "DISCK",
             "feeds": {
@@ -4372,7 +4372,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "DISH",
             "feeds": {
@@ -4390,7 +4390,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "DG",
             "feeds": {
@@ -4408,7 +4408,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "DLTR",
             "feeds": {
@@ -4426,7 +4426,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "D",
             "feeds": {
@@ -4444,7 +4444,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "DPZ",
             "feeds": {
@@ -4462,7 +4462,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "DOV",
             "feeds": {
@@ -4480,7 +4480,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "DOW",
             "feeds": {
@@ -4498,7 +4498,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "DTE",
             "feeds": {
@@ -4516,7 +4516,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "DUK",
             "feeds": {
@@ -4534,7 +4534,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "DRE",
             "feeds": {
@@ -4552,7 +4552,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "DD",
             "feeds": {
@@ -4570,7 +4570,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "DXC",
             "feeds": {
@@ -4588,7 +4588,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "EMN",
             "feeds": {
@@ -4606,7 +4606,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ETN",
             "feeds": {
@@ -4624,7 +4624,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "EBAY",
             "feeds": {
@@ -4642,7 +4642,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ECL",
             "feeds": {
@@ -4660,7 +4660,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "EIX",
             "feeds": {
@@ -4678,7 +4678,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "EW",
             "feeds": {
@@ -4696,7 +4696,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "EA",
             "feeds": {
@@ -4714,7 +4714,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "EMR",
             "feeds": {
@@ -4732,7 +4732,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ENPH",
             "feeds": {
@@ -4750,7 +4750,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ETR",
             "feeds": {
@@ -4768,7 +4768,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "EOG",
             "feeds": {
@@ -4786,7 +4786,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "EFX",
             "feeds": {
@@ -4804,7 +4804,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "EQIX",
             "feeds": {
@@ -4822,7 +4822,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "EQR",
             "feeds": {
@@ -4840,7 +4840,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ESS",
             "feeds": {
@@ -4858,7 +4858,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "EL",
             "feeds": {
@@ -4876,7 +4876,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ETSY",
             "feeds": {
@@ -4894,7 +4894,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "EVRG",
             "feeds": {
@@ -4912,7 +4912,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ES",
             "feeds": {
@@ -4930,7 +4930,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "RE",
             "feeds": {
@@ -4948,7 +4948,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "EXC",
             "feeds": {
@@ -4966,7 +4966,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "EXPE",
             "feeds": {
@@ -4984,7 +4984,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "EXPD",
             "feeds": {
@@ -5002,7 +5002,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "EXR",
             "feeds": {
@@ -5020,7 +5020,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "XOM",
             "feeds": {
@@ -5038,7 +5038,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "FFIV",
             "feeds": {
@@ -5056,7 +5056,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "FB",
             "feeds": {
@@ -5074,7 +5074,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "FAST",
             "feeds": {
@@ -5092,7 +5092,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "FRT",
             "feeds": {
@@ -5110,7 +5110,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "FDX",
             "feeds": {
@@ -5128,7 +5128,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "FIS",
             "feeds": {
@@ -5146,7 +5146,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "FITB",
             "feeds": {
@@ -5164,7 +5164,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "FE",
             "feeds": {
@@ -5182,7 +5182,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "FRC",
             "feeds": {
@@ -5200,7 +5200,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "FISV",
             "feeds": {
@@ -5218,7 +5218,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "FLT",
             "feeds": {
@@ -5236,7 +5236,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "FLIR",
             "feeds": {
@@ -5254,7 +5254,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "FMC",
             "feeds": {
@@ -5272,7 +5272,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "F",
             "feeds": {
@@ -5290,7 +5290,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "FTNT",
             "feeds": {
@@ -5308,7 +5308,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "FTV",
             "feeds": {
@@ -5326,7 +5326,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "FBHS",
             "feeds": {
@@ -5344,7 +5344,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "FOXA",
             "feeds": {
@@ -5362,7 +5362,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "FOX",
             "feeds": {
@@ -5380,7 +5380,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "BEN",
             "feeds": {
@@ -5398,7 +5398,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "FCX",
             "feeds": {
@@ -5416,7 +5416,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "GPS",
             "feeds": {
@@ -5434,7 +5434,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "GRMN",
             "feeds": {
@@ -5452,7 +5452,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "IT",
             "feeds": {
@@ -5470,7 +5470,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "GNRC",
             "feeds": {
@@ -5488,7 +5488,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "GD",
             "feeds": {
@@ -5506,7 +5506,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "GE",
             "feeds": {
@@ -5524,7 +5524,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "GIS",
             "feeds": {
@@ -5542,7 +5542,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "GM",
             "feeds": {
@@ -5560,7 +5560,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "GPC",
             "feeds": {
@@ -5578,7 +5578,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "GILD",
             "feeds": {
@@ -5596,7 +5596,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "GL",
             "feeds": {
@@ -5614,7 +5614,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "GPN",
             "feeds": {
@@ -5632,7 +5632,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "GS",
             "feeds": {
@@ -5650,7 +5650,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "GWW",
             "feeds": {
@@ -5668,7 +5668,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "HAL",
             "feeds": {
@@ -5686,7 +5686,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "HBI",
             "feeds": {
@@ -5704,7 +5704,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "HIG",
             "feeds": {
@@ -5722,7 +5722,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "HAS",
             "feeds": {
@@ -5740,7 +5740,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "HCA",
             "feeds": {
@@ -5758,7 +5758,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "PEAK",
             "feeds": {
@@ -5776,7 +5776,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "HSIC",
             "feeds": {
@@ -5794,7 +5794,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "HSY",
             "feeds": {
@@ -5812,7 +5812,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "HES",
             "feeds": {
@@ -5830,7 +5830,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "HPE",
             "feeds": {
@@ -5848,7 +5848,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "HLT",
             "feeds": {
@@ -5866,7 +5866,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "HFC",
             "feeds": {
@@ -5884,7 +5884,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "HOLX",
             "feeds": {
@@ -5902,7 +5902,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "HD",
             "feeds": {
@@ -5920,7 +5920,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "HON",
             "feeds": {
@@ -5938,7 +5938,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "HRL",
             "feeds": {
@@ -5956,7 +5956,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "HST",
             "feeds": {
@@ -5974,7 +5974,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "HWM",
             "feeds": {
@@ -5992,7 +5992,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "HPQ",
             "feeds": {
@@ -6010,7 +6010,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "HUM",
             "feeds": {
@@ -6028,7 +6028,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "HBAN",
             "feeds": {
@@ -6046,7 +6046,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "HII",
             "feeds": {
@@ -6064,7 +6064,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "IEX",
             "feeds": {
@@ -6082,7 +6082,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "IDXX",
             "feeds": {
@@ -6100,7 +6100,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "INFO",
             "feeds": {
@@ -6118,7 +6118,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ITW",
             "feeds": {
@@ -6136,7 +6136,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ILMN",
             "feeds": {
@@ -6154,7 +6154,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "INCY",
             "feeds": {
@@ -6172,7 +6172,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "IR",
             "feeds": {
@@ -6190,7 +6190,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "INTC",
             "feeds": {
@@ -6208,7 +6208,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ICE",
             "feeds": {
@@ -6226,7 +6226,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "IBM",
             "feeds": {
@@ -6244,7 +6244,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "IP",
             "feeds": {
@@ -6262,7 +6262,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "IPG",
             "feeds": {
@@ -6280,7 +6280,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "IFF",
             "feeds": {
@@ -6298,7 +6298,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "INTU",
             "feeds": {
@@ -6316,7 +6316,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ISRG",
             "feeds": {
@@ -6334,7 +6334,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "IVZ",
             "feeds": {
@@ -6352,7 +6352,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "IPGP",
             "feeds": {
@@ -6370,7 +6370,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "IQV",
             "feeds": {
@@ -6388,7 +6388,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "IRM",
             "feeds": {
@@ -6406,7 +6406,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "JKHY",
             "feeds": {
@@ -6424,7 +6424,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "J",
             "feeds": {
@@ -6442,7 +6442,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "JBHT",
             "feeds": {
@@ -6460,7 +6460,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "SJM",
             "feeds": {
@@ -6478,7 +6478,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "JNJ",
             "feeds": {
@@ -6496,7 +6496,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "JCI",
             "feeds": {
@@ -6514,7 +6514,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "JPM",
             "feeds": {
@@ -6532,7 +6532,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "JNPR",
             "feeds": {
@@ -6550,7 +6550,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "KSU",
             "feeds": {
@@ -6568,7 +6568,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "K",
             "feeds": {
@@ -6586,7 +6586,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "KEY",
             "feeds": {
@@ -6604,7 +6604,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "KEYS",
             "feeds": {
@@ -6622,7 +6622,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "KMB",
             "feeds": {
@@ -6640,7 +6640,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "KIM",
             "feeds": {
@@ -6658,7 +6658,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "KMI",
             "feeds": {
@@ -6676,7 +6676,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "KLAC",
             "feeds": {
@@ -6694,7 +6694,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "KHC",
             "feeds": {
@@ -6712,7 +6712,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "KR",
             "feeds": {
@@ -6730,7 +6730,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "LB",
             "feeds": {
@@ -6748,7 +6748,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "LHX",
             "feeds": {
@@ -6766,7 +6766,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "LH",
             "feeds": {
@@ -6784,7 +6784,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "LRCX",
             "feeds": {
@@ -6802,7 +6802,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "LW",
             "feeds": {
@@ -6820,7 +6820,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "LVS",
             "feeds": {
@@ -6838,7 +6838,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "LEG",
             "feeds": {
@@ -6856,7 +6856,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "LDOS",
             "feeds": {
@@ -6874,7 +6874,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "LEN",
             "feeds": {
@@ -6892,7 +6892,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "LLY",
             "feeds": {
@@ -6910,7 +6910,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "LNC",
             "feeds": {
@@ -6928,7 +6928,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "LIN",
             "feeds": {
@@ -6946,7 +6946,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "LYV",
             "feeds": {
@@ -6964,7 +6964,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "LKQ",
             "feeds": {
@@ -6982,7 +6982,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "LMT",
             "feeds": {
@@ -7000,7 +7000,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "L",
             "feeds": {
@@ -7018,7 +7018,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "LOW",
             "feeds": {
@@ -7036,7 +7036,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "LUMN",
             "feeds": {
@@ -7054,7 +7054,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "LYB",
             "feeds": {
@@ -7072,7 +7072,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "MTB",
             "feeds": {
@@ -7090,7 +7090,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "MRO",
             "feeds": {
@@ -7108,7 +7108,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "MPC",
             "feeds": {
@@ -7126,7 +7126,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "MKTX",
             "feeds": {
@@ -7144,7 +7144,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "MAR",
             "feeds": {
@@ -7162,7 +7162,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "MMC",
             "feeds": {
@@ -7180,7 +7180,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "MLM",
             "feeds": {
@@ -7198,7 +7198,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "MAS",
             "feeds": {
@@ -7216,7 +7216,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "MA",
             "feeds": {
@@ -7234,7 +7234,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "MKC",
             "feeds": {
@@ -7252,7 +7252,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "MXIM",
             "feeds": {
@@ -7270,7 +7270,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "MCD",
             "feeds": {
@@ -7288,7 +7288,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "MCK",
             "feeds": {
@@ -7306,7 +7306,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "MDT",
             "feeds": {
@@ -7324,7 +7324,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "MRK",
             "feeds": {
@@ -7342,7 +7342,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "MET",
             "feeds": {
@@ -7360,7 +7360,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "MTD",
             "feeds": {
@@ -7378,7 +7378,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "MGM",
             "feeds": {
@@ -7396,7 +7396,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "MCHP",
             "feeds": {
@@ -7414,7 +7414,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "MU",
             "feeds": {
@@ -7432,7 +7432,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "MSFT",
             "feeds": {
@@ -7450,7 +7450,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "MAA",
             "feeds": {
@@ -7468,7 +7468,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "MHK",
             "feeds": {
@@ -7486,7 +7486,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "TAP",
             "feeds": {
@@ -7504,7 +7504,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "MDLZ",
             "feeds": {
@@ -7522,7 +7522,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "MPWR",
             "feeds": {
@@ -7540,7 +7540,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "MNST",
             "feeds": {
@@ -7558,7 +7558,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "MCO",
             "feeds": {
@@ -7576,7 +7576,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "MS",
             "feeds": {
@@ -7594,7 +7594,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "MOS",
             "feeds": {
@@ -7612,7 +7612,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "MSI",
             "feeds": {
@@ -7630,7 +7630,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "MSCI",
             "feeds": {
@@ -7648,7 +7648,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "NDAQ",
             "feeds": {
@@ -7666,7 +7666,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "NTAP",
             "feeds": {
@@ -7684,7 +7684,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "NFLX",
             "feeds": {
@@ -7702,7 +7702,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "NWL",
             "feeds": {
@@ -7720,7 +7720,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "NEM",
             "feeds": {
@@ -7738,7 +7738,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "NWSA",
             "feeds": {
@@ -7756,7 +7756,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "NWS",
             "feeds": {
@@ -7774,7 +7774,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "NEE",
             "feeds": {
@@ -7792,7 +7792,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "NLSN",
             "feeds": {
@@ -7810,7 +7810,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "NKE",
             "feeds": {
@@ -7828,7 +7828,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "NI",
             "feeds": {
@@ -7846,7 +7846,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "NSC",
             "feeds": {
@@ -7864,7 +7864,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "NTRS",
             "feeds": {
@@ -7882,7 +7882,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "NOC",
             "feeds": {
@@ -7900,7 +7900,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "NLOK",
             "feeds": {
@@ -7918,7 +7918,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "NCLH",
             "feeds": {
@@ -7936,7 +7936,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "NOV",
             "feeds": {
@@ -7954,7 +7954,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "NRG",
             "feeds": {
@@ -7972,7 +7972,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "NUE",
             "feeds": {
@@ -7990,7 +7990,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "NVDA",
             "feeds": {
@@ -8008,7 +8008,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "NVR",
             "feeds": {
@@ -8026,7 +8026,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "NXPI",
             "feeds": {
@@ -8044,7 +8044,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ORLY",
             "feeds": {
@@ -8062,7 +8062,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "OXY",
             "feeds": {
@@ -8080,7 +8080,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ODFL",
             "feeds": {
@@ -8098,7 +8098,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "OMC",
             "feeds": {
@@ -8116,7 +8116,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "OKE",
             "feeds": {
@@ -8134,7 +8134,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ORCL",
             "feeds": {
@@ -8152,7 +8152,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "OTIS",
             "feeds": {
@@ -8170,7 +8170,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "PCAR",
             "feeds": {
@@ -8188,7 +8188,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "PKG",
             "feeds": {
@@ -8206,7 +8206,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "PH",
             "feeds": {
@@ -8224,7 +8224,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "PAYX",
             "feeds": {
@@ -8242,7 +8242,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "PAYC",
             "feeds": {
@@ -8260,7 +8260,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "PYPL",
             "feeds": {
@@ -8278,7 +8278,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "PENN",
             "feeds": {
@@ -8296,7 +8296,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "PNR",
             "feeds": {
@@ -8314,7 +8314,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "PBCT",
             "feeds": {
@@ -8332,7 +8332,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "PEP",
             "feeds": {
@@ -8350,7 +8350,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "PKI",
             "feeds": {
@@ -8368,7 +8368,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "PRGO",
             "feeds": {
@@ -8386,7 +8386,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "PFE",
             "feeds": {
@@ -8404,7 +8404,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "PM",
             "feeds": {
@@ -8422,7 +8422,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "PSX",
             "feeds": {
@@ -8440,7 +8440,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "PNW",
             "feeds": {
@@ -8458,7 +8458,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "PXD",
             "feeds": {
@@ -8476,7 +8476,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "PNC",
             "feeds": {
@@ -8494,7 +8494,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "POOL",
             "feeds": {
@@ -8512,7 +8512,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "PPG",
             "feeds": {
@@ -8530,7 +8530,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "PPL",
             "feeds": {
@@ -8548,7 +8548,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "PFG",
             "feeds": {
@@ -8566,7 +8566,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "PG",
             "feeds": {
@@ -8584,7 +8584,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "PGR",
             "feeds": {
@@ -8602,7 +8602,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "PLD",
             "feeds": {
@@ -8620,7 +8620,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "PRU",
             "feeds": {
@@ -8638,7 +8638,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "PEG",
             "feeds": {
@@ -8656,7 +8656,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "PSA",
             "feeds": {
@@ -8674,7 +8674,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "PHM",
             "feeds": {
@@ -8692,7 +8692,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "PVH",
             "feeds": {
@@ -8710,7 +8710,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "QRVO",
             "feeds": {
@@ -8728,7 +8728,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "PWR",
             "feeds": {
@@ -8746,7 +8746,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "QCOM",
             "feeds": {
@@ -8764,7 +8764,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "DGX",
             "feeds": {
@@ -8782,7 +8782,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "RL",
             "feeds": {
@@ -8800,7 +8800,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "RJF",
             "feeds": {
@@ -8818,7 +8818,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "RTX",
             "feeds": {
@@ -8836,7 +8836,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "O",
             "feeds": {
@@ -8854,7 +8854,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "REG",
             "feeds": {
@@ -8872,7 +8872,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "REGN",
             "feeds": {
@@ -8890,7 +8890,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "RF",
             "feeds": {
@@ -8908,7 +8908,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "RSG",
             "feeds": {
@@ -8926,7 +8926,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "RMD",
             "feeds": {
@@ -8944,7 +8944,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "RHI",
             "feeds": {
@@ -8962,7 +8962,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ROK",
             "feeds": {
@@ -8980,7 +8980,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ROL",
             "feeds": {
@@ -8998,7 +8998,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ROP",
             "feeds": {
@@ -9016,7 +9016,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ROST",
             "feeds": {
@@ -9034,7 +9034,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "RCL",
             "feeds": {
@@ -9052,7 +9052,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "SPGI",
             "feeds": {
@@ -9070,7 +9070,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "CRM",
             "feeds": {
@@ -9088,7 +9088,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "SBAC",
             "feeds": {
@@ -9106,7 +9106,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "SLB",
             "feeds": {
@@ -9124,7 +9124,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "STX",
             "feeds": {
@@ -9142,7 +9142,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "SEE",
             "feeds": {
@@ -9160,7 +9160,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "SRE",
             "feeds": {
@@ -9178,7 +9178,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "NOW",
             "feeds": {
@@ -9196,7 +9196,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "SHW",
             "feeds": {
@@ -9214,7 +9214,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "SPG",
             "feeds": {
@@ -9232,7 +9232,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "SWKS",
             "feeds": {
@@ -9250,7 +9250,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "SNA",
             "feeds": {
@@ -9268,7 +9268,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "SO",
             "feeds": {
@@ -9286,7 +9286,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "LUV",
             "feeds": {
@@ -9304,7 +9304,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "SWK",
             "feeds": {
@@ -9322,7 +9322,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "SBUX",
             "feeds": {
@@ -9340,7 +9340,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "STT",
             "feeds": {
@@ -9358,7 +9358,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "STE",
             "feeds": {
@@ -9376,7 +9376,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "SYK",
             "feeds": {
@@ -9394,7 +9394,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "SIVB",
             "feeds": {
@@ -9412,7 +9412,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "SYF",
             "feeds": {
@@ -9430,7 +9430,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "SNPS",
             "feeds": {
@@ -9448,7 +9448,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "SYY",
             "feeds": {
@@ -9466,7 +9466,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "TMUS",
             "feeds": {
@@ -9484,7 +9484,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "TROW",
             "feeds": {
@@ -9502,7 +9502,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "TTWO",
             "feeds": {
@@ -9520,7 +9520,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "TPR",
             "feeds": {
@@ -9538,7 +9538,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "TGT",
             "feeds": {
@@ -9556,7 +9556,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "TEL",
             "feeds": {
@@ -9574,7 +9574,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "TDY",
             "feeds": {
@@ -9592,7 +9592,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "TFX",
             "feeds": {
@@ -9610,7 +9610,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "TER",
             "feeds": {
@@ -9628,7 +9628,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "TSLA",
             "feeds": {
@@ -9646,7 +9646,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "TXN",
             "feeds": {
@@ -9664,7 +9664,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "TXT",
             "feeds": {
@@ -9682,7 +9682,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "TMO",
             "feeds": {
@@ -9700,7 +9700,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "TJX",
             "feeds": {
@@ -9718,7 +9718,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "TSCO",
             "feeds": {
@@ -9736,7 +9736,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "TT",
             "feeds": {
@@ -9754,7 +9754,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "TDG",
             "feeds": {
@@ -9772,7 +9772,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "TRV",
             "feeds": {
@@ -9790,7 +9790,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "TRMB",
             "feeds": {
@@ -9808,7 +9808,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "TFC",
             "feeds": {
@@ -9826,7 +9826,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "TWTR",
             "feeds": {
@@ -9844,7 +9844,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "TYL",
             "feeds": {
@@ -9862,7 +9862,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "TSN",
             "feeds": {
@@ -9880,7 +9880,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "UDR",
             "feeds": {
@@ -9898,7 +9898,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ULTA",
             "feeds": {
@@ -9916,7 +9916,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "USB",
             "feeds": {
@@ -9934,7 +9934,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "UAA",
             "feeds": {
@@ -9952,7 +9952,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "UA",
             "feeds": {
@@ -9970,7 +9970,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "UNP",
             "feeds": {
@@ -9988,7 +9988,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "UAL",
             "feeds": {
@@ -10006,7 +10006,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "UNH",
             "feeds": {
@@ -10024,7 +10024,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "UPS",
             "feeds": {
@@ -10042,7 +10042,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "URI",
             "feeds": {
@@ -10060,7 +10060,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "UHS",
             "feeds": {
@@ -10078,7 +10078,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "UNM",
             "feeds": {
@@ -10096,7 +10096,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "VLO",
             "feeds": {
@@ -10114,7 +10114,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "VAR",
             "feeds": {
@@ -10132,7 +10132,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "VTR",
             "feeds": {
@@ -10150,7 +10150,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "VRSN",
             "feeds": {
@@ -10168,7 +10168,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "VRSK",
             "feeds": {
@@ -10186,7 +10186,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "VZ",
             "feeds": {
@@ -10204,7 +10204,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "VRTX",
             "feeds": {
@@ -10222,7 +10222,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "VFC",
             "feeds": {
@@ -10240,7 +10240,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "VIAC",
             "feeds": {
@@ -10258,7 +10258,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "VTRS",
             "feeds": {
@@ -10276,7 +10276,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "V",
             "feeds": {
@@ -10294,7 +10294,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "VNO",
             "feeds": {
@@ -10312,7 +10312,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "VMC",
             "feeds": {
@@ -10330,7 +10330,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "WRB",
             "feeds": {
@@ -10348,7 +10348,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "WAB",
             "feeds": {
@@ -10366,7 +10366,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "WMT",
             "feeds": {
@@ -10384,7 +10384,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "WBA",
             "feeds": {
@@ -10402,7 +10402,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "DIS",
             "feeds": {
@@ -10420,7 +10420,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "WM",
             "feeds": {
@@ -10438,7 +10438,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "WAT",
             "feeds": {
@@ -10456,7 +10456,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "WEC",
             "feeds": {
@@ -10474,7 +10474,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "WFC",
             "feeds": {
@@ -10492,7 +10492,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "WELL",
             "feeds": {
@@ -10510,7 +10510,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "WST",
             "feeds": {
@@ -10528,7 +10528,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "WDC",
             "feeds": {
@@ -10546,7 +10546,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "WU",
             "feeds": {
@@ -10564,7 +10564,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "WRK",
             "feeds": {
@@ -10582,7 +10582,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "WY",
             "feeds": {
@@ -10600,7 +10600,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "WHR",
             "feeds": {
@@ -10618,7 +10618,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "WMB",
             "feeds": {
@@ -10636,7 +10636,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "WLTW",
             "feeds": {
@@ -10654,7 +10654,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "WYNN",
             "feeds": {
@@ -10672,7 +10672,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "XEL",
             "feeds": {
@@ -10690,7 +10690,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "XLNX",
             "feeds": {
@@ -10708,7 +10708,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "XYL",
             "feeds": {
@@ -10726,7 +10726,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "YUM",
             "feeds": {
@@ -10744,7 +10744,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ZBRA",
             "feeds": {
@@ -10762,7 +10762,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ZBH",
             "feeds": {
@@ -10780,7 +10780,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ZION",
             "feeds": {
@@ -10798,7 +10798,7 @@
             "market": "SP500",
             "active_type": "stock",
             "active_flag": true,
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": null,
             "tickerKey": "ZTS",
             "feeds": {
@@ -10809,7 +10809,7 @@
         {
             "ticker": "SP500",
             "market": "SP500",
-            "timestamp": "06-04-2021",
+            "timestamp": "17-04-2021",
             "data_update": "-",
             "active_type": "ETF",
             "tickerKey": "^GSPC",

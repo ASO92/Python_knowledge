@@ -35,7 +35,7 @@ def get_wikitable_from_url(wiki_metadata) -> dict:
     wikitable_data.append({'ticker': wiki_metadata['market'] , 
                            'market': wiki_metadata['market'], 
                            'timestamp':today.strftime("%d-%m-%Y"),
-                           'data_update': '-', 
+                           'data_update': None, 
                            'active_type':'ETF'})
     return wikitable_data
 

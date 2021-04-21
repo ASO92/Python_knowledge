@@ -23,10 +23,34 @@
   
 - Cambiar nombre a mayusculas de los paquetes. Hecho
 - Hacer método para actualizar tickers concretos y mercados concretos. Hecho.
+- Cambiar los scripts en el jupyter notebook para que provengan de un único módulo .py (los que se puedan) Hecho
+- Cambiar tickermanager a incluir variables de path. Hecho. Subir cambios a cloud de AppdatabaseModule y ejecutar tests y comprobar que sin errores. Hecho
+- Script main para ejecutar las diferentes funcionalidades. Hecho
+- Cambiar dataHousekeeper a clase herencia. No es necesario.
+- Preguntar a Moji tema de PR. Hecho
+- Hacer clasificador según markets de los tickers descargados (NO LOS ACTIVOS). Hecho
+- Hacer lista de tikcers según markets de los tickers descargados (NO LOS ACTIVOS). Hecho
+- Codigo para leer json y mostrar en pantalla subclasificación de carpetas y tickers. Consultar moji. Hecho
+- Incluir a los índices una data de descarga. HEcho.
+- Conectar el csv con el nombre que le toca abir. -> Era especificar la ruta correctamente, donde estaban alojados los datos. Hecho.
+- PArse tickers load .py libraries. Hecho.
 ----------------------- POR HACER ---------------------
 
 
-- Cambiar tickermanager a incluir variables de path. Hecho. Subir cambios a cloud de AppdatabaseModule y ejecutar tests y comprobar que sin errores.
-- Cambiar dataHousekeeper a clase herencia.
-- Script main para ejecutar las diferentes funcionalidades
-- Cambiar los scripts en el jupyter notebook para que provengan de un único módulo .py (los que se puedan)
+- AL actualizar el tickers_config con tickers nuevos, NO BORRAR EL DATA_UPDATE
+- Cambiar los nombres de los tests 
+- Centralizar la ruta donde se alojan los datos.
+- Añadir sufijo.TT en las shares americanas.
+- Metodo para cambiar tickerkeys de tickers. Pensar en producción.
+
+
+
+
+
+
+
+
+
+
+
+
